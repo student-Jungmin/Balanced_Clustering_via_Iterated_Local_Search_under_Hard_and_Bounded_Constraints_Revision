@@ -1,0 +1,18 @@
+--- a/upstream/other/RandomManager.java
++++ b/upstream/other/RandomManager.java
+@@ -4,8 +4,13 @@
+ 
+ public class RandomManager {
+ 
+-    private static final long SEED = 423152352;
+-    private static final Random r = new Random(SEED);
++    private static final long DEFAULT_SEED = 423152352;
++    private static Random r = new Random(DEFAULT_SEED);
++
++    // Called once per run with that run's seed; without it the fixed seed above is used.
++    public static void setSeed(long seed) {
++        r = new Random(seed);
++    }
+ 
+     /**
+      * Get a Random instance, used for reproducibility

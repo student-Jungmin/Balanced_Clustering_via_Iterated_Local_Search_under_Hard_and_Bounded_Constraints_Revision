@@ -1,0 +1,21 @@
+/bin
+/data
+/tools/prepare/sources/
+__pycache__/
+
+# Baseline code fetched by tools/fetch_baselines.sh; not redistributed here
+/src/baselines/bkmpp/*
+!/src/baselines/bkmpp/main.cpp
+/src/baselines/lima/*
+!/src/baselines/lima/main.cpp
+!/src/baselines/lima/distance.cpp
+!/src/baselines/lima/distance.hpp
+!/src/baselines/lima/interface.cpp
+!/src/baselines/lima/interface.hpp
+/src/baselines/rkm/*
+!/src/baselines/rkm/main.cpp
+/src/baselines/sobmssc/upstream/
+/src/baselines/mabmssc/ma_bmssc_upstream.cpp
+
+# Outputs the table and figure scripts write
+/paper/

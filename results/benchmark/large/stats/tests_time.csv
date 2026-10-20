@@ -1,0 +1,5 @@
+baseline,pairs,datasets_x,ours_better,baseline_better,ties,untied_pairs,zero_pairs,p_method,median_rel_diff,effect_r,statistic,p,p_holm,significant_0.05,datasets_y,ours_wins,baseline_wins
+BKMPP,11,11,11,0,0,11,0,exact,-0.9739400233923482,-1.0,0.0,0.0009765625,0.00390625,True,11,11,0
+RKM,11,11,11,0,0,11,0,exact,-0.9704182548769941,-1.0,0.0,0.0009765625,0.00390625,True,11,11,0
+TBC,11,11,8,3,0,11,0,exact,-0.5121635602128681,-0.6363636363636364,12.0,0.0673828125,0.134765625,False,11,8,3
+TBC_repaired,11,11,8,3,0,11,0,exact,-0.4490357157414741,-0.6363636363636364,12.0,0.0673828125,0.134765625,False,11,8,3

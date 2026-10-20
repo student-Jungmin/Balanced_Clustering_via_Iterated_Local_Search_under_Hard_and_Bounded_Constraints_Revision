@@ -1,0 +1,1761 @@
+dataset	n	d	k	seed	run	part	phase	seconds	calls
+Birch1	100000	2	100	42	0	perturbation	UpdateCentroids	0.090146752999999982	19
+Birch1	100000	2	100	42	0	perturbation	UpdateDistMatrix	0.17400090200000001	19
+Birch1	100000	2	100	42	0	perturbation	RankPreferences	1.0529210929999999	19
+Birch1	100000	2	100	42	0	perturbation	Assign	0.15912906000000002	19
+Birch1	100000	2	100	42	0	perturbation	UpdateClusterRadius	0.0020220470000000003	19
+Birch1	100000	2	100	42	0	local_search	GetClusterPairs	0.0023370430000000013	190
+Birch1	100000	2	100	42	0	local_search	GetProfits	8.8134191960000727	940500
+Birch1	100000	2	100	42	0	local_search	RankProfits	3.6222142769996508	940500
+Birch1	100000	2	100	42	0	local_search	FindSwapCount	0.035906025999898686	940500
+Birch1	100000	2	100	42	0	local_search	Swap	0.034480687000027169	940500
+Birch1	100000	2	100	42	0	local_search	UpdateClusterRadius	0.13466927999999992	171
+Birch1	100000	2	100	42	0	tau_conversion	ReadyForTau	0	0
+Birch1	100000	2	100	42	0	tau_conversion	UpdateDistMatrix	0	0
+Birch1	100000	2	100	42	0	tau_conversion	RankPreferences	0	0
+Birch1	100000	2	100	42	0	tau_conversion	Transfer	0	0
+Birch1	100000	2	100	42	0	other	AcceptAndTerminate	0.0050868249999999997	18
+Birch1	100000	2	100	43	1	perturbation	UpdateCentroids	0.085192669999999998	13
+Birch1	100000	2	100	43	1	perturbation	UpdateDistMatrix	0.11953777399999999	13
+Birch1	100000	2	100	43	1	perturbation	RankPreferences	0.71995252399999998	13
+Birch1	100000	2	100	43	1	perturbation	Assign	0.104968201	13
+Birch1	100000	2	100	43	1	perturbation	UpdateClusterRadius	0.0014225819999999999	13
+Birch1	100000	2	100	43	1	local_search	GetClusterPairs	0.0011240740000000001	91
+Birch1	100000	2	100	43	1	local_search	GetProfits	4.1512177360000857	450450
+Birch1	100000	2	100	43	1	local_search	RankProfits	1.744772903999938	450450
+Birch1	100000	2	100	43	1	local_search	FindSwapCount	0.017043986999938057	450450
+Birch1	100000	2	100	43	1	local_search	Swap	0.016298637999940017	450450
+Birch1	100000	2	100	43	1	local_search	UpdateClusterRadius	0.060987147000000005	78
+Birch1	100000	2	100	43	1	tau_conversion	ReadyForTau	0	0
+Birch1	100000	2	100	43	1	tau_conversion	UpdateDistMatrix	0	0
+Birch1	100000	2	100	43	1	tau_conversion	RankPreferences	0	0
+Birch1	100000	2	100	43	1	tau_conversion	Transfer	0	0
+Birch1	100000	2	100	43	1	other	AcceptAndTerminate	0.003438127	12
+Birch1	100000	2	100	44	2	perturbation	UpdateCentroids	0.092042223999999992	21
+Birch1	100000	2	100	44	2	perturbation	UpdateDistMatrix	0.19496101399999993	21
+Birch1	100000	2	100	44	2	perturbation	RankPreferences	1.1509789079999999	21
+Birch1	100000	2	100	44	2	perturbation	Assign	0.19751362799999994	21
+Birch1	100000	2	100	44	2	perturbation	UpdateClusterRadius	0.0021725390000000002	21
+Birch1	100000	2	100	44	2	local_search	GetClusterPairs	0.0028491330000000002	231
+Birch1	100000	2	100	44	2	local_search	GetProfits	10.911497162000328	1143450
+Birch1	100000	2	100	44	2	local_search	RankProfits	4.4437017380000858	1143450
+Birch1	100000	2	100	44	2	local_search	FindSwapCount	0.043358104999760713	1143450
+Birch1	100000	2	100	44	2	local_search	Swap	0.04225372599981457	1143450
+Birch1	100000	2	100	44	2	local_search	UpdateClusterRadius	0.16786126200000001	210
+Birch1	100000	2	100	44	2	tau_conversion	ReadyForTau	0	0
+Birch1	100000	2	100	44	2	tau_conversion	UpdateDistMatrix	0	0
+Birch1	100000	2	100	44	2	tau_conversion	RankPreferences	0	0
+Birch1	100000	2	100	44	2	tau_conversion	Transfer	0	0
+Birch1	100000	2	100	44	2	other	AcceptAndTerminate	0.0058624210000000005	20
+Birch1	100000	2	100	45	3	perturbation	UpdateCentroids	0.088101613000000037	18
+Birch1	100000	2	100	45	3	perturbation	UpdateDistMatrix	0.16752030099999998	18
+Birch1	100000	2	100	45	3	perturbation	RankPreferences	1.012318273	18
+Birch1	100000	2	100	45	3	perturbation	Assign	0.16937176200000001	18
+Birch1	100000	2	100	45	3	perturbation	UpdateClusterRadius	0.0020407899999999998	18
+Birch1	100000	2	100	45	3	local_search	GetClusterPairs	0.0020971020000000017	171
+Birch1	100000	2	100	45	3	local_search	GetProfits	8.0349999200003488	846450
+Birch1	100000	2	100	45	3	local_search	RankProfits	3.3295226679995693	846450
+Birch1	100000	2	100	45	3	local_search	FindSwapCount	0.032245543999968117	846450
+Birch1	100000	2	100	45	3	local_search	Swap	0.031599068000113993	846450
+Birch1	100000	2	100	45	3	local_search	UpdateClusterRadius	0.12089623600000002	153
+Birch1	100000	2	100	45	3	tau_conversion	ReadyForTau	0	0
+Birch1	100000	2	100	45	3	tau_conversion	UpdateDistMatrix	0	0
+Birch1	100000	2	100	45	3	tau_conversion	RankPreferences	0	0
+Birch1	100000	2	100	45	3	tau_conversion	Transfer	0	0
+Birch1	100000	2	100	45	3	other	AcceptAndTerminate	0.0048759670000000001	17
+Birch1	100000	2	100	46	4	perturbation	UpdateCentroids	0.085385861000000021	14
+Birch1	100000	2	100	46	4	perturbation	UpdateDistMatrix	0.128993894	14
+Birch1	100000	2	100	46	4	perturbation	RankPreferences	0.79535382499999996	14
+Birch1	100000	2	100	46	4	perturbation	Assign	0.11634982699999999	14
+Birch1	100000	2	100	46	4	perturbation	UpdateClusterRadius	0.0014689190000000002	14
+Birch1	100000	2	100	46	4	local_search	GetClusterPairs	0.001290275	105
+Birch1	100000	2	100	46	4	local_search	GetProfits	4.8810986330002173	519750
+Birch1	100000	2	100	46	4	local_search	RankProfits	1.9929779299998907	519750
+Birch1	100000	2	100	46	4	local_search	FindSwapCount	0.01972471199994736	519750
+Birch1	100000	2	100	46	4	local_search	Swap	0.018845070999972895	519750
+Birch1	100000	2	100	46	4	local_search	UpdateClusterRadius	0.072283877999999982	91
+Birch1	100000	2	100	46	4	tau_conversion	ReadyForTau	0	0
+Birch1	100000	2	100	46	4	tau_conversion	UpdateDistMatrix	0	0
+Birch1	100000	2	100	46	4	tau_conversion	RankPreferences	0	0
+Birch1	100000	2	100	46	4	tau_conversion	Transfer	0	0
+Birch1	100000	2	100	46	4	other	AcceptAndTerminate	0.0037975220000000002	13
+Birch1	100000	2	100	47	5	perturbation	UpdateCentroids	0.085915845999999962	15
+Birch1	100000	2	100	47	5	perturbation	UpdateDistMatrix	0.13804735000000001	15
+Birch1	100000	2	100	47	5	perturbation	RankPreferences	0.82849051700000009	15
+Birch1	100000	2	100	47	5	perturbation	Assign	0.132250912	15
+Birch1	100000	2	100	47	5	perturbation	UpdateClusterRadius	0.0015931310000000002	15
+Birch1	100000	2	100	47	5	local_search	GetClusterPairs	0.0014724870000000004	120
+Birch1	100000	2	100	47	5	local_search	GetProfits	5.6569611889998246	594000
+Birch1	100000	2	100	47	5	local_search	RankProfits	2.3275000459997854	594000
+Birch1	100000	2	100	47	5	local_search	FindSwapCount	0.022618976999958625	594000
+Birch1	100000	2	100	47	5	local_search	Swap	0.021841103000009025	594000
+Birch1	100000	2	100	47	5	local_search	UpdateClusterRadius	0.084050605000000014	105
+Birch1	100000	2	100	47	5	tau_conversion	ReadyForTau	0	0
+Birch1	100000	2	100	47	5	tau_conversion	UpdateDistMatrix	0	0
+Birch1	100000	2	100	47	5	tau_conversion	RankPreferences	0	0
+Birch1	100000	2	100	47	5	tau_conversion	Transfer	0	0
+Birch1	100000	2	100	47	5	other	AcceptAndTerminate	0.0043075470000000001	14
+Birch1	100000	2	100	48	6	perturbation	UpdateCentroids	0.087062719999999982	16
+Birch1	100000	2	100	48	6	perturbation	UpdateDistMatrix	0.14811682000000001	16
+Birch1	100000	2	100	48	6	perturbation	RankPreferences	0.87583492800000007	16
+Birch1	100000	2	100	48	6	perturbation	Assign	0.13507438000000002	16
+Birch1	100000	2	100	48	6	perturbation	UpdateClusterRadius	0.0016779620000000003	16
+Birch1	100000	2	100	48	6	local_search	GetClusterPairs	0.0016843670000000002	136
+Birch1	100000	2	100	48	6	local_search	GetProfits	6.4564300310002603	673200
+Birch1	100000	2	100	48	6	local_search	RankProfits	2.6347691279997263	673200
+Birch1	100000	2	100	48	6	local_search	FindSwapCount	0.025967931999970981	673200
+Birch1	100000	2	100	48	6	local_search	Swap	0.024639338000044801	673200
+Birch1	100000	2	100	48	6	local_search	UpdateClusterRadius	0.096383419000000012	120
+Birch1	100000	2	100	48	6	tau_conversion	ReadyForTau	0	0
+Birch1	100000	2	100	48	6	tau_conversion	UpdateDistMatrix	0	0
+Birch1	100000	2	100	48	6	tau_conversion	RankPreferences	0	0
+Birch1	100000	2	100	48	6	tau_conversion	Transfer	0	0
+Birch1	100000	2	100	48	6	other	AcceptAndTerminate	0.004437412	15
+Birch1	100000	2	100	49	7	perturbation	UpdateCentroids	0.085985790000000006	16
+Birch1	100000	2	100	49	7	perturbation	UpdateDistMatrix	0.14720550699999999	16
+Birch1	100000	2	100	49	7	perturbation	RankPreferences	0.90289492800000026	16
+Birch1	100000	2	100	49	7	perturbation	Assign	0.14713188999999999	16
+Birch1	100000	2	100	49	7	perturbation	UpdateClusterRadius	0.0016725779999999999	16
+Birch1	100000	2	100	49	7	local_search	GetClusterPairs	0.0016769320000000001	136
+Birch1	100000	2	100	49	7	local_search	GetProfits	6.2383465090000128	673200
+Birch1	100000	2	100	49	7	local_search	RankProfits	2.631112033999699	673200
+Birch1	100000	2	100	49	7	local_search	FindSwapCount	0.02549609199996692	673200
+Birch1	100000	2	100	49	7	local_search	Swap	0.024459955000042739	673200
+Birch1	100000	2	100	49	7	local_search	UpdateClusterRadius	0.093630872000000004	120
+Birch1	100000	2	100	49	7	tau_conversion	ReadyForTau	0	0
+Birch1	100000	2	100	49	7	tau_conversion	UpdateDistMatrix	0	0
+Birch1	100000	2	100	49	7	tau_conversion	RankPreferences	0	0
+Birch1	100000	2	100	49	7	tau_conversion	Transfer	0	0
+Birch1	100000	2	100	49	7	other	AcceptAndTerminate	0.0043378150000000001	15
+Birch1	100000	2	100	50	8	perturbation	UpdateCentroids	0.089818616000000018	21
+Birch1	100000	2	100	50	8	perturbation	UpdateDistMatrix	0.19304878200000003	21
+Birch1	100000	2	100	50	8	perturbation	RankPreferences	1.1555999259999998	21
+Birch1	100000	2	100	50	8	perturbation	Assign	0.167457514	21
+Birch1	100000	2	100	50	8	perturbation	UpdateClusterRadius	0.0023492390000000004	21
+Birch1	100000	2	100	50	8	local_search	GetClusterPairs	0.0028307520000000032	231
+Birch1	100000	2	100	50	8	local_search	GetProfits	10.408760922000269	1143450
+Birch1	100000	2	100	50	8	local_search	RankProfits	4.3545281170000791	1143450
+Birch1	100000	2	100	50	8	local_search	FindSwapCount	0.043262583999762752	1143450
+Birch1	100000	2	100	50	8	local_search	Swap	0.041761696999815863	1143450
+Birch1	100000	2	100	50	8	local_search	UpdateClusterRadius	0.159455185	210
+Birch1	100000	2	100	50	8	tau_conversion	ReadyForTau	0	0
+Birch1	100000	2	100	50	8	tau_conversion	UpdateDistMatrix	0	0
+Birch1	100000	2	100	50	8	tau_conversion	RankPreferences	0	0
+Birch1	100000	2	100	50	8	tau_conversion	Transfer	0	0
+Birch1	100000	2	100	50	8	other	AcceptAndTerminate	0.0056820529999999994	20
+Birch1	100000	2	100	51	9	perturbation	UpdateCentroids	0.085560470999999971	15
+Birch1	100000	2	100	51	9	perturbation	UpdateDistMatrix	0.13775627800000001	15
+Birch1	100000	2	100	51	9	perturbation	RankPreferences	0.82608431300000007	15
+Birch1	100000	2	100	51	9	perturbation	Assign	0.12234875100000002	15
+Birch1	100000	2	100	51	9	perturbation	UpdateClusterRadius	0.001579097	15
+Birch1	100000	2	100	51	9	local_search	GetClusterPairs	0.0014686379999999998	120
+Birch1	100000	2	100	51	9	local_search	GetProfits	5.4642915269999435	594000
+Birch1	100000	2	100	51	9	local_search	RankProfits	2.2961438849997564	594000
+Birch1	100000	2	100	51	9	local_search	FindSwapCount	0.022549423999957383	594000
+Birch1	100000	2	100	51	9	local_search	Swap	0.021944830000017623	594000
+Birch1	100000	2	100	51	9	local_search	UpdateClusterRadius	0.080512688000000013	105
+Birch1	100000	2	100	51	9	tau_conversion	ReadyForTau	0	0
+Birch1	100000	2	100	51	9	tau_conversion	UpdateDistMatrix	0	0
+Birch1	100000	2	100	51	9	tau_conversion	RankPreferences	0	0
+Birch1	100000	2	100	51	9	tau_conversion	Transfer	0	0
+Birch1	100000	2	100	51	9	other	AcceptAndTerminate	0.0039937810000000001	14
+Birch2	100000	2	100	42	0	perturbation	UpdateCentroids	0.078337745	8
+Birch2	100000	2	100	42	0	perturbation	UpdateDistMatrix	0.076009265000000006	8
+Birch2	100000	2	100	42	0	perturbation	RankPreferences	0.329350702	8
+Birch2	100000	2	100	42	0	perturbation	Assign	0.041251054000000002	8
+Birch2	100000	2	100	42	0	perturbation	UpdateClusterRadius	0.0059105320000000005	8
+Birch2	100000	2	100	42	0	local_search	GetClusterPairs	0.00044153900000000002	36
+Birch2	100000	2	100	42	0	local_search	GetProfits	2.1409892340000121	178200
+Birch2	100000	2	100	42	0	local_search	RankProfits	0.70357129100001137	178200
+Birch2	100000	2	100	42	0	local_search	FindSwapCount	0.0067015299999918145	178200
+Birch2	100000	2	100	42	0	local_search	Swap	0.0066906949999903445	178200
+Birch2	100000	2	100	42	0	local_search	UpdateClusterRadius	0.023611153999999999	28
+Birch2	100000	2	100	42	0	tau_conversion	ReadyForTau	0	0
+Birch2	100000	2	100	42	0	tau_conversion	UpdateDistMatrix	0	0
+Birch2	100000	2	100	42	0	tau_conversion	RankPreferences	0	0
+Birch2	100000	2	100	42	0	tau_conversion	Transfer	0	0
+Birch2	100000	2	100	42	0	other	AcceptAndTerminate	0.0022088389999999998	7
+Birch2	100000	2	100	43	1	perturbation	UpdateCentroids	0.075968196999999973	6
+Birch2	100000	2	100	43	1	perturbation	UpdateDistMatrix	0.057273945999999999	6
+Birch2	100000	2	100	43	1	perturbation	RankPreferences	0.24648653700000001	6
+Birch2	100000	2	100	43	1	perturbation	Assign	0.029028858999999997	6
+Birch2	100000	2	100	43	1	perturbation	UpdateClusterRadius	0.004191462	6
+Birch2	100000	2	100	43	1	local_search	GetClusterPairs	0.00026136099999999999	21
+Birch2	100000	2	100	43	1	local_search	GetProfits	1.1575871119999752	103950
+Birch2	100000	2	100	43	1	local_search	RankProfits	0.41143005300000013	103950
+Birch2	100000	2	100	43	1	local_search	FindSwapCount	0.0039556190000049705	103950
+Birch2	100000	2	100	43	1	local_search	Swap	0.0038476480000020816	103950
+Birch2	100000	2	100	43	1	local_search	UpdateClusterRadius	0.012433823	15
+Birch2	100000	2	100	43	1	tau_conversion	ReadyForTau	0	0
+Birch2	100000	2	100	43	1	tau_conversion	UpdateDistMatrix	0	0
+Birch2	100000	2	100	43	1	tau_conversion	RankPreferences	0	0
+Birch2	100000	2	100	43	1	tau_conversion	Transfer	0	0
+Birch2	100000	2	100	43	1	other	AcceptAndTerminate	0.0015642870000000001	5
+Birch2	100000	2	100	44	2	perturbation	UpdateCentroids	0.075349273999999994	6
+Birch2	100000	2	100	44	2	perturbation	UpdateDistMatrix	0.055982920999999998	6
+Birch2	100000	2	100	44	2	perturbation	RankPreferences	0.24728910300000001	6
+Birch2	100000	2	100	44	2	perturbation	Assign	0.032328917999999998	6
+Birch2	100000	2	100	44	2	perturbation	UpdateClusterRadius	0.0040567700000000003	6
+Birch2	100000	2	100	44	2	local_search	GetClusterPairs	0.00026354099999999995	21
+Birch2	100000	2	100	44	2	local_search	GetProfits	1.267674896000019	103950
+Birch2	100000	2	100	44	2	local_search	RankProfits	0.4582803520000065	103950
+Birch2	100000	2	100	44	2	local_search	FindSwapCount	0.0039344750000050391	103950
+Birch2	100000	2	100	44	2	local_search	Swap	0.0041081480000014266	103950
+Birch2	100000	2	100	44	2	local_search	UpdateClusterRadius	0.013047737	15
+Birch2	100000	2	100	44	2	tau_conversion	ReadyForTau	0	0
+Birch2	100000	2	100	44	2	tau_conversion	UpdateDistMatrix	0	0
+Birch2	100000	2	100	44	2	tau_conversion	RankPreferences	0	0
+Birch2	100000	2	100	44	2	tau_conversion	Transfer	0	0
+Birch2	100000	2	100	44	2	other	AcceptAndTerminate	0.0015126000000000002	5
+Birch2	100000	2	100	45	3	perturbation	UpdateCentroids	0.073744940000000009	5
+Birch2	100000	2	100	45	3	perturbation	UpdateDistMatrix	0.046503125999999992	5
+Birch2	100000	2	100	45	3	perturbation	RankPreferences	0.198598097	5
+Birch2	100000	2	100	45	3	perturbation	Assign	0.024408632	5
+Birch2	100000	2	100	45	3	perturbation	UpdateClusterRadius	0.0035251530000000001	5
+Birch2	100000	2	100	45	3	local_search	GetClusterPairs	0.00018528099999999998	15
+Birch2	100000	2	100	45	3	local_search	GetProfits	0.84601780099999868	74250
+Birch2	100000	2	100	45	3	local_search	RankProfits	0.29892415900000247	74250
+Birch2	100000	2	100	45	3	local_search	FindSwapCount	0.0028065990000020894	74250
+Birch2	100000	2	100	45	3	local_search	Swap	0.0028030240000009327	74250
+Birch2	100000	2	100	45	3	local_search	UpdateClusterRadius	0.008296721	10
+Birch2	100000	2	100	45	3	tau_conversion	ReadyForTau	0	0
+Birch2	100000	2	100	45	3	tau_conversion	UpdateDistMatrix	0	0
+Birch2	100000	2	100	45	3	tau_conversion	RankPreferences	0	0
+Birch2	100000	2	100	45	3	tau_conversion	Transfer	0	0
+Birch2	100000	2	100	45	3	other	AcceptAndTerminate	0.0012104240000000001	4
+Birch2	100000	2	100	46	4	perturbation	UpdateCentroids	0.074113913000000003	5
+Birch2	100000	2	100	46	4	perturbation	UpdateDistMatrix	0.047106941999999999	5
+Birch2	100000	2	100	46	4	perturbation	RankPreferences	0.20367742599999999	5
+Birch2	100000	2	100	46	4	perturbation	Assign	0.023724316999999998	5
+Birch2	100000	2	100	46	4	perturbation	UpdateClusterRadius	0.0035497969999999999	5
+Birch2	100000	2	100	46	4	local_search	GetClusterPairs	0.00018573099999999996	15
+Birch2	100000	2	100	46	4	local_search	GetProfits	0.85518944499999217	74250
+Birch2	100000	2	100	46	4	local_search	RankProfits	0.300713214000002	74250
+Birch2	100000	2	100	46	4	local_search	FindSwapCount	0.0028026420000020311	74250
+Birch2	100000	2	100	46	4	local_search	Swap	0.002790182000001033	74250
+Birch2	100000	2	100	46	4	local_search	UpdateClusterRadius	0.0086287059999999999	10
+Birch2	100000	2	100	46	4	tau_conversion	ReadyForTau	0	0
+Birch2	100000	2	100	46	4	tau_conversion	UpdateDistMatrix	0	0
+Birch2	100000	2	100	46	4	tau_conversion	RankPreferences	0	0
+Birch2	100000	2	100	46	4	tau_conversion	Transfer	0	0
+Birch2	100000	2	100	46	4	other	AcceptAndTerminate	0.0013089080000000001	4
+Birch2	100000	2	100	47	5	perturbation	UpdateCentroids	0.076112256000000003	7
+Birch2	100000	2	100	47	5	perturbation	UpdateDistMatrix	0.064717637000000008	7
+Birch2	100000	2	100	47	5	perturbation	RankPreferences	0.28470994399999999	7
+Birch2	100000	2	100	47	5	perturbation	Assign	0.04428878	7
+Birch2	100000	2	100	47	5	perturbation	UpdateClusterRadius	0.0048318539999999991	7
+Birch2	100000	2	100	47	5	local_search	GetClusterPairs	0.00034145700000000003	28
+Birch2	100000	2	100	47	5	local_search	GetProfits	1.5226048200000089	138600
+Birch2	100000	2	100	47	5	local_search	RankProfits	0.58976101500000744	138600
+Birch2	100000	2	100	47	5	local_search	FindSwapCount	0.0052827529999987825	138600
+Birch2	100000	2	100	47	5	local_search	Swap	0.0053235599999960689	138600
+Birch2	100000	2	100	47	5	local_search	UpdateClusterRadius	0.017373512000000004	21
+Birch2	100000	2	100	47	5	tau_conversion	ReadyForTau	0	0
+Birch2	100000	2	100	47	5	tau_conversion	UpdateDistMatrix	0	0
+Birch2	100000	2	100	47	5	tau_conversion	RankPreferences	0	0
+Birch2	100000	2	100	47	5	tau_conversion	Transfer	0	0
+Birch2	100000	2	100	47	5	other	AcceptAndTerminate	0.0018255580000000001	6
+Birch2	100000	2	100	48	6	perturbation	UpdateCentroids	0.075382778000000011	7
+Birch2	100000	2	100	48	6	perturbation	UpdateDistMatrix	0.06522435800000001	7
+Birch2	100000	2	100	48	6	perturbation	RankPreferences	0.27439802600000002	7
+Birch2	100000	2	100	48	6	perturbation	Assign	0.045688067999999998	7
+Birch2	100000	2	100	48	6	perturbation	UpdateClusterRadius	0.004801418	7
+Birch2	100000	2	100	48	6	local_search	GetClusterPairs	0.00034330299999999994	28
+Birch2	100000	2	100	48	6	local_search	GetProfits	1.605120121999988	138600
+Birch2	100000	2	100	48	6	local_search	RankProfits	0.57476823800000243	138600
+Birch2	100000	2	100	48	6	local_search	FindSwapCount	0.0052407319999988331	138600
+Birch2	100000	2	100	48	6	local_search	Swap	0.0054172889999956125	138600
+Birch2	100000	2	100	48	6	local_search	UpdateClusterRadius	0.018023883000000001	21
+Birch2	100000	2	100	48	6	tau_conversion	ReadyForTau	0	0
+Birch2	100000	2	100	48	6	tau_conversion	UpdateDistMatrix	0	0
+Birch2	100000	2	100	48	6	tau_conversion	RankPreferences	0	0
+Birch2	100000	2	100	48	6	tau_conversion	Transfer	0	0
+Birch2	100000	2	100	48	6	other	AcceptAndTerminate	0.0017755450000000003	6
+Birch2	100000	2	100	49	7	perturbation	UpdateCentroids	0.075540513999999989	7
+Birch2	100000	2	100	49	7	perturbation	UpdateDistMatrix	0.064883727000000002	7
+Birch2	100000	2	100	49	7	perturbation	RankPreferences	0.29067053000000004	7
+Birch2	100000	2	100	49	7	perturbation	Assign	0.036847122999999996	7
+Birch2	100000	2	100	49	7	perturbation	UpdateClusterRadius	0.0049041399999999995	7
+Birch2	100000	2	100	49	7	local_search	GetClusterPairs	0.00034765299999999996	28
+Birch2	100000	2	100	49	7	local_search	GetProfits	1.5421467300000278	138600
+Birch2	100000	2	100	49	7	local_search	RankProfits	0.55127247400001267	138600
+Birch2	100000	2	100	49	7	local_search	FindSwapCount	0.0052476369999988831	138600
+Birch2	100000	2	100	49	7	local_search	Swap	0.0051067079999969553	138600
+Birch2	100000	2	100	49	7	local_search	UpdateClusterRadius	0.017504344999999998	21
+Birch2	100000	2	100	49	7	tau_conversion	ReadyForTau	0	0
+Birch2	100000	2	100	49	7	tau_conversion	UpdateDistMatrix	0	0
+Birch2	100000	2	100	49	7	tau_conversion	RankPreferences	0	0
+Birch2	100000	2	100	49	7	tau_conversion	Transfer	0	0
+Birch2	100000	2	100	49	7	other	AcceptAndTerminate	0.0018545219999999999	6
+Birch2	100000	2	100	50	8	perturbation	UpdateCentroids	0.075273511999999987	6
+Birch2	100000	2	100	50	8	perturbation	UpdateDistMatrix	0.055629717999999995	6
+Birch2	100000	2	100	50	8	perturbation	RankPreferences	0.24275850399999999	6
+Birch2	100000	2	100	50	8	perturbation	Assign	0.029029351999999998	6
+Birch2	100000	2	100	50	8	perturbation	UpdateClusterRadius	0.0043998509999999998	6
+Birch2	100000	2	100	50	8	local_search	GetClusterPairs	0.00025591100000000005	21
+Birch2	100000	2	100	50	8	local_search	GetProfits	1.0811576490000168	103950
+Birch2	100000	2	100	50	8	local_search	RankProfits	0.4012949799999978	103950
+Birch2	100000	2	100	50	8	local_search	FindSwapCount	0.00398442100000469	103950
+Birch2	100000	2	100	50	8	local_search	Swap	0.0038007660000020892	103950
+Birch2	100000	2	100	50	8	local_search	UpdateClusterRadius	0.012210385000000001	15
+Birch2	100000	2	100	50	8	tau_conversion	ReadyForTau	0	0
+Birch2	100000	2	100	50	8	tau_conversion	UpdateDistMatrix	0	0
+Birch2	100000	2	100	50	8	tau_conversion	RankPreferences	0	0
+Birch2	100000	2	100	50	8	tau_conversion	Transfer	0	0
+Birch2	100000	2	100	50	8	other	AcceptAndTerminate	0.0014943080000000002	5
+Birch2	100000	2	100	51	9	perturbation	UpdateCentroids	0.073819689000000008	5
+Birch2	100000	2	100	51	9	perturbation	UpdateDistMatrix	0.046465677999999996	5
+Birch2	100000	2	100	51	9	perturbation	RankPreferences	0.20417930000000001	5
+Birch2	100000	2	100	51	9	perturbation	Assign	0.026766669999999999	5
+Birch2	100000	2	100	51	9	perturbation	UpdateClusterRadius	0.003403994	5
+Birch2	100000	2	100	51	9	local_search	GetClusterPairs	0.00019265099999999998	15
+Birch2	100000	2	100	51	9	local_search	GetProfits	0.77347414300000727	74250
+Birch2	100000	2	100	51	9	local_search	RankProfits	0.30234796000000425	74250
+Birch2	100000	2	100	51	9	local_search	FindSwapCount	0.0028044150000021135	74250
+Birch2	100000	2	100	51	9	local_search	Swap	0.0027747200000009576	74250
+Birch2	100000	2	100	51	9	local_search	UpdateClusterRadius	0.0078839059999999996	10
+Birch2	100000	2	100	51	9	tau_conversion	ReadyForTau	0	0
+Birch2	100000	2	100	51	9	tau_conversion	UpdateDistMatrix	0	0
+Birch2	100000	2	100	51	9	tau_conversion	RankPreferences	0	0
+Birch2	100000	2	100	51	9	tau_conversion	Transfer	0	0
+Birch2	100000	2	100	51	9	other	AcceptAndTerminate	0.0011764189999999999	4
+ConfLongDemo	164860	3	11	42	0	perturbation	UpdateCentroids	0.038303479000000001	20
+ConfLongDemo	164860	3	11	42	0	perturbation	UpdateDistMatrix	0.061063804000000006	20
+ConfLongDemo	164860	3	11	42	0	perturbation	RankPreferences	0.41638239599999999	20
+ConfLongDemo	164860	3	11	42	0	perturbation	Assign	0.17587385199999997	20
+ConfLongDemo	164860	3	11	42	0	perturbation	UpdateClusterRadius	0.0062239089999999988	20
+ConfLongDemo	164860	3	11	42	0	local_search	GetClusterPairs	6.2133999999999998e-05	210
+ConfLongDemo	164860	3	11	42	0	local_search	GetProfits	1.5439794640000051	11550
+ConfLongDemo	164860	3	11	42	0	local_search	RankProfits	1.2556765320000014	11550
+ConfLongDemo	164860	3	11	42	0	local_search	FindSwapCount	0.00076066900000000255	11550
+ConfLongDemo	164860	3	11	42	0	local_search	Swap	0.0020181050000000213	11550
+ConfLongDemo	164860	3	11	42	0	local_search	UpdateClusterRadius	0.18075479300000011	190
+ConfLongDemo	164860	3	11	42	0	tau_conversion	ReadyForTau	0	0
+ConfLongDemo	164860	3	11	42	0	tau_conversion	UpdateDistMatrix	0	0
+ConfLongDemo	164860	3	11	42	0	tau_conversion	RankPreferences	0	0
+ConfLongDemo	164860	3	11	42	0	tau_conversion	Transfer	0	0
+ConfLongDemo	164860	3	11	42	0	other	AcceptAndTerminate	0.0085400719999999992	19
+ConfLongDemo	164860	3	11	43	1	perturbation	UpdateCentroids	0.030628302999999996	13
+ConfLongDemo	164860	3	11	43	1	perturbation	UpdateDistMatrix	0.039627201999999993	13
+ConfLongDemo	164860	3	11	43	1	perturbation	RankPreferences	0.25630593899999998	13
+ConfLongDemo	164860	3	11	43	1	perturbation	Assign	0.130106795	13
+ConfLongDemo	164860	3	11	43	1	perturbation	UpdateClusterRadius	0.0042460549999999994	13
+ConfLongDemo	164860	3	11	43	1	local_search	GetClusterPairs	4.3190000000000005e-05	91
+ConfLongDemo	164860	3	11	43	1	local_search	GetProfits	0.72277468399999967	5005
+ConfLongDemo	164860	3	11	43	1	local_search	RankProfits	0.62476074100000045	5005
+ConfLongDemo	164860	3	11	43	1	local_search	FindSwapCount	0.00028555999999999948	5005
+ConfLongDemo	164860	3	11	43	1	local_search	Swap	0.0010739889999999948	5005
+ConfLongDemo	164860	3	11	43	1	local_search	UpdateClusterRadius	0.080314708999999956	78
+ConfLongDemo	164860	3	11	43	1	tau_conversion	ReadyForTau	0	0
+ConfLongDemo	164860	3	11	43	1	tau_conversion	UpdateDistMatrix	0	0
+ConfLongDemo	164860	3	11	43	1	tau_conversion	RankPreferences	0	0
+ConfLongDemo	164860	3	11	43	1	tau_conversion	Transfer	0	0
+ConfLongDemo	164860	3	11	43	1	other	AcceptAndTerminate	0.0055216899999999992	12
+ConfLongDemo	164860	3	11	44	2	perturbation	UpdateCentroids	0.025947961000000002	9
+ConfLongDemo	164860	3	11	44	2	perturbation	UpdateDistMatrix	0.027464113000000002	9
+ConfLongDemo	164860	3	11	44	2	perturbation	RankPreferences	0.18234124699999998	9
+ConfLongDemo	164860	3	11	44	2	perturbation	Assign	0.088018756000000004	9
+ConfLongDemo	164860	3	11	44	2	perturbation	UpdateClusterRadius	0.0029445079999999998	9
+ConfLongDemo	164860	3	11	44	2	local_search	GetClusterPairs	2.1855000000000003e-05	45
+ConfLongDemo	164860	3	11	44	2	local_search	GetProfits	0.36763816299999991	2475
+ConfLongDemo	164860	3	11	44	2	local_search	RankProfits	0.48406703600000023	2475
+ConfLongDemo	164860	3	11	44	2	local_search	FindSwapCount	0.000187379000000002	2475
+ConfLongDemo	164860	3	11	44	2	local_search	Swap	0.00080733799999999371	2475
+ConfLongDemo	164860	3	11	44	2	local_search	UpdateClusterRadius	0.038384659000000008	36
+ConfLongDemo	164860	3	11	44	2	tau_conversion	ReadyForTau	0	0
+ConfLongDemo	164860	3	11	44	2	tau_conversion	UpdateDistMatrix	0	0
+ConfLongDemo	164860	3	11	44	2	tau_conversion	RankPreferences	0	0
+ConfLongDemo	164860	3	11	44	2	tau_conversion	Transfer	0	0
+ConfLongDemo	164860	3	11	44	2	other	AcceptAndTerminate	0.0037656620000000003	8
+ConfLongDemo	164860	3	11	45	3	perturbation	UpdateCentroids	0.038286667000000003	20
+ConfLongDemo	164860	3	11	45	3	perturbation	UpdateDistMatrix	0.061258140999999995	20
+ConfLongDemo	164860	3	11	45	3	perturbation	RankPreferences	0.42229659100000011	20
+ConfLongDemo	164860	3	11	45	3	perturbation	Assign	0.18466283800000002	20
+ConfLongDemo	164860	3	11	45	3	perturbation	UpdateClusterRadius	0.0064214399999999996	20
+ConfLongDemo	164860	3	11	45	3	local_search	GetClusterPairs	0.00010057800000000004	210
+ConfLongDemo	164860	3	11	45	3	local_search	GetProfits	1.6598798929999992	11550
+ConfLongDemo	164860	3	11	45	3	local_search	RankProfits	1.3375261980000026	11550
+ConfLongDemo	164860	3	11	45	3	local_search	FindSwapCount	0.00076541699999997529	11550
+ConfLongDemo	164860	3	11	45	3	local_search	Swap	0.0021924460000000362	11550
+ConfLongDemo	164860	3	11	45	3	local_search	UpdateClusterRadius	0.2018437020000001	190
+ConfLongDemo	164860	3	11	45	3	tau_conversion	ReadyForTau	0	0
+ConfLongDemo	164860	3	11	45	3	tau_conversion	UpdateDistMatrix	0	0
+ConfLongDemo	164860	3	11	45	3	tau_conversion	RankPreferences	0	0
+ConfLongDemo	164860	3	11	45	3	tau_conversion	Transfer	0	0
+ConfLongDemo	164860	3	11	45	3	other	AcceptAndTerminate	0.0086507880000000013	19
+ConfLongDemo	164860	3	11	46	4	perturbation	UpdateCentroids	0.032343598000000008	14
+ConfLongDemo	164860	3	11	46	4	perturbation	UpdateDistMatrix	0.042747410999999992	14
+ConfLongDemo	164860	3	11	46	4	perturbation	RankPreferences	0.30271855799999997	14
+ConfLongDemo	164860	3	11	46	4	perturbation	Assign	0.121602001	14
+ConfLongDemo	164860	3	11	46	4	perturbation	UpdateClusterRadius	0.0045439830000000006	14
+ConfLongDemo	164860	3	11	46	4	local_search	GetClusterPairs	4.0173999999999985e-05	105
+ConfLongDemo	164860	3	11	46	4	local_search	GetProfits	0.83765392099999714	5775
+ConfLongDemo	164860	3	11	46	4	local_search	RankProfits	0.77786270599999774	5775
+ConfLongDemo	164860	3	11	46	4	local_search	FindSwapCount	0.00039454099999999549	5775
+ConfLongDemo	164860	3	11	46	4	local_search	Swap	0.0012719529999999893	5775
+ConfLongDemo	164860	3	11	46	4	local_search	UpdateClusterRadius	0.10075831499999999	91
+ConfLongDemo	164860	3	11	46	4	tau_conversion	ReadyForTau	0	0
+ConfLongDemo	164860	3	11	46	4	tau_conversion	UpdateDistMatrix	0	0
+ConfLongDemo	164860	3	11	46	4	tau_conversion	RankPreferences	0	0
+ConfLongDemo	164860	3	11	46	4	tau_conversion	Transfer	0	0
+ConfLongDemo	164860	3	11	46	4	other	AcceptAndTerminate	0.0060355040000000014	13
+ConfLongDemo	164860	3	11	47	5	perturbation	UpdateCentroids	0.034044369000000005	16
+ConfLongDemo	164860	3	11	47	5	perturbation	UpdateDistMatrix	0.04921362999999998	16
+ConfLongDemo	164860	3	11	47	5	perturbation	RankPreferences	0.31166776299999993	16
+ConfLongDemo	164860	3	11	47	5	perturbation	Assign	0.14890626899999998	16
+ConfLongDemo	164860	3	11	47	5	perturbation	UpdateClusterRadius	0.00498892	16
+ConfLongDemo	164860	3	11	47	5	local_search	GetClusterPairs	6.5078999999999991e-05	136
+ConfLongDemo	164860	3	11	47	5	local_search	GetProfits	1.1007548359999983	7480
+ConfLongDemo	164860	3	11	47	5	local_search	RankProfits	0.98242863900000221	7480
+ConfLongDemo	164860	3	11	47	5	local_search	FindSwapCount	0.0004759369999999838	7480
+ConfLongDemo	164860	3	11	47	5	local_search	Swap	0.0015906269999999875	7480
+ConfLongDemo	164860	3	11	47	5	local_search	UpdateClusterRadius	0.12877654000000002	120
+ConfLongDemo	164860	3	11	47	5	tau_conversion	ReadyForTau	0	0
+ConfLongDemo	164860	3	11	47	5	tau_conversion	UpdateDistMatrix	0	0
+ConfLongDemo	164860	3	11	47	5	tau_conversion	RankPreferences	0	0
+ConfLongDemo	164860	3	11	47	5	tau_conversion	Transfer	0	0
+ConfLongDemo	164860	3	11	47	5	other	AcceptAndTerminate	0.0070559330000000003	15
+ConfLongDemo	164860	3	11	48	6	perturbation	UpdateCentroids	0.036497809000000006	19
+ConfLongDemo	164860	3	11	48	6	perturbation	UpdateDistMatrix	0.058147060000000007	19
+ConfLongDemo	164860	3	11	48	6	perturbation	RankPreferences	0.41020095600000001	19
+ConfLongDemo	164860	3	11	48	6	perturbation	Assign	0.14671253099999998	19
+ConfLongDemo	164860	3	11	48	6	perturbation	UpdateClusterRadius	0.0059413269999999997	19
+ConfLongDemo	164860	3	11	48	6	local_search	GetClusterPairs	9.4628999999999951e-05	190
+ConfLongDemo	164860	3	11	48	6	local_search	GetProfits	1.503351167999992	10450
+ConfLongDemo	164860	3	11	48	6	local_search	RankProfits	1.0166071030000012	10450
+ConfLongDemo	164860	3	11	48	6	local_search	FindSwapCount	0.00065963899999998163	10450
+ConfLongDemo	164860	3	11	48	6	local_search	Swap	0.0016143929999999766	10450
+ConfLongDemo	164860	3	11	48	6	local_search	UpdateClusterRadius	0.18082714900000002	171
+ConfLongDemo	164860	3	11	48	6	tau_conversion	ReadyForTau	0	0
+ConfLongDemo	164860	3	11	48	6	tau_conversion	UpdateDistMatrix	0	0
+ConfLongDemo	164860	3	11	48	6	tau_conversion	RankPreferences	0	0
+ConfLongDemo	164860	3	11	48	6	tau_conversion	Transfer	0	0
+ConfLongDemo	164860	3	11	48	6	other	AcceptAndTerminate	0.008221738000000001	18
+ConfLongDemo	164860	3	11	49	7	perturbation	UpdateCentroids	0.028775693999999997	12
+ConfLongDemo	164860	3	11	49	7	perturbation	UpdateDistMatrix	0.036996560999999997	12
+ConfLongDemo	164860	3	11	49	7	perturbation	RankPreferences	0.25374101300000002	12
+ConfLongDemo	164860	3	11	49	7	perturbation	Assign	0.11818694799999999	12
+ConfLongDemo	164860	3	11	49	7	perturbation	UpdateClusterRadius	0.003740153	12
+ConfLongDemo	164860	3	11	49	7	local_search	GetClusterPairs	3.236399999999999e-05	78
+ConfLongDemo	164860	3	11	49	7	local_search	GetProfits	0.63296148000000141	4290
+ConfLongDemo	164860	3	11	49	7	local_search	RankProfits	0.64286782500000128	4290
+ConfLongDemo	164860	3	11	49	7	local_search	FindSwapCount	0.00027783600000000315	4290
+ConfLongDemo	164860	3	11	49	7	local_search	Swap	0.0010549319999999928	4290
+ConfLongDemo	164860	3	11	49	7	local_search	UpdateClusterRadius	0.068691695000000011	66
+ConfLongDemo	164860	3	11	49	7	tau_conversion	ReadyForTau	0	0
+ConfLongDemo	164860	3	11	49	7	tau_conversion	UpdateDistMatrix	0	0
+ConfLongDemo	164860	3	11	49	7	tau_conversion	RankPreferences	0	0
+ConfLongDemo	164860	3	11	49	7	tau_conversion	Transfer	0	0
+ConfLongDemo	164860	3	11	49	7	other	AcceptAndTerminate	0.0051150570000000001	11
+ConfLongDemo	164860	3	11	50	8	perturbation	UpdateCentroids	0.031900823000000002	15
+ConfLongDemo	164860	3	11	50	8	perturbation	UpdateDistMatrix	0.045742260000000007	15
+ConfLongDemo	164860	3	11	50	8	perturbation	RankPreferences	0.31348403399999991	15
+ConfLongDemo	164860	3	11	50	8	perturbation	Assign	0.13743024099999998	15
+ConfLongDemo	164860	3	11	50	8	perturbation	UpdateClusterRadius	0.0046559929999999998	15
+ConfLongDemo	164860	3	11	50	8	local_search	GetClusterPairs	5.5064999999999995e-05	120
+ConfLongDemo	164860	3	11	50	8	local_search	GetProfits	0.92339360499999956	6600
+ConfLongDemo	164860	3	11	50	8	local_search	RankProfits	0.88464491100000064	6600
+ConfLongDemo	164860	3	11	50	8	local_search	FindSwapCount	0.00038629699999998533	6600
+ConfLongDemo	164860	3	11	50	8	local_search	Swap	0.0014974479999999848	6600
+ConfLongDemo	164860	3	11	50	8	local_search	UpdateClusterRadius	0.11176752599999998	105
+ConfLongDemo	164860	3	11	50	8	tau_conversion	ReadyForTau	0	0
+ConfLongDemo	164860	3	11	50	8	tau_conversion	UpdateDistMatrix	0	0
+ConfLongDemo	164860	3	11	50	8	tau_conversion	RankPreferences	0	0
+ConfLongDemo	164860	3	11	50	8	tau_conversion	Transfer	0	0
+ConfLongDemo	164860	3	11	50	8	other	AcceptAndTerminate	0.0063036269999999991	14
+ConfLongDemo	164860	3	11	51	9	perturbation	UpdateCentroids	0.029786159999999999	13
+ConfLongDemo	164860	3	11	51	9	perturbation	UpdateDistMatrix	0.039660767	13
+ConfLongDemo	164860	3	11	51	9	perturbation	RankPreferences	0.28109010700000003	13
+ConfLongDemo	164860	3	11	51	9	perturbation	Assign	0.11210241	13
+ConfLongDemo	164860	3	11	51	9	perturbation	UpdateClusterRadius	0.0040137369999999999	13
+ConfLongDemo	164860	3	11	51	9	local_search	GetClusterPairs	4.0889999999999996e-05	91
+ConfLongDemo	164860	3	11	51	9	local_search	GetProfits	0.72257510899999966	5005
+ConfLongDemo	164860	3	11	51	9	local_search	RankProfits	0.77779572500000083	5005
+ConfLongDemo	164860	3	11	51	9	local_search	FindSwapCount	0.00033374199999999912	5005
+ConfLongDemo	164860	3	11	51	9	local_search	Swap	0.0012308989999999969	5005
+ConfLongDemo	164860	3	11	51	9	local_search	UpdateClusterRadius	0.080092824000000007	78
+ConfLongDemo	164860	3	11	51	9	tau_conversion	ReadyForTau	0	0
+ConfLongDemo	164860	3	11	51	9	tau_conversion	UpdateDistMatrix	0	0
+ConfLongDemo	164860	3	11	51	9	tau_conversion	RankPreferences	0	0
+ConfLongDemo	164860	3	11	51	9	tau_conversion	Transfer	0	0
+ConfLongDemo	164860	3	11	51	9	other	AcceptAndTerminate	0.0054999390000000006	12
+Fashion-MNIST	70000	784	10	42	0	perturbation	UpdateCentroids	1.0713657209999998	15
+Fashion-MNIST	70000	784	10	42	0	perturbation	UpdateDistMatrix	3.3644734629999999	15
+Fashion-MNIST	70000	784	10	42	0	perturbation	RankPreferences	0.145493451	15
+Fashion-MNIST	70000	784	10	42	0	perturbation	Assign	0.043973840000000007	15
+Fashion-MNIST	70000	784	10	42	0	perturbation	UpdateClusterRadius	0.0020594540000000001	15
+Fashion-MNIST	70000	784	10	42	0	local_search	GetClusterPairs	2.4604999999999975e-05	120
+Fashion-MNIST	70000	784	10	42	0	local_search	GetProfits	0.15105733999999973	5400
+Fashion-MNIST	70000	784	10	42	0	local_search	RankProfits	0.25156920500000007	5400
+Fashion-MNIST	70000	784	10	42	0	local_search	FindSwapCount	0.0002668640000000063	5400
+Fashion-MNIST	70000	784	10	42	0	local_search	Swap	0.00056427899999997918	5400
+Fashion-MNIST	70000	784	10	42	0	local_search	UpdateClusterRadius	0.010650839999999996	105
+Fashion-MNIST	70000	784	10	42	0	tau_conversion	ReadyForTau	0	0
+Fashion-MNIST	70000	784	10	42	0	tau_conversion	UpdateDistMatrix	0	0
+Fashion-MNIST	70000	784	10	42	0	tau_conversion	RankPreferences	0	0
+Fashion-MNIST	70000	784	10	42	0	tau_conversion	Transfer	0	0
+Fashion-MNIST	70000	784	10	42	0	other	AcceptAndTerminate	0.0028415750000000007	14
+Fashion-MNIST	70000	784	10	43	1	perturbation	UpdateCentroids	0.99824609100000006	13
+Fashion-MNIST	70000	784	10	43	1	perturbation	UpdateDistMatrix	2.9989906349999997	13
+Fashion-MNIST	70000	784	10	43	1	perturbation	RankPreferences	0.11992336100000002	13
+Fashion-MNIST	70000	784	10	43	1	perturbation	Assign	0.035106261000000007	13
+Fashion-MNIST	70000	784	10	43	1	perturbation	UpdateClusterRadius	0.0018994770000000001	13
+Fashion-MNIST	70000	784	10	43	1	local_search	GetClusterPairs	2.0249999999999994e-05	91
+Fashion-MNIST	70000	784	10	43	1	local_search	GetProfits	0.11338224199999986	4095
+Fashion-MNIST	70000	784	10	43	1	local_search	RankProfits	0.20651080199999913	4095
+Fashion-MNIST	70000	784	10	43	1	local_search	FindSwapCount	0.00023073200000000779	4095
+Fashion-MNIST	70000	784	10	43	1	local_search	Swap	0.00043919499999998463	4095
+Fashion-MNIST	70000	784	10	43	1	local_search	UpdateClusterRadius	0.0077582050000000007	78
+Fashion-MNIST	70000	784	10	43	1	tau_conversion	ReadyForTau	0	0
+Fashion-MNIST	70000	784	10	43	1	tau_conversion	UpdateDistMatrix	0	0
+Fashion-MNIST	70000	784	10	43	1	tau_conversion	RankPreferences	0	0
+Fashion-MNIST	70000	784	10	43	1	tau_conversion	Transfer	0	0
+Fashion-MNIST	70000	784	10	43	1	other	AcceptAndTerminate	0.0025029990000000001	12
+Fashion-MNIST	70000	784	10	44	2	perturbation	UpdateCentroids	0.90053163999999997	11
+Fashion-MNIST	70000	784	10	44	2	perturbation	UpdateDistMatrix	2.6631086050000001	11
+Fashion-MNIST	70000	784	10	44	2	perturbation	RankPreferences	0.11052995000000002	11
+Fashion-MNIST	70000	784	10	44	2	perturbation	Assign	0.029344720000000001	11
+Fashion-MNIST	70000	784	10	44	2	perturbation	UpdateClusterRadius	0.001593374	11
+Fashion-MNIST	70000	784	10	44	2	local_search	GetClusterPairs	1.5755000000000004e-05	66
+Fashion-MNIST	70000	784	10	44	2	local_search	GetProfits	0.084997735999999907	2970
+Fashion-MNIST	70000	784	10	44	2	local_search	RankProfits	0.14651912700000036	2970
+Fashion-MNIST	70000	784	10	44	2	local_search	FindSwapCount	0.00014949300000000548	2970
+Fashion-MNIST	70000	784	10	44	2	local_search	Swap	0.00031282299999999696	2970
+Fashion-MNIST	70000	784	10	44	2	local_search	UpdateClusterRadius	0.0055325580000000017	55
+Fashion-MNIST	70000	784	10	44	2	tau_conversion	ReadyForTau	0	0
+Fashion-MNIST	70000	784	10	44	2	tau_conversion	UpdateDistMatrix	0	0
+Fashion-MNIST	70000	784	10	44	2	tau_conversion	RankPreferences	0	0
+Fashion-MNIST	70000	784	10	44	2	tau_conversion	Transfer	0	0
+Fashion-MNIST	70000	784	10	44	2	other	AcceptAndTerminate	0.00202264	10
+Fashion-MNIST	70000	784	10	45	3	perturbation	UpdateCentroids	0.77706633799999991	8
+Fashion-MNIST	70000	784	10	45	3	perturbation	UpdateDistMatrix	1.904805015	8
+Fashion-MNIST	70000	784	10	45	3	perturbation	RankPreferences	0.077929760999999986	8
+Fashion-MNIST	70000	784	10	45	3	perturbation	Assign	0.023381453999999999	8
+Fashion-MNIST	70000	784	10	45	3	perturbation	UpdateClusterRadius	0.0011237290000000002	8
+Fashion-MNIST	70000	784	10	45	3	local_search	GetClusterPairs	8.8490000000000062e-06	36
+Fashion-MNIST	70000	784	10	45	3	local_search	GetProfits	0.049545359999999997	1620
+Fashion-MNIST	70000	784	10	45	3	local_search	RankProfits	0.10113170000000017	1620
+Fashion-MNIST	70000	784	10	45	3	local_search	FindSwapCount	8.5768000000001555e-05	1620
+Fashion-MNIST	70000	784	10	45	3	local_search	Swap	0.00023508900000000429	1620
+Fashion-MNIST	70000	784	10	45	3	local_search	UpdateClusterRadius	0.002810927	28
+Fashion-MNIST	70000	784	10	45	3	tau_conversion	ReadyForTau	0	0
+Fashion-MNIST	70000	784	10	45	3	tau_conversion	UpdateDistMatrix	0	0
+Fashion-MNIST	70000	784	10	45	3	tau_conversion	RankPreferences	0	0
+Fashion-MNIST	70000	784	10	45	3	tau_conversion	Transfer	0	0
+Fashion-MNIST	70000	784	10	45	3	other	AcceptAndTerminate	0.001465952	7
+Fashion-MNIST	70000	784	10	46	4	perturbation	UpdateCentroids	0.90867747899999995	11
+Fashion-MNIST	70000	784	10	46	4	perturbation	UpdateDistMatrix	2.5062862290000001	11
+Fashion-MNIST	70000	784	10	46	4	perturbation	RankPreferences	0.107301694	11
+Fashion-MNIST	70000	784	10	46	4	perturbation	Assign	0.031331471999999999	11
+Fashion-MNIST	70000	784	10	46	4	perturbation	UpdateClusterRadius	0.001608331	11
+Fashion-MNIST	70000	784	10	46	4	local_search	GetClusterPairs	1.6033000000000011e-05	66
+Fashion-MNIST	70000	784	10	46	4	local_search	GetProfits	0.083122211999999751	2970
+Fashion-MNIST	70000	784	10	46	4	local_search	RankProfits	0.16008577899999968	2970
+Fashion-MNIST	70000	784	10	46	4	local_search	FindSwapCount	0.00014983900000000623	2970
+Fashion-MNIST	70000	784	10	46	4	local_search	Swap	0.00034917399999999279	2970
+Fashion-MNIST	70000	784	10	46	4	local_search	UpdateClusterRadius	0.005505032	55
+Fashion-MNIST	70000	784	10	46	4	tau_conversion	ReadyForTau	0	0
+Fashion-MNIST	70000	784	10	46	4	tau_conversion	UpdateDistMatrix	0	0
+Fashion-MNIST	70000	784	10	46	4	tau_conversion	RankPreferences	0	0
+Fashion-MNIST	70000	784	10	46	4	tau_conversion	Transfer	0	0
+Fashion-MNIST	70000	784	10	46	4	other	AcceptAndTerminate	0.0020763590000000003	10
+Fashion-MNIST	70000	784	10	47	5	perturbation	UpdateCentroids	0.91078453700000006	11
+Fashion-MNIST	70000	784	10	47	5	perturbation	UpdateDistMatrix	2.5090876290000002	11
+Fashion-MNIST	70000	784	10	47	5	perturbation	RankPreferences	0.10964958300000001	11
+Fashion-MNIST	70000	784	10	47	5	perturbation	Assign	0.031827527000000001	11
+Fashion-MNIST	70000	784	10	47	5	perturbation	UpdateClusterRadius	0.001572733	11
+Fashion-MNIST	70000	784	10	47	5	local_search	GetClusterPairs	1.7014999999999995e-05	66
+Fashion-MNIST	70000	784	10	47	5	local_search	GetProfits	0.083357742999999887	2970
+Fashion-MNIST	70000	784	10	47	5	local_search	RankProfits	0.15361286600000015	2970
+Fashion-MNIST	70000	784	10	47	5	local_search	FindSwapCount	0.00015907400000000568	2970
+Fashion-MNIST	70000	784	10	47	5	local_search	Swap	0.00033808299999999765	2970
+Fashion-MNIST	70000	784	10	47	5	local_search	UpdateClusterRadius	0.005478704	55
+Fashion-MNIST	70000	784	10	47	5	tau_conversion	ReadyForTau	0	0
+Fashion-MNIST	70000	784	10	47	5	tau_conversion	UpdateDistMatrix	0	0
+Fashion-MNIST	70000	784	10	47	5	tau_conversion	RankPreferences	0	0
+Fashion-MNIST	70000	784	10	47	5	tau_conversion	Transfer	0	0
+Fashion-MNIST	70000	784	10	47	5	other	AcceptAndTerminate	0.0020670929999999999	10
+Fashion-MNIST	70000	784	10	48	6	perturbation	UpdateCentroids	0.94117025499999984	12
+Fashion-MNIST	70000	784	10	48	6	perturbation	UpdateDistMatrix	2.7495449739999995	12
+Fashion-MNIST	70000	784	10	48	6	perturbation	RankPreferences	0.11739218300000001	12
+Fashion-MNIST	70000	784	10	48	6	perturbation	Assign	0.033563947000000004	12
+Fashion-MNIST	70000	784	10	48	6	perturbation	UpdateClusterRadius	0.0016970590000000001	12
+Fashion-MNIST	70000	784	10	48	6	local_search	GetClusterPairs	1.7805999999999999e-05	78
+Fashion-MNIST	70000	784	10	48	6	local_search	GetProfits	0.097954428999999552	3510
+Fashion-MNIST	70000	784	10	48	6	local_search	RankProfits	0.18390010399999998	3510
+Fashion-MNIST	70000	784	10	48	6	local_search	FindSwapCount	0.00017981900000000787	3510
+Fashion-MNIST	70000	784	10	48	6	local_search	Swap	0.00041020099999999389	3510
+Fashion-MNIST	70000	784	10	48	6	local_search	UpdateClusterRadius	0.0065861750000000005	66
+Fashion-MNIST	70000	784	10	48	6	tau_conversion	ReadyForTau	0	0
+Fashion-MNIST	70000	784	10	48	6	tau_conversion	UpdateDistMatrix	0	0
+Fashion-MNIST	70000	784	10	48	6	tau_conversion	RankPreferences	0	0
+Fashion-MNIST	70000	784	10	48	6	tau_conversion	Transfer	0	0
+Fashion-MNIST	70000	784	10	48	6	other	AcceptAndTerminate	0.0022069749999999999	11
+Fashion-MNIST	70000	784	10	49	7	perturbation	UpdateCentroids	0.95052312699999997	12
+Fashion-MNIST	70000	784	10	49	7	perturbation	UpdateDistMatrix	2.7379920769999999	12
+Fashion-MNIST	70000	784	10	49	7	perturbation	RankPreferences	0.12260196200000002	12
+Fashion-MNIST	70000	784	10	49	7	perturbation	Assign	0.035457050000000004	12
+Fashion-MNIST	70000	784	10	49	7	perturbation	UpdateClusterRadius	0.0017742020000000003	12
+Fashion-MNIST	70000	784	10	49	7	local_search	GetClusterPairs	1.8445999999999992e-05	78
+Fashion-MNIST	70000	784	10	49	7	local_search	GetProfits	0.098783001000000148	3510
+Fashion-MNIST	70000	784	10	49	7	local_search	RankProfits	0.19376981799999918	3510
+Fashion-MNIST	70000	784	10	49	7	local_search	FindSwapCount	0.00017476800000000927	3510
+Fashion-MNIST	70000	784	10	49	7	local_search	Swap	0.00041472099999998206	3510
+Fashion-MNIST	70000	784	10	49	7	local_search	UpdateClusterRadius	0.0066516399999999986	66
+Fashion-MNIST	70000	784	10	49	7	tau_conversion	ReadyForTau	0	0
+Fashion-MNIST	70000	784	10	49	7	tau_conversion	UpdateDistMatrix	0	0
+Fashion-MNIST	70000	784	10	49	7	tau_conversion	RankPreferences	0	0
+Fashion-MNIST	70000	784	10	49	7	tau_conversion	Transfer	0	0
+Fashion-MNIST	70000	784	10	49	7	other	AcceptAndTerminate	0.002286995	11
+Fashion-MNIST	70000	784	10	50	8	perturbation	UpdateCentroids	0.78037752699999996	8
+Fashion-MNIST	70000	784	10	50	8	perturbation	UpdateDistMatrix	1.8308838350000001	8
+Fashion-MNIST	70000	784	10	50	8	perturbation	RankPreferences	0.076279802000000008	8
+Fashion-MNIST	70000	784	10	50	8	perturbation	Assign	0.023185252999999999	8
+Fashion-MNIST	70000	784	10	50	8	perturbation	UpdateClusterRadius	0.001172974	8
+Fashion-MNIST	70000	784	10	50	8	local_search	GetClusterPairs	9.3070000000000076e-06	36
+Fashion-MNIST	70000	784	10	50	8	local_search	GetProfits	0.047951882000000057	1620
+Fashion-MNIST	70000	784	10	50	8	local_search	RankProfits	0.10255064500000018	1620
+Fashion-MNIST	70000	784	10	50	8	local_search	FindSwapCount	8.2152000000001296e-05	1620
+Fashion-MNIST	70000	784	10	50	8	local_search	Swap	0.00022867400000000507	1620
+Fashion-MNIST	70000	784	10	50	8	local_search	UpdateClusterRadius	0.0027907300000000008	28
+Fashion-MNIST	70000	784	10	50	8	tau_conversion	ReadyForTau	0	0
+Fashion-MNIST	70000	784	10	50	8	tau_conversion	UpdateDistMatrix	0	0
+Fashion-MNIST	70000	784	10	50	8	tau_conversion	RankPreferences	0	0
+Fashion-MNIST	70000	784	10	50	8	tau_conversion	Transfer	0	0
+Fashion-MNIST	70000	784	10	50	8	other	AcceptAndTerminate	0.0014644009999999999	7
+Fashion-MNIST	70000	784	10	51	9	perturbation	UpdateCentroids	0.722723848	7
+Fashion-MNIST	70000	784	10	51	9	perturbation	UpdateDistMatrix	1.6122202239999999	7
+Fashion-MNIST	70000	784	10	51	9	perturbation	RankPreferences	0.065204688999999996	7
+Fashion-MNIST	70000	784	10	51	9	perturbation	Assign	0.020999719000000003	7
+Fashion-MNIST	70000	784	10	51	9	perturbation	UpdateClusterRadius	0.0010025049999999999	7
+Fashion-MNIST	70000	784	10	51	9	local_search	GetClusterPairs	7.2740000000000035e-06	28
+Fashion-MNIST	70000	784	10	51	9	local_search	GetProfits	0.037266142000000051	1260
+Fashion-MNIST	70000	784	10	51	9	local_search	RankProfits	0.10411602800000017	1260
+Fashion-MNIST	70000	784	10	51	9	local_search	FindSwapCount	6.7196000000000405e-05	1260
+Fashion-MNIST	70000	784	10	51	9	local_search	Swap	0.00022972300000000399	1260
+Fashion-MNIST	70000	784	10	51	9	local_search	UpdateClusterRadius	0.002085155	21
+Fashion-MNIST	70000	784	10	51	9	tau_conversion	ReadyForTau	0	0
+Fashion-MNIST	70000	784	10	51	9	tau_conversion	UpdateDistMatrix	0	0
+Fashion-MNIST	70000	784	10	51	9	tau_conversion	RankPreferences	0	0
+Fashion-MNIST	70000	784	10	51	9	tau_conversion	Transfer	0	0
+Fashion-MNIST	70000	784	10	51	9	other	AcceptAndTerminate	0.0012276959999999999	6
+Letter Recognition	20000	16	26	42	0	perturbation	UpdateCentroids	0.012313275999999996	17
+Letter Recognition	20000	16	26	42	0	perturbation	UpdateDistMatrix	0.057347204000000006	17
+Letter Recognition	20000	16	26	42	0	perturbation	RankPreferences	0.156192575	17
+Letter Recognition	20000	16	26	42	0	perturbation	Assign	0.021708050999999999	17
+Letter Recognition	20000	16	26	42	0	perturbation	UpdateClusterRadius	0.00046141599999999992	17
+Letter Recognition	20000	16	26	42	0	local_search	GetClusterPairs	0.00012694300000000008	153
+Letter Recognition	20000	16	26	42	0	local_search	GetProfits	0.14454789499999682	49725
+Letter Recognition	20000	16	26	42	0	local_search	RankProfits	0.2442258719999999	49725
+Letter Recognition	20000	16	26	42	0	local_search	FindSwapCount	0.0019678299999996854	49725
+Letter Recognition	20000	16	26	42	0	local_search	Swap	0.0019327489999999342	49725
+Letter Recognition	20000	16	26	42	0	local_search	UpdateClusterRadius	0.0043443589999999973	136
+Letter Recognition	20000	16	26	42	0	tau_conversion	ReadyForTau	0	0
+Letter Recognition	20000	16	26	42	0	tau_conversion	UpdateDistMatrix	0	0
+Letter Recognition	20000	16	26	42	0	tau_conversion	RankPreferences	0	0
+Letter Recognition	20000	16	26	42	0	tau_conversion	Transfer	0	0
+Letter Recognition	20000	16	26	42	0	other	AcceptAndTerminate	0.00076722200000000013	16
+Letter Recognition	20000	16	26	43	1	perturbation	UpdateCentroids	0.010267504	11
+Letter Recognition	20000	16	26	43	1	perturbation	UpdateDistMatrix	0.037440496999999996	11
+Letter Recognition	20000	16	26	43	1	perturbation	RankPreferences	0.10089679300000001	11
+Letter Recognition	20000	16	26	43	1	perturbation	Assign	0.014309483999999997	11
+Letter Recognition	20000	16	26	43	1	perturbation	UpdateClusterRadius	0.00030039400000000005	11
+Letter Recognition	20000	16	26	43	1	local_search	GetClusterPairs	5.4916000000000001e-05	66
+Letter Recognition	20000	16	26	43	1	local_search	GetProfits	0.063157004000000738	21450
+Letter Recognition	20000	16	26	43	1	local_search	RankProfits	0.11258863799999777	21450
+Letter Recognition	20000	16	26	43	1	local_search	FindSwapCount	0.00086692199999982187	21450
+Letter Recognition	20000	16	26	43	1	local_search	Swap	0.00085220499999993763	21450
+Letter Recognition	20000	16	26	43	1	local_search	UpdateClusterRadius	0.0017666660000000001	55
+Letter Recognition	20000	16	26	43	1	tau_conversion	ReadyForTau	0	0
+Letter Recognition	20000	16	26	43	1	tau_conversion	UpdateDistMatrix	0	0
+Letter Recognition	20000	16	26	43	1	tau_conversion	RankPreferences	0	0
+Letter Recognition	20000	16	26	43	1	tau_conversion	Transfer	0	0
+Letter Recognition	20000	16	26	43	1	other	AcceptAndTerminate	0.00046097500000000002	10
+Letter Recognition	20000	16	26	44	2	perturbation	UpdateCentroids	0.011241653000000001	14
+Letter Recognition	20000	16	26	44	2	perturbation	UpdateDistMatrix	0.045071117999999993	14
+Letter Recognition	20000	16	26	44	2	perturbation	RankPreferences	0.116588625	14
+Letter Recognition	20000	16	26	44	2	perturbation	Assign	0.016658774999999997	14
+Letter Recognition	20000	16	26	44	2	perturbation	UpdateClusterRadius	0.00038697699999999999	14
+Letter Recognition	20000	16	26	44	2	local_search	GetClusterPairs	9.0002000000000024e-05	105
+Letter Recognition	20000	16	26	44	2	local_search	GetProfits	0.099620426000000067	34125
+Letter Recognition	20000	16	26	44	2	local_search	RankProfits	0.16858693299999669	34125
+Letter Recognition	20000	16	26	44	2	local_search	FindSwapCount	0.0013503719999997884	34125
+Letter Recognition	20000	16	26	44	2	local_search	Swap	0.0013312139999999278	34125
+Letter Recognition	20000	16	26	44	2	local_search	UpdateClusterRadius	0.0031296560000000002	91
+Letter Recognition	20000	16	26	44	2	tau_conversion	ReadyForTau	0	0
+Letter Recognition	20000	16	26	44	2	tau_conversion	UpdateDistMatrix	0	0
+Letter Recognition	20000	16	26	44	2	tau_conversion	RankPreferences	0	0
+Letter Recognition	20000	16	26	44	2	tau_conversion	Transfer	0	0
+Letter Recognition	20000	16	26	44	2	other	AcceptAndTerminate	0.00056837000000000001	13
+Letter Recognition	20000	16	26	45	3	perturbation	UpdateCentroids	0.010857181	14
+Letter Recognition	20000	16	26	45	3	perturbation	UpdateDistMatrix	0.043603511999999997	14
+Letter Recognition	20000	16	26	45	3	perturbation	RankPreferences	0.123136703	14
+Letter Recognition	20000	16	26	45	3	perturbation	Assign	0.016736331000000004	14
+Letter Recognition	20000	16	26	45	3	perturbation	UpdateClusterRadius	0.00038484400000000007	14
+Letter Recognition	20000	16	26	45	3	local_search	GetClusterPairs	8.7183000000000063e-05	105
+Letter Recognition	20000	16	26	45	3	local_search	GetProfits	0.099056228999997636	34125
+Letter Recognition	20000	16	26	45	3	local_search	RankProfits	0.16900215399999924	34125
+Letter Recognition	20000	16	26	45	3	local_search	FindSwapCount	0.0013577089999997419	34125
+Letter Recognition	20000	16	26	45	3	local_search	Swap	0.001341509999999939	34125
+Letter Recognition	20000	16	26	45	3	local_search	UpdateClusterRadius	0.0029852260000000001	91
+Letter Recognition	20000	16	26	45	3	tau_conversion	ReadyForTau	0	0
+Letter Recognition	20000	16	26	45	3	tau_conversion	UpdateDistMatrix	0	0
+Letter Recognition	20000	16	26	45	3	tau_conversion	RankPreferences	0	0
+Letter Recognition	20000	16	26	45	3	tau_conversion	Transfer	0	0
+Letter Recognition	20000	16	26	45	3	other	AcceptAndTerminate	0.00056663700000000004	13
+Letter Recognition	20000	16	26	46	4	perturbation	UpdateCentroids	0.014623153	21
+Letter Recognition	20000	16	26	46	4	perturbation	UpdateDistMatrix	0.064951782999999985	21
+Letter Recognition	20000	16	26	46	4	perturbation	RankPreferences	0.19507781699999999	21
+Letter Recognition	20000	16	26	46	4	perturbation	Assign	0.024174825	21
+Letter Recognition	20000	16	26	46	4	perturbation	UpdateClusterRadius	0.00056683299999999999	21
+Letter Recognition	20000	16	26	46	4	local_search	GetClusterPairs	0.00019302400000000003	231
+Letter Recognition	20000	16	26	46	4	local_search	GetProfits	0.21651040799999841	75075
+Letter Recognition	20000	16	26	46	4	local_search	RankProfits	0.34438554399999821	75075
+Letter Recognition	20000	16	26	46	4	local_search	FindSwapCount	0.0029701010000029826	75075
+Letter Recognition	20000	16	26	46	4	local_search	Swap	0.0028506760000010815	75075
+Letter Recognition	20000	16	26	46	4	local_search	UpdateClusterRadius	0.0067808770000000011	210
+Letter Recognition	20000	16	26	46	4	tau_conversion	ReadyForTau	0	0
+Letter Recognition	20000	16	26	46	4	tau_conversion	UpdateDistMatrix	0	0
+Letter Recognition	20000	16	26	46	4	tau_conversion	RankPreferences	0	0
+Letter Recognition	20000	16	26	46	4	tau_conversion	Transfer	0	0
+Letter Recognition	20000	16	26	46	4	other	AcceptAndTerminate	0.00098249400000000021	20
+Letter Recognition	20000	16	26	47	5	perturbation	UpdateCentroids	0.013257369999999999	17
+Letter Recognition	20000	16	26	47	5	perturbation	UpdateDistMatrix	0.054084034000000003	17
+Letter Recognition	20000	16	26	47	5	perturbation	RankPreferences	0.15768376900000006	17
+Letter Recognition	20000	16	26	47	5	perturbation	Assign	0.023040802000000003	17
+Letter Recognition	20000	16	26	47	5	perturbation	UpdateClusterRadius	0.00046187399999999998	17
+Letter Recognition	20000	16	26	47	5	local_search	GetClusterPairs	0.0001309540000000001	153
+Letter Recognition	20000	16	26	47	5	local_search	GetProfits	0.14343530699999715	49725
+Letter Recognition	20000	16	26	47	5	local_search	RankProfits	0.24376034399999735	49725
+Letter Recognition	20000	16	26	47	5	local_search	FindSwapCount	0.0019755489999996991	49725
+Letter Recognition	20000	16	26	47	5	local_search	Swap	0.0019248629999999458	49725
+Letter Recognition	20000	16	26	47	5	local_search	UpdateClusterRadius	0.0043427509999999989	136
+Letter Recognition	20000	16	26	47	5	tau_conversion	ReadyForTau	0	0
+Letter Recognition	20000	16	26	47	5	tau_conversion	UpdateDistMatrix	0	0
+Letter Recognition	20000	16	26	47	5	tau_conversion	RankPreferences	0	0
+Letter Recognition	20000	16	26	47	5	tau_conversion	Transfer	0	0
+Letter Recognition	20000	16	26	47	5	other	AcceptAndTerminate	0.0008342960000000001	16
+Letter Recognition	20000	16	26	48	6	perturbation	UpdateCentroids	0.011390263000000003	14
+Letter Recognition	20000	16	26	48	6	perturbation	UpdateDistMatrix	0.047974151000000007	14
+Letter Recognition	20000	16	26	48	6	perturbation	RankPreferences	0.12626469700000001	14
+Letter Recognition	20000	16	26	48	6	perturbation	Assign	0.016388460000000001	14
+Letter Recognition	20000	16	26	48	6	perturbation	UpdateClusterRadius	0.00039221700000000004	14
+Letter Recognition	20000	16	26	48	6	local_search	GetClusterPairs	9.511000000000007e-05	105
+Letter Recognition	20000	16	26	48	6	local_search	GetProfits	0.10010111999999846	34125
+Letter Recognition	20000	16	26	48	6	local_search	RankProfits	0.16887607899999937	34125
+Letter Recognition	20000	16	26	48	6	local_search	FindSwapCount	0.0013609789999997352	34125
+Letter Recognition	20000	16	26	48	6	local_search	Swap	0.0013293889999999443	34125
+Letter Recognition	20000	16	26	48	6	local_search	UpdateClusterRadius	0.0029496280000000001	91
+Letter Recognition	20000	16	26	48	6	tau_conversion	ReadyForTau	0	0
+Letter Recognition	20000	16	26	48	6	tau_conversion	UpdateDistMatrix	0	0
+Letter Recognition	20000	16	26	48	6	tau_conversion	RankPreferences	0	0
+Letter Recognition	20000	16	26	48	6	tau_conversion	Transfer	0	0
+Letter Recognition	20000	16	26	48	6	other	AcceptAndTerminate	0.00062712899999999992	13
+Letter Recognition	20000	16	26	49	7	perturbation	UpdateCentroids	0.011205527	14
+Letter Recognition	20000	16	26	49	7	perturbation	UpdateDistMatrix	0.044896328000000013	14
+Letter Recognition	20000	16	26	49	7	perturbation	RankPreferences	0.11429086000000001	14
+Letter Recognition	20000	16	26	49	7	perturbation	Assign	0.016842243	14
+Letter Recognition	20000	16	26	49	7	perturbation	UpdateClusterRadius	0.00039294699999999999	14
+Letter Recognition	20000	16	26	49	7	local_search	GetClusterPairs	8.8951000000000077e-05	105
+Letter Recognition	20000	16	26	49	7	local_search	GetProfits	0.10134636899999848	34125
+Letter Recognition	20000	16	26	49	7	local_search	RankProfits	0.16327656199999802	34125
+Letter Recognition	20000	16	26	49	7	local_search	FindSwapCount	0.0013363559999997718	34125
+Letter Recognition	20000	16	26	49	7	local_search	Swap	0.001321330999999951	34125
+Letter Recognition	20000	16	26	49	7	local_search	UpdateClusterRadius	0.0029200500000000009	91
+Letter Recognition	20000	16	26	49	7	tau_conversion	ReadyForTau	0	0
+Letter Recognition	20000	16	26	49	7	tau_conversion	UpdateDistMatrix	0	0
+Letter Recognition	20000	16	26	49	7	tau_conversion	RankPreferences	0	0
+Letter Recognition	20000	16	26	49	7	tau_conversion	Transfer	0	0
+Letter Recognition	20000	16	26	49	7	other	AcceptAndTerminate	0.00059199000000000003	13
+Letter Recognition	20000	16	26	50	8	perturbation	UpdateCentroids	0.013230107	18
+Letter Recognition	20000	16	26	50	8	perturbation	UpdateDistMatrix	0.05955850699999999	18
+Letter Recognition	20000	16	26	50	8	perturbation	RankPreferences	0.15623256100000002	18
+Letter Recognition	20000	16	26	50	8	perturbation	Assign	0.021819420000000003	18
+Letter Recognition	20000	16	26	50	8	perturbation	UpdateClusterRadius	0.00049082899999999992	18
+Letter Recognition	20000	16	26	50	8	local_search	GetClusterPairs	0.00014305000000000003	171
+Letter Recognition	20000	16	26	50	8	local_search	GetProfits	0.16525427199999643	55575
+Letter Recognition	20000	16	26	50	8	local_search	RankProfits	0.26486870700000104	55575
+Letter Recognition	20000	16	26	50	8	local_search	FindSwapCount	0.0021986080000004084	55575
+Letter Recognition	20000	16	26	50	8	local_search	Swap	0.0021302860000001582	55575
+Letter Recognition	20000	16	26	50	8	local_search	UpdateClusterRadius	0.0049839139999999981	153
+Letter Recognition	20000	16	26	50	8	tau_conversion	ReadyForTau	0	0
+Letter Recognition	20000	16	26	50	8	tau_conversion	UpdateDistMatrix	0	0
+Letter Recognition	20000	16	26	50	8	tau_conversion	RankPreferences	0	0
+Letter Recognition	20000	16	26	50	8	tau_conversion	Transfer	0	0
+Letter Recognition	20000	16	26	50	8	other	AcceptAndTerminate	0.00083054000000000016	17
+Letter Recognition	20000	16	26	51	9	perturbation	UpdateCentroids	0.012760167000000001	18
+Letter Recognition	20000	16	26	51	9	perturbation	UpdateDistMatrix	0.057945115999999991	18
+Letter Recognition	20000	16	26	51	9	perturbation	RankPreferences	0.16592101599999998	18
+Letter Recognition	20000	16	26	51	9	perturbation	Assign	0.021088175999999997	18
+Letter Recognition	20000	16	26	51	9	perturbation	UpdateClusterRadius	0.000489877	18
+Letter Recognition	20000	16	26	51	9	local_search	GetClusterPairs	0.0001434650000000002	171
+Letter Recognition	20000	16	26	51	9	local_search	GetProfits	0.16106446399999855	55575
+Letter Recognition	20000	16	26	51	9	local_search	RankProfits	0.26411595399999926	55575
+Letter Recognition	20000	16	26	51	9	local_search	FindSwapCount	0.002204458000000453	55575
+Letter Recognition	20000	16	26	51	9	local_search	Swap	0.0021148890000001227	55575
+Letter Recognition	20000	16	26	51	9	local_search	UpdateClusterRadius	0.0049772530000000035	153
+Letter Recognition	20000	16	26	51	9	tau_conversion	ReadyForTau	0	0
+Letter Recognition	20000	16	26	51	9	tau_conversion	UpdateDistMatrix	0	0
+Letter Recognition	20000	16	26	51	9	tau_conversion	RankPreferences	0	0
+Letter Recognition	20000	16	26	51	9	tau_conversion	Transfer	0	0
+Letter Recognition	20000	16	26	51	9	other	AcceptAndTerminate	0.00080780799999999981	17
+MNIST	70000	784	10	42	0	perturbation	UpdateCentroids	1.033550521	14
+MNIST	70000	784	10	42	0	perturbation	UpdateDistMatrix	3.1982551680000002	14
+MNIST	70000	784	10	42	0	perturbation	RankPreferences	0.17859234300000001	14
+MNIST	70000	784	10	42	0	perturbation	Assign	0.053371489999999994	14
+MNIST	70000	784	10	42	0	perturbation	UpdateClusterRadius	0.00210939	14
+MNIST	70000	784	10	42	0	local_search	GetClusterPairs	4.9036999999999985e-05	105
+MNIST	70000	784	10	42	0	local_search	GetProfits	0.27872620900000034	4725
+MNIST	70000	784	10	42	0	local_search	RankProfits	0.19945053000000054	4725
+MNIST	70000	784	10	42	0	local_search	FindSwapCount	0.00025365200000000319	4725
+MNIST	70000	784	10	42	0	local_search	Swap	0.00052337499999998891	4725
+MNIST	70000	784	10	42	0	local_search	UpdateClusterRadius	0.034109171999999986	91
+MNIST	70000	784	10	42	0	tau_conversion	ReadyForTau	0	0
+MNIST	70000	784	10	42	0	tau_conversion	UpdateDistMatrix	0	0
+MNIST	70000	784	10	42	0	tau_conversion	RankPreferences	0	0
+MNIST	70000	784	10	42	0	tau_conversion	Transfer	0	0
+MNIST	70000	784	10	42	0	other	AcceptAndTerminate	0.0028016420000000009	13
+MNIST	70000	784	10	43	1	perturbation	UpdateCentroids	0.99331453500000011	13
+MNIST	70000	784	10	43	1	perturbation	UpdateDistMatrix	2.9716047849999998	13
+MNIST	70000	784	10	43	1	perturbation	RankPreferences	0.158810333	13
+MNIST	70000	784	10	43	1	perturbation	Assign	0.045676986999999988	13
+MNIST	70000	784	10	43	1	perturbation	UpdateClusterRadius	0.0019592380000000003	13
+MNIST	70000	784	10	43	1	local_search	GetClusterPairs	4.7131e-05	91
+MNIST	70000	784	10	43	1	local_search	GetProfits	0.24019777500000009	4095
+MNIST	70000	784	10	43	1	local_search	RankProfits	0.1952062219999999	4095
+MNIST	70000	784	10	43	1	local_search	FindSwapCount	0.00020800200000000834	4095
+MNIST	70000	784	10	43	1	local_search	Swap	0.00064123299999999865	4095
+MNIST	70000	784	10	43	1	local_search	UpdateClusterRadius	0.028867114000000006	78
+MNIST	70000	784	10	43	1	tau_conversion	ReadyForTau	0	0
+MNIST	70000	784	10	43	1	tau_conversion	UpdateDistMatrix	0	0
+MNIST	70000	784	10	43	1	tau_conversion	RankPreferences	0	0
+MNIST	70000	784	10	43	1	tau_conversion	Transfer	0	0
+MNIST	70000	784	10	43	1	other	AcceptAndTerminate	0.0025573840000000002	12
+MNIST	70000	784	10	44	2	perturbation	UpdateCentroids	0.90721749699999987	11
+MNIST	70000	784	10	44	2	perturbation	UpdateDistMatrix	2.505126722	11
+MNIST	70000	784	10	44	2	perturbation	RankPreferences	0.141879424	11
+MNIST	70000	784	10	44	2	perturbation	Assign	0.036757903000000001	11
+MNIST	70000	784	10	44	2	perturbation	UpdateClusterRadius	0.001675478	11
+MNIST	70000	784	10	44	2	local_search	GetClusterPairs	3.0987000000000007e-05	66
+MNIST	70000	784	10	44	2	local_search	GetProfits	0.16184500900000023	2970
+MNIST	70000	784	10	44	2	local_search	RankProfits	0.15814947899999995	2970
+MNIST	70000	784	10	44	2	local_search	FindSwapCount	0.00015777900000000519	2970
+MNIST	70000	784	10	44	2	local_search	Swap	0.00036716599999999717	2970
+MNIST	70000	784	10	44	2	local_search	UpdateClusterRadius	0.018433309000000002	55
+MNIST	70000	784	10	44	2	tau_conversion	ReadyForTau	0	0
+MNIST	70000	784	10	44	2	tau_conversion	UpdateDistMatrix	0	0
+MNIST	70000	784	10	44	2	tau_conversion	RankPreferences	0	0
+MNIST	70000	784	10	44	2	tau_conversion	Transfer	0	0
+MNIST	70000	784	10	44	2	other	AcceptAndTerminate	0.002199749	10
+MNIST	70000	784	10	45	3	perturbation	UpdateCentroids	0.94871447199999992	12
+MNIST	70000	784	10	45	3	perturbation	UpdateDistMatrix	2.7471896390000001	12
+MNIST	70000	784	10	45	3	perturbation	RankPreferences	0.14965414900000001	12
+MNIST	70000	784	10	45	3	perturbation	Assign	0.049776545000000012	12
+MNIST	70000	784	10	45	3	perturbation	UpdateClusterRadius	0.0017829670000000001	12
+MNIST	70000	784	10	45	3	local_search	GetClusterPairs	4.1773999999999997e-05	78
+MNIST	70000	784	10	45	3	local_search	GetProfits	0.20305293500000066	3510
+MNIST	70000	784	10	45	3	local_search	RankProfits	0.16088896299999961	3510
+MNIST	70000	784	10	45	3	local_search	FindSwapCount	0.00018690200000000609	3510
+MNIST	70000	784	10	45	3	local_search	Swap	0.00041882499999998878	3510
+MNIST	70000	784	10	45	3	local_search	UpdateClusterRadius	0.024185415999999998	66
+MNIST	70000	784	10	45	3	tau_conversion	ReadyForTau	0	0
+MNIST	70000	784	10	45	3	tau_conversion	UpdateDistMatrix	0	0
+MNIST	70000	784	10	45	3	tau_conversion	RankPreferences	0	0
+MNIST	70000	784	10	45	3	tau_conversion	Transfer	0	0
+MNIST	70000	784	10	45	3	other	AcceptAndTerminate	0.00235323	11
+MNIST	70000	784	10	46	4	perturbation	UpdateCentroids	0.90253282000000001	11
+MNIST	70000	784	10	46	4	perturbation	UpdateDistMatrix	2.4983030739999998	11
+MNIST	70000	784	10	46	4	perturbation	RankPreferences	0.13949491600000002	11
+MNIST	70000	784	10	46	4	perturbation	Assign	0.043157092999999994	11
+MNIST	70000	784	10	46	4	perturbation	UpdateClusterRadius	0.001642765	11
+MNIST	70000	784	10	46	4	local_search	GetClusterPairs	3.5672999999999995e-05	66
+MNIST	70000	784	10	46	4	local_search	GetProfits	0.18430643599999991	2970
+MNIST	70000	784	10	46	4	local_search	RankProfits	0.18344722499999958	2970
+MNIST	70000	784	10	46	4	local_search	FindSwapCount	0.00015373700000000632	2970
+MNIST	70000	784	10	46	4	local_search	Swap	0.00070246500000000444	2970
+MNIST	70000	784	10	46	4	local_search	UpdateClusterRadius	0.019957522000000012	55
+MNIST	70000	784	10	46	4	tau_conversion	ReadyForTau	0	0
+MNIST	70000	784	10	46	4	tau_conversion	UpdateDistMatrix	0	0
+MNIST	70000	784	10	46	4	tau_conversion	RankPreferences	0	0
+MNIST	70000	784	10	46	4	tau_conversion	Transfer	0	0
+MNIST	70000	784	10	46	4	other	AcceptAndTerminate	0.0021510509999999997	10
+MNIST	70000	784	10	47	5	perturbation	UpdateCentroids	0.90318671499999992	11
+MNIST	70000	784	10	47	5	perturbation	UpdateDistMatrix	2.4993142560000003	11
+MNIST	70000	784	10	47	5	perturbation	RankPreferences	0.13894583500000002	11
+MNIST	70000	784	10	47	5	perturbation	Assign	0.039907980999999995	11
+MNIST	70000	784	10	47	5	perturbation	UpdateClusterRadius	0.0016302840000000001	11
+MNIST	70000	784	10	47	5	local_search	GetClusterPairs	3.4934999999999997e-05	66
+MNIST	70000	784	10	47	5	local_search	GetProfits	0.18127063299999976	2970
+MNIST	70000	784	10	47	5	local_search	RankProfits	0.1568347789999999	2970
+MNIST	70000	784	10	47	5	local_search	FindSwapCount	0.00015594700000000548	2970
+MNIST	70000	784	10	47	5	local_search	Swap	0.00042740599999999324	2970
+MNIST	70000	784	10	47	5	local_search	UpdateClusterRadius	0.020745338000000002	55
+MNIST	70000	784	10	47	5	tau_conversion	ReadyForTau	0	0
+MNIST	70000	784	10	47	5	tau_conversion	UpdateDistMatrix	0	0
+MNIST	70000	784	10	47	5	tau_conversion	RankPreferences	0	0
+MNIST	70000	784	10	47	5	tau_conversion	Transfer	0	0
+MNIST	70000	784	10	47	5	other	AcceptAndTerminate	0.0020977819999999999	10
+MNIST	70000	784	10	48	6	perturbation	UpdateCentroids	0.77126333199999997	8
+MNIST	70000	784	10	48	6	perturbation	UpdateDistMatrix	1.8254276970000001	8
+MNIST	70000	784	10	48	6	perturbation	RankPreferences	0.098629163999999991	8
+MNIST	70000	784	10	48	6	perturbation	Assign	0.029866715999999998	8
+MNIST	70000	784	10	48	6	perturbation	UpdateClusterRadius	0.0013800609999999999	8
+MNIST	70000	784	10	48	6	local_search	GetClusterPairs	1.9098000000000002e-05	36
+MNIST	70000	784	10	48	6	local_search	GetProfits	0.099286786000000002	1620
+MNIST	70000	784	10	48	6	local_search	RankProfits	0.089504788000000016	1620
+MNIST	70000	784	10	48	6	local_search	FindSwapCount	9.0341000000001255e-05	1620
+MNIST	70000	784	10	48	6	local_search	Swap	0.00020530900000000036	1620
+MNIST	70000	784	10	48	6	local_search	UpdateClusterRadius	0.010409924999999999	28
+MNIST	70000	784	10	48	6	tau_conversion	ReadyForTau	0	0
+MNIST	70000	784	10	48	6	tau_conversion	UpdateDistMatrix	0	0
+MNIST	70000	784	10	48	6	tau_conversion	RankPreferences	0	0
+MNIST	70000	784	10	48	6	tau_conversion	Transfer	0	0
+MNIST	70000	784	10	48	6	other	AcceptAndTerminate	0.0015153250000000001	7
+MNIST	70000	784	10	49	7	perturbation	UpdateCentroids	1.250626255	19
+MNIST	70000	784	10	49	7	perturbation	UpdateDistMatrix	4.4285639910000008	19
+MNIST	70000	784	10	49	7	perturbation	RankPreferences	0.242982057	19
+MNIST	70000	784	10	49	7	perturbation	Assign	0.066320765999999989	19
+MNIST	70000	784	10	49	7	perturbation	UpdateClusterRadius	0.0027810849999999995	19
+MNIST	70000	784	10	49	7	local_search	GetClusterPairs	9.3851999999999927e-05	190
+MNIST	70000	784	10	49	7	local_search	GetProfits	0.46437541300000151	8550
+MNIST	70000	784	10	49	7	local_search	RankProfits	0.32448608099999837	8550
+MNIST	70000	784	10	49	7	local_search	FindSwapCount	0.00042368499999995417	8550
+MNIST	70000	784	10	49	7	local_search	Swap	0.00084978000000000787	8550
+MNIST	70000	784	10	49	7	local_search	UpdateClusterRadius	0.060527923000000011	171
+MNIST	70000	784	10	49	7	tau_conversion	ReadyForTau	0	0
+MNIST	70000	784	10	49	7	tau_conversion	UpdateDistMatrix	0	0
+MNIST	70000	784	10	49	7	tau_conversion	RankPreferences	0	0
+MNIST	70000	784	10	49	7	tau_conversion	Transfer	0	0
+MNIST	70000	784	10	49	7	other	AcceptAndTerminate	0.0038194429999999996	18
+MNIST	70000	784	10	50	8	perturbation	UpdateCentroids	1.252415362	19
+MNIST	70000	784	10	50	8	perturbation	UpdateDistMatrix	4.3576993499999999	19
+MNIST	70000	784	10	50	8	perturbation	RankPreferences	0.24469867000000001	19
+MNIST	70000	784	10	50	8	perturbation	Assign	0.07046830699999998	19
+MNIST	70000	784	10	50	8	perturbation	UpdateClusterRadius	0.0028624580000000004	19
+MNIST	70000	784	10	50	8	local_search	GetClusterPairs	8.0538999999999901e-05	190
+MNIST	70000	784	10	50	8	local_search	GetProfits	0.44827430800000045	8550
+MNIST	70000	784	10	50	8	local_search	RankProfits	0.37413284499999855	8550
+MNIST	70000	784	10	50	8	local_search	FindSwapCount	0.00044656699999995206	8550
+MNIST	70000	784	10	50	8	local_search	Swap	0.00091934399999997994	8550
+MNIST	70000	784	10	50	8	local_search	UpdateClusterRadius	0.051940871999999999	171
+MNIST	70000	784	10	50	8	tau_conversion	ReadyForTau	0	0
+MNIST	70000	784	10	50	8	tau_conversion	UpdateDistMatrix	0	0
+MNIST	70000	784	10	50	8	tau_conversion	RankPreferences	0	0
+MNIST	70000	784	10	50	8	tau_conversion	Transfer	0	0
+MNIST	70000	784	10	50	8	other	AcceptAndTerminate	0.0037818310000000007	18
+MNIST	70000	784	10	51	9	perturbation	UpdateCentroids	0.763064191	8
+MNIST	70000	784	10	51	9	perturbation	UpdateDistMatrix	1.8241725630000001	8
+MNIST	70000	784	10	51	9	perturbation	RankPreferences	0.098225054000000006	8
+MNIST	70000	784	10	51	9	perturbation	Assign	0.030110873000000003	8
+MNIST	70000	784	10	51	9	perturbation	UpdateClusterRadius	0.001168224	8
+MNIST	70000	784	10	51	9	local_search	GetClusterPairs	1.1741000000000005e-05	36
+MNIST	70000	784	10	51	9	local_search	GetProfits	0.06322343900000002	1620
+MNIST	70000	784	10	51	9	local_search	RankProfits	0.11249592699999997	1620
+MNIST	70000	784	10	51	9	local_search	FindSwapCount	8.8096000000001862e-05	1620
+MNIST	70000	784	10	51	9	local_search	Swap	0.00024428800000000098	1620
+MNIST	70000	784	10	51	9	local_search	UpdateClusterRadius	0.0048302180000000007	28
+MNIST	70000	784	10	51	9	tau_conversion	ReadyForTau	0	0
+MNIST	70000	784	10	51	9	tau_conversion	UpdateDistMatrix	0	0
+MNIST	70000	784	10	51	9	tau_conversion	RankPreferences	0	0
+MNIST	70000	784	10	51	9	tau_conversion	Transfer	0	0
+MNIST	70000	784	10	51	9	other	AcceptAndTerminate	0.001432289	7
+Santa	1437195	2	20	42	0	perturbation	UpdateCentroids	0.64676195299999983	13
+Santa	1437195	2	20	42	0	perturbation	UpdateDistMatrix	0.40202000799999998	13
+Santa	1437195	2	20	42	0	perturbation	RankPreferences	3.5934659009999996	13
+Santa	1437195	2	20	42	0	perturbation	Assign	3.5263286280000004	13
+Santa	1437195	2	20	42	0	perturbation	UpdateClusterRadius	0.027477675000000003	13
+Santa	1437195	2	20	42	0	local_search	GetClusterPairs	8.9973000000000041e-05	91
+Santa	1437195	2	20	42	0	local_search	GetProfits	39.430064121000207	17290
+Santa	1437195	2	20	42	0	local_search	RankProfits	10.10809306800004	17290
+Santa	1437195	2	20	42	0	local_search	FindSwapCount	0.003437629000000008	17290
+Santa	1437195	2	20	42	0	local_search	Swap	0.055416622999999596	17290
+Santa	1437195	2	20	42	0	local_search	UpdateClusterRadius	1.3198919760000001	78
+Santa	1437195	2	20	42	0	tau_conversion	ReadyForTau	0	0
+Santa	1437195	2	20	42	0	tau_conversion	UpdateDistMatrix	0	0
+Santa	1437195	2	20	42	0	tau_conversion	RankPreferences	0	0
+Santa	1437195	2	20	42	0	tau_conversion	Transfer	0	0
+Santa	1437195	2	20	42	0	other	AcceptAndTerminate	0.074497234000000009	12
+Santa	1437195	2	20	43	1	perturbation	UpdateCentroids	0.80936813399999985	18
+Santa	1437195	2	20	43	1	perturbation	UpdateDistMatrix	0.55974966199999998	18
+Santa	1437195	2	20	43	1	perturbation	RankPreferences	5.3778790799999996	18
+Santa	1437195	2	20	43	1	perturbation	Assign	5.2863966099999988	18
+Santa	1437195	2	20	43	1	perturbation	UpdateClusterRadius	0.039739776000000004	18
+Santa	1437195	2	20	43	1	local_search	GetClusterPairs	0.00019726699999999994	171
+Santa	1437195	2	20	43	1	local_search	GetProfits	74.531574532999841	32490
+Santa	1437195	2	20	43	1	local_search	RankProfits	18.084219855000057	32490
+Santa	1437195	2	20	43	1	local_search	FindSwapCount	0.0065448880000000828	32490
+Santa	1437195	2	20	43	1	local_search	Swap	0.097123285000008941	32490
+Santa	1437195	2	20	43	1	local_search	UpdateClusterRadius	2.6179089129999999	153
+Santa	1437195	2	20	43	1	tau_conversion	ReadyForTau	0	0
+Santa	1437195	2	20	43	1	tau_conversion	UpdateDistMatrix	0	0
+Santa	1437195	2	20	43	1	tau_conversion	RankPreferences	0	0
+Santa	1437195	2	20	43	1	tau_conversion	Transfer	0	0
+Santa	1437195	2	20	43	1	other	AcceptAndTerminate	0.10897201299999999	17
+Santa	1437195	2	20	44	2	perturbation	UpdateCentroids	0.558777199	11
+Santa	1437195	2	20	44	2	perturbation	UpdateDistMatrix	0.32968717600000003	11
+Santa	1437195	2	20	44	2	perturbation	RankPreferences	3.0449351550000001	11
+Santa	1437195	2	20	44	2	perturbation	Assign	2.9302427710000001	11
+Santa	1437195	2	20	44	2	perturbation	UpdateClusterRadius	0.022314209000000002	11
+Santa	1437195	2	20	44	2	local_search	GetClusterPairs	7.2563999999999992e-05	66
+Santa	1437195	2	20	44	2	local_search	GetProfits	26.844445401999902	12540
+Santa	1437195	2	20	44	2	local_search	RankProfits	8.8417161069999963	12540
+Santa	1437195	2	20	44	2	local_search	FindSwapCount	0.0023855240000000455	12540
+Santa	1437195	2	20	44	2	local_search	Swap	0.052722362999999037	12540
+Santa	1437195	2	20	44	2	local_search	UpdateClusterRadius	0.89671578099999993	55
+Santa	1437195	2	20	44	2	tau_conversion	ReadyForTau	0	0
+Santa	1437195	2	20	44	2	tau_conversion	UpdateDistMatrix	0	0
+Santa	1437195	2	20	44	2	tau_conversion	RankPreferences	0	0
+Santa	1437195	2	20	44	2	tau_conversion	Transfer	0	0
+Santa	1437195	2	20	44	2	other	AcceptAndTerminate	0.053879886000000002	10
+Santa	1437195	2	20	45	3	perturbation	UpdateCentroids	0.5266379659999999	9
+Santa	1437195	2	20	45	3	perturbation	UpdateDistMatrix	0.27868214099999999	9
+Santa	1437195	2	20	45	3	perturbation	RankPreferences	2.6016537150000003	9
+Santa	1437195	2	20	45	3	perturbation	Assign	3.0439422229999997	9
+Santa	1437195	2	20	45	3	perturbation	UpdateClusterRadius	0.019265472000000002	9
+Santa	1437195	2	20	45	3	local_search	GetClusterPairs	6.3149000000000015e-05	45
+Santa	1437195	2	20	45	3	local_search	GetProfits	20.156802758000019	8550
+Santa	1437195	2	20	45	3	local_search	RankProfits	7.1429692799999884	8550
+Santa	1437195	2	20	45	3	local_search	FindSwapCount	0.0017947190000000273	8550
+Santa	1437195	2	20	45	3	local_search	Swap	0.050251877999999091	8550
+Santa	1437195	2	20	45	3	local_search	UpdateClusterRadius	0.63979936400000004	36
+Santa	1437195	2	20	45	3	tau_conversion	ReadyForTau	0	0
+Santa	1437195	2	20	45	3	tau_conversion	UpdateDistMatrix	0	0
+Santa	1437195	2	20	45	3	tau_conversion	RankPreferences	0	0
+Santa	1437195	2	20	45	3	tau_conversion	Transfer	0	0
+Santa	1437195	2	20	45	3	other	AcceptAndTerminate	0.053276829999999997	8
+Santa	1437195	2	20	46	4	perturbation	UpdateCentroids	0.62594642899999986	12
+Santa	1437195	2	20	46	4	perturbation	UpdateDistMatrix	0.38124002000000007	12
+Santa	1437195	2	20	46	4	perturbation	RankPreferences	3.3263188239999995	12
+Santa	1437195	2	20	46	4	perturbation	Assign	3.821571923	12
+Santa	1437195	2	20	46	4	perturbation	UpdateClusterRadius	0.025864608000000004	12
+Santa	1437195	2	20	46	4	local_search	GetClusterPairs	0.00010440399999999996	78
+Santa	1437195	2	20	46	4	local_search	GetProfits	35.00027138300014	14820
+Santa	1437195	2	20	46	4	local_search	RankProfits	9.5961639139999821	14820
+Santa	1437195	2	20	46	4	local_search	FindSwapCount	0.0029898880000000122	14820
+Santa	1437195	2	20	46	4	local_search	Swap	0.058775652999996847	14820
+Santa	1437195	2	20	46	4	local_search	UpdateClusterRadius	1.1680625230000001	66
+Santa	1437195	2	20	46	4	tau_conversion	ReadyForTau	0	0
+Santa	1437195	2	20	46	4	tau_conversion	UpdateDistMatrix	0	0
+Santa	1437195	2	20	46	4	tau_conversion	RankPreferences	0	0
+Santa	1437195	2	20	46	4	tau_conversion	Transfer	0	0
+Santa	1437195	2	20	46	4	other	AcceptAndTerminate	0.072026673999999999	11
+Santa	1437195	2	20	47	5	perturbation	UpdateCentroids	0.72381739799999989	15
+Santa	1437195	2	20	47	5	perturbation	UpdateDistMatrix	0.46885753699999999	15
+Santa	1437195	2	20	47	5	perturbation	RankPreferences	4.5038312700000001	15
+Santa	1437195	2	20	47	5	perturbation	Assign	4.955905404000001	15
+Santa	1437195	2	20	47	5	perturbation	UpdateClusterRadius	0.032347094	15
+Santa	1437195	2	20	47	5	local_search	GetClusterPairs	0.00013834199999999998	120
+Santa	1437195	2	20	47	5	local_search	GetProfits	52.881286739999965	22800
+Santa	1437195	2	20	47	5	local_search	RankProfits	14.407939513999928	22800
+Santa	1437195	2	20	47	5	local_search	FindSwapCount	0.0046893840000000551	22800
+Santa	1437195	2	20	47	5	local_search	Swap	0.092274351000012036	22800
+Santa	1437195	2	20	47	5	local_search	UpdateClusterRadius	1.8511166800000001	105
+Santa	1437195	2	20	47	5	tau_conversion	ReadyForTau	0	0
+Santa	1437195	2	20	47	5	tau_conversion	UpdateDistMatrix	0	0
+Santa	1437195	2	20	47	5	tau_conversion	RankPreferences	0	0
+Santa	1437195	2	20	47	5	tau_conversion	Transfer	0	0
+Santa	1437195	2	20	47	5	other	AcceptAndTerminate	0.089558581999999984	14
+Santa	1437195	2	20	48	6	perturbation	UpdateCentroids	0.732080336	16
+Santa	1437195	2	20	48	6	perturbation	UpdateDistMatrix	0.48711936099999992	16
+Santa	1437195	2	20	48	6	perturbation	RankPreferences	4.5102366360000001	16
+Santa	1437195	2	20	48	6	perturbation	Assign	4.595965713	16
+Santa	1437195	2	20	48	6	perturbation	UpdateClusterRadius	0.034422763999999995	16
+Santa	1437195	2	20	48	6	local_search	GetClusterPairs	0.00016071199999999995	136
+Santa	1437195	2	20	48	6	local_search	GetProfits	57.568789902000198	25840
+Santa	1437195	2	20	48	6	local_search	RankProfits	14.933440897000047	25840
+Santa	1437195	2	20	48	6	local_search	FindSwapCount	0.0050428420000001245	25840
+Santa	1437195	2	20	48	6	local_search	Swap	0.081963972000009641	25840
+Santa	1437195	2	20	48	6	local_search	UpdateClusterRadius	2.0287804239999998	120
+Santa	1437195	2	20	48	6	tau_conversion	ReadyForTau	0	0
+Santa	1437195	2	20	48	6	tau_conversion	UpdateDistMatrix	0	0
+Santa	1437195	2	20	48	6	tau_conversion	RankPreferences	0	0
+Santa	1437195	2	20	48	6	tau_conversion	Transfer	0	0
+Santa	1437195	2	20	48	6	other	AcceptAndTerminate	0.077001993000000005	15
+Santa	1437195	2	20	49	7	perturbation	UpdateCentroids	0.687447908	14
+Santa	1437195	2	20	49	7	perturbation	UpdateDistMatrix	0.42333025699999999	14
+Santa	1437195	2	20	49	7	perturbation	RankPreferences	4.1495274439999994	14
+Santa	1437195	2	20	49	7	perturbation	Assign	4.1034712649999996	14
+Santa	1437195	2	20	49	7	perturbation	UpdateClusterRadius	0.030029106999999999	14
+Santa	1437195	2	20	49	7	local_search	GetClusterPairs	0.00010673399999999997	105
+Santa	1437195	2	20	49	7	local_search	GetProfits	45.051942571000083	19950
+Santa	1437195	2	20	49	7	local_search	RankProfits	12.247753659000084	19950
+Santa	1437195	2	20	49	7	local_search	FindSwapCount	0.0038810510000000611	19950
+Santa	1437195	2	20	49	7	local_search	Swap	0.070340532000003092	19950
+Santa	1437195	2	20	49	7	local_search	UpdateClusterRadius	1.5313959899999996	91
+Santa	1437195	2	20	49	7	tau_conversion	ReadyForTau	0	0
+Santa	1437195	2	20	49	7	tau_conversion	UpdateDistMatrix	0	0
+Santa	1437195	2	20	49	7	tau_conversion	RankPreferences	0	0
+Santa	1437195	2	20	49	7	tau_conversion	Transfer	0	0
+Santa	1437195	2	20	49	7	other	AcceptAndTerminate	0.08039868	13
+Santa	1437195	2	20	50	8	perturbation	UpdateCentroids	0.52800249600000004	9
+Santa	1437195	2	20	50	8	perturbation	UpdateDistMatrix	0.267142983	9
+Santa	1437195	2	20	50	8	perturbation	RankPreferences	2.5970923730000006	9
+Santa	1437195	2	20	50	8	perturbation	Assign	3.4103581780000005	9
+Santa	1437195	2	20	50	8	perturbation	UpdateClusterRadius	0.019432305	9
+Santa	1437195	2	20	50	8	local_search	GetClusterPairs	4.7678999999999995e-05	45
+Santa	1437195	2	20	50	8	local_search	GetProfits	19.085848585000015	8550
+Santa	1437195	2	20	50	8	local_search	RankProfits	7.3224623029999778	8550
+Santa	1437195	2	20	50	8	local_search	FindSwapCount	0.0018423240000000449	8550
+Santa	1437195	2	20	50	8	local_search	Swap	0.053404118999999035	8550
+Santa	1437195	2	20	50	8	local_search	UpdateClusterRadius	0.60660531500000003	36
+Santa	1437195	2	20	50	8	tau_conversion	ReadyForTau	0	0
+Santa	1437195	2	20	50	8	tau_conversion	UpdateDistMatrix	0	0
+Santa	1437195	2	20	50	8	tau_conversion	RankPreferences	0	0
+Santa	1437195	2	20	50	8	tau_conversion	Transfer	0	0
+Santa	1437195	2	20	50	8	other	AcceptAndTerminate	0.049357489999999997	8
+Santa	1437195	2	20	51	9	perturbation	UpdateCentroids	0.8658105020000002	19
+Santa	1437195	2	20	51	9	perturbation	UpdateDistMatrix	0.58609326399999995	19
+Santa	1437195	2	20	51	9	perturbation	RankPreferences	5.8356181340000006	19
+Santa	1437195	2	20	51	9	perturbation	Assign	5.4012190049999997	19
+Santa	1437195	2	20	51	9	perturbation	UpdateClusterRadius	0.040929061000000003	19
+Santa	1437195	2	20	51	9	local_search	GetClusterPairs	0.00025755100000000001	190
+Santa	1437195	2	20	51	9	local_search	GetProfits	85.564636299000298	36100
+Santa	1437195	2	20	51	9	local_search	RankProfits	18.864261806000009	36100
+Santa	1437195	2	20	51	9	local_search	FindSwapCount	0.0070914910000004	36100
+Santa	1437195	2	20	51	9	local_search	Swap	0.08705612500001432	36100
+Santa	1437195	2	20	51	9	local_search	UpdateClusterRadius	2.9683524650000002	171
+Santa	1437195	2	20	51	9	tau_conversion	ReadyForTau	0	0
+Santa	1437195	2	20	51	9	tau_conversion	UpdateDistMatrix	0	0
+Santa	1437195	2	20	51	9	tau_conversion	RankPreferences	0	0
+Santa	1437195	2	20	51	9	tau_conversion	Transfer	0	0
+Santa	1437195	2	20	51	9	other	AcceptAndTerminate	0.086441156999999991	18
+Sensorless Drive	58509	48	11	42	0	perturbation	UpdateCentroids	0.069170988999999988	11
+Sensorless Drive	58509	48	11	42	0	perturbation	UpdateDistMatrix	0.12873686200000001	11
+Sensorless Drive	58509	48	11	42	0	perturbation	RankPreferences	0.096395341999999995	11
+Sensorless Drive	58509	48	11	42	0	perturbation	Assign	0.068260025999999988	11
+Sensorless Drive	58509	48	11	42	0	perturbation	UpdateClusterRadius	0.0012846839999999999	11
+Sensorless Drive	58509	48	11	42	0	local_search	GetClusterPairs	2.5717000000000005e-05	66
+Sensorless Drive	58509	48	11	42	0	local_search	GetProfits	0.11743044699999979	3630
+Sensorless Drive	58509	48	11	42	0	local_search	RankProfits	0.29666151700000021	3630
+Sensorless Drive	58509	48	11	42	0	local_search	FindSwapCount	0.0002037690000000068	3630
+Sensorless Drive	58509	48	11	42	0	local_search	Swap	0.0010844409999999944	3630
+Sensorless Drive	58509	48	11	42	0	local_search	UpdateClusterRadius	0.008421449000000001	55
+Sensorless Drive	58509	48	11	42	0	tau_conversion	ReadyForTau	0	0
+Sensorless Drive	58509	48	11	42	0	tau_conversion	UpdateDistMatrix	0	0
+Sensorless Drive	58509	48	11	42	0	tau_conversion	RankPreferences	0	0
+Sensorless Drive	58509	48	11	42	0	tau_conversion	Transfer	0	0
+Sensorless Drive	58509	48	11	42	0	other	AcceptAndTerminate	0.0016534150000000001	10
+Sensorless Drive	58509	48	11	43	1	perturbation	UpdateCentroids	0.044937588000000001	6
+Sensorless Drive	58509	48	11	43	1	perturbation	UpdateDistMatrix	0.070223576999999995	6
+Sensorless Drive	58509	48	11	43	1	perturbation	RankPreferences	0.050682977000000004	6
+Sensorless Drive	58509	48	11	43	1	perturbation	Assign	0.058146595000000002	6
+Sensorless Drive	58509	48	11	43	1	perturbation	UpdateClusterRadius	0.00070761900000000004	6
+Sensorless Drive	58509	48	11	43	1	local_search	GetClusterPairs	9.6070000000000014e-06	21
+Sensorless Drive	58509	48	11	43	1	local_search	GetProfits	0.039581438000000045	1155
+Sensorless Drive	58509	48	11	43	1	local_search	RankProfits	0.13970420999999963	1155
+Sensorless Drive	58509	48	11	43	1	local_search	FindSwapCount	6.9733000000000398e-05	1155
+Sensorless Drive	58509	48	11	43	1	local_search	Swap	0.00075452099999999867	1155
+Sensorless Drive	58509	48	11	43	1	local_search	UpdateClusterRadius	0.0023113400000000003	15
+Sensorless Drive	58509	48	11	43	1	tau_conversion	ReadyForTau	0	0
+Sensorless Drive	58509	48	11	43	1	tau_conversion	UpdateDistMatrix	0	0
+Sensorless Drive	58509	48	11	43	1	tau_conversion	RankPreferences	0	0
+Sensorless Drive	58509	48	11	43	1	tau_conversion	Transfer	0	0
+Sensorless Drive	58509	48	11	43	1	other	AcceptAndTerminate	0.00081006000000000003	5
+Sensorless Drive	58509	48	11	44	2	perturbation	UpdateCentroids	0.046827187999999992	6
+Sensorless Drive	58509	48	11	44	2	perturbation	UpdateDistMatrix	0.069861365000000009	6
+Sensorless Drive	58509	48	11	44	2	perturbation	RankPreferences	0.050913612999999996	6
+Sensorless Drive	58509	48	11	44	2	perturbation	Assign	0.044717462999999999	6
+Sensorless Drive	58509	48	11	44	2	perturbation	UpdateClusterRadius	0.00070269000000000006	6
+Sensorless Drive	58509	48	11	44	2	local_search	GetClusterPairs	9.0350000000000007e-06	21
+Sensorless Drive	58509	48	11	44	2	local_search	GetProfits	0.040510197000000046	1155
+Sensorless Drive	58509	48	11	44	2	local_search	RankProfits	0.15703324399999993	1155
+Sensorless Drive	58509	48	11	44	2	local_search	FindSwapCount	6.9858000000000387e-05	1155
+Sensorless Drive	58509	48	11	44	2	local_search	Swap	0.00041946199999999442	1155
+Sensorless Drive	58509	48	11	44	2	local_search	UpdateClusterRadius	0.0028873129999999999	15
+Sensorless Drive	58509	48	11	44	2	tau_conversion	ReadyForTau	0	0
+Sensorless Drive	58509	48	11	44	2	tau_conversion	UpdateDistMatrix	0	0
+Sensorless Drive	58509	48	11	44	2	tau_conversion	RankPreferences	0	0
+Sensorless Drive	58509	48	11	44	2	tau_conversion	Transfer	0	0
+Sensorless Drive	58509	48	11	44	2	other	AcceptAndTerminate	0.00083591000000000004	5
+Sensorless Drive	58509	48	11	45	3	perturbation	UpdateCentroids	0.050030472999999999	7
+Sensorless Drive	58509	48	11	45	3	perturbation	UpdateDistMatrix	0.081704740999999997	7
+Sensorless Drive	58509	48	11	45	3	perturbation	RankPreferences	0.063585988999999996	7
+Sensorless Drive	58509	48	11	45	3	perturbation	Assign	0.049718327	7
+Sensorless Drive	58509	48	11	45	3	perturbation	UpdateClusterRadius	0.00081723600000000005	7
+Sensorless Drive	58509	48	11	45	3	local_search	GetClusterPairs	1.1702000000000002e-05	28
+Sensorless Drive	58509	48	11	45	3	local_search	GetProfits	0.051600140999999974	1540
+Sensorless Drive	58509	48	11	45	3	local_search	RankProfits	0.19547997999999964	1540
+Sensorless Drive	58509	48	11	45	3	local_search	FindSwapCount	9.5070000000001053e-05	1540
+Sensorless Drive	58509	48	11	45	3	local_search	Swap	0.00054779899999999649	1540
+Sensorless Drive	58509	48	11	45	3	local_search	UpdateClusterRadius	0.0034670689999999984	21
+Sensorless Drive	58509	48	11	45	3	tau_conversion	ReadyForTau	0	0
+Sensorless Drive	58509	48	11	45	3	tau_conversion	UpdateDistMatrix	0	0
+Sensorless Drive	58509	48	11	45	3	tau_conversion	RankPreferences	0	0
+Sensorless Drive	58509	48	11	45	3	tau_conversion	Transfer	0	0
+Sensorless Drive	58509	48	11	45	3	other	AcceptAndTerminate	0.00098574199999999996	6
+Sensorless Drive	58509	48	11	46	4	perturbation	UpdateCentroids	0.051133805000000004	7
+Sensorless Drive	58509	48	11	46	4	perturbation	UpdateDistMatrix	0.082556328999999998	7
+Sensorless Drive	58509	48	11	46	4	perturbation	RankPreferences	0.061667859000000005	7
+Sensorless Drive	58509	48	11	46	4	perturbation	Assign	0.063413716999999994	7
+Sensorless Drive	58509	48	11	46	4	perturbation	UpdateClusterRadius	0.00082349799999999998	7
+Sensorless Drive	58509	48	11	46	4	local_search	GetClusterPairs	1.2924999999999999e-05	28
+Sensorless Drive	58509	48	11	46	4	local_search	GetProfits	0.054427297000000027	1540
+Sensorless Drive	58509	48	11	46	4	local_search	RankProfits	0.18512228099999997	1540
+Sensorless Drive	58509	48	11	46	4	local_search	FindSwapCount	9.6062000000001168e-05	1540
+Sensorless Drive	58509	48	11	46	4	local_search	Swap	0.00093305199999999932	1540
+Sensorless Drive	58509	48	11	46	4	local_search	UpdateClusterRadius	0.0046530880000000005	21
+Sensorless Drive	58509	48	11	46	4	tau_conversion	ReadyForTau	0	0
+Sensorless Drive	58509	48	11	46	4	tau_conversion	UpdateDistMatrix	0	0
+Sensorless Drive	58509	48	11	46	4	tau_conversion	RankPreferences	0	0
+Sensorless Drive	58509	48	11	46	4	tau_conversion	Transfer	0	0
+Sensorless Drive	58509	48	11	46	4	other	AcceptAndTerminate	0.00094157900000000001	6
+Sensorless Drive	58509	48	11	47	5	perturbation	UpdateCentroids	0.049020345999999992	7
+Sensorless Drive	58509	48	11	47	5	perturbation	UpdateDistMatrix	0.081871752999999992	7
+Sensorless Drive	58509	48	11	47	5	perturbation	RankPreferences	0.062212542000000003	7
+Sensorless Drive	58509	48	11	47	5	perturbation	Assign	0.039936915999999996	7
+Sensorless Drive	58509	48	11	47	5	perturbation	UpdateClusterRadius	0.00082627299999999998	7
+Sensorless Drive	58509	48	11	47	5	local_search	GetClusterPairs	7.8240000000000017e-06	28
+Sensorless Drive	58509	48	11	47	5	local_search	GetProfits	0.03848618600000004	1540
+Sensorless Drive	58509	48	11	47	5	local_search	RankProfits	0.17290231700000072	1540
+Sensorless Drive	58509	48	11	47	5	local_search	FindSwapCount	9.2610000000001107e-05	1540
+Sensorless Drive	58509	48	11	47	5	local_search	Swap	0.00045675499999999343	1540
+Sensorless Drive	58509	48	11	47	5	local_search	UpdateClusterRadius	0.0019031249999999997	21
+Sensorless Drive	58509	48	11	47	5	tau_conversion	ReadyForTau	0	0
+Sensorless Drive	58509	48	11	47	5	tau_conversion	UpdateDistMatrix	0	0
+Sensorless Drive	58509	48	11	47	5	tau_conversion	RankPreferences	0	0
+Sensorless Drive	58509	48	11	47	5	tau_conversion	Transfer	0	0
+Sensorless Drive	58509	48	11	47	5	other	AcceptAndTerminate	0.00093805199999999998	6
+Sensorless Drive	58509	48	11	48	6	perturbation	UpdateCentroids	0.052008696999999993	7
+Sensorless Drive	58509	48	11	48	6	perturbation	UpdateDistMatrix	0.081619740999999996	7
+Sensorless Drive	58509	48	11	48	6	perturbation	RankPreferences	0.060384840000000002	7
+Sensorless Drive	58509	48	11	48	6	perturbation	Assign	0.053041596999999989	7
+Sensorless Drive	58509	48	11	48	6	perturbation	UpdateClusterRadius	0.00082783399999999995	7
+Sensorless Drive	58509	48	11	48	6	local_search	GetClusterPairs	1.5475e-05	28
+Sensorless Drive	58509	48	11	48	6	local_search	GetProfits	0.056090904999999927	1540
+Sensorless Drive	58509	48	11	48	6	local_search	RankProfits	0.18365971799999969	1540
+Sensorless Drive	58509	48	11	48	6	local_search	FindSwapCount	9.1498000000000837e-05	1540
+Sensorless Drive	58509	48	11	48	6	local_search	Swap	0.0005192549999999956	1540
+Sensorless Drive	58509	48	11	48	6	local_search	UpdateClusterRadius	0.0049987569999999995	21
+Sensorless Drive	58509	48	11	48	6	tau_conversion	ReadyForTau	0	0
+Sensorless Drive	58509	48	11	48	6	tau_conversion	UpdateDistMatrix	0	0
+Sensorless Drive	58509	48	11	48	6	tau_conversion	RankPreferences	0	0
+Sensorless Drive	58509	48	11	48	6	tau_conversion	Transfer	0	0
+Sensorless Drive	58509	48	11	48	6	other	AcceptAndTerminate	0.00098280500000000001	6
+Sensorless Drive	58509	48	11	49	7	perturbation	UpdateCentroids	0.056843125000000001	8
+Sensorless Drive	58509	48	11	49	7	perturbation	UpdateDistMatrix	0.093468914	8
+Sensorless Drive	58509	48	11	49	7	perturbation	RankPreferences	0.071464798999999996	8
+Sensorless Drive	58509	48	11	49	7	perturbation	Assign	0.077110660999999997	8
+Sensorless Drive	58509	48	11	49	7	perturbation	UpdateClusterRadius	0.00094714899999999999	8
+Sensorless Drive	58509	48	11	49	7	local_search	GetClusterPairs	1.7953999999999994e-05	36
+Sensorless Drive	58509	48	11	49	7	local_search	GetProfits	0.079638614000000052	1980
+Sensorless Drive	58509	48	11	49	7	local_search	RankProfits	0.19853520600000019	1980
+Sensorless Drive	58509	48	11	49	7	local_search	FindSwapCount	0.00011316000000000189	1980
+Sensorless Drive	58509	48	11	49	7	local_search	Swap	0.00081527499999999953	1980
+Sensorless Drive	58509	48	11	49	7	local_search	UpdateClusterRadius	0.0076154739999999997	28
+Sensorless Drive	58509	48	11	49	7	tau_conversion	ReadyForTau	0	0
+Sensorless Drive	58509	48	11	49	7	tau_conversion	UpdateDistMatrix	0	0
+Sensorless Drive	58509	48	11	49	7	tau_conversion	RankPreferences	0	0
+Sensorless Drive	58509	48	11	49	7	tau_conversion	Transfer	0	0
+Sensorless Drive	58509	48	11	49	7	other	AcceptAndTerminate	0.001141764	7
+Sensorless Drive	58509	48	11	50	8	perturbation	UpdateCentroids	0.056944516999999993	8
+Sensorless Drive	58509	48	11	50	8	perturbation	UpdateDistMatrix	0.093085525000000002	8
+Sensorless Drive	58509	48	11	50	8	perturbation	RankPreferences	0.071888374000000005	8
+Sensorless Drive	58509	48	11	50	8	perturbation	Assign	0.054672961000000006	8
+Sensorless Drive	58509	48	11	50	8	perturbation	UpdateClusterRadius	0.00093988399999999999	8
+Sensorless Drive	58509	48	11	50	8	local_search	GetClusterPairs	1.6842999999999998e-05	36
+Sensorless Drive	58509	48	11	50	8	local_search	GetProfits	0.077673589999999987	1980
+Sensorless Drive	58509	48	11	50	8	local_search	RankProfits	0.20864759200000027	1980
+Sensorless Drive	58509	48	11	50	8	local_search	FindSwapCount	0.00011249500000000214	1980
+Sensorless Drive	58509	48	11	50	8	local_search	Swap	0.00093411200000000116	1980
+Sensorless Drive	58509	48	11	50	8	local_search	UpdateClusterRadius	0.0061206640000000005	28
+Sensorless Drive	58509	48	11	50	8	tau_conversion	ReadyForTau	0	0
+Sensorless Drive	58509	48	11	50	8	tau_conversion	UpdateDistMatrix	0	0
+Sensorless Drive	58509	48	11	50	8	tau_conversion	RankPreferences	0	0
+Sensorless Drive	58509	48	11	50	8	tau_conversion	Transfer	0	0
+Sensorless Drive	58509	48	11	50	8	other	AcceptAndTerminate	0.001145711	7
+Sensorless Drive	58509	48	11	51	9	perturbation	UpdateCentroids	0.060937106999999997	9
+Sensorless Drive	58509	48	11	51	9	perturbation	UpdateDistMatrix	0.108007727	9
+Sensorless Drive	58509	48	11	51	9	perturbation	RankPreferences	0.081996310000000003	9
+Sensorless Drive	58509	48	11	51	9	perturbation	Assign	0.075453669000000001	9
+Sensorless Drive	58509	48	11	51	9	perturbation	UpdateClusterRadius	0.0010608029999999999	9
+Sensorless Drive	58509	48	11	51	9	local_search	GetClusterPairs	2.0097000000000011e-05	45
+Sensorless Drive	58509	48	11	51	9	local_search	GetProfits	0.0863093840000001	2475
+Sensorless Drive	58509	48	11	51	9	local_search	RankProfits	0.21540801300000056	2475
+Sensorless Drive	58509	48	11	51	9	local_search	FindSwapCount	0.00013906200000000365	2475
+Sensorless Drive	58509	48	11	51	9	local_search	Swap	0.00096836300000000019	2475
+Sensorless Drive	58509	48	11	51	9	local_search	UpdateClusterRadius	0.0074487809999999998	36
+Sensorless Drive	58509	48	11	51	9	tau_conversion	ReadyForTau	0	0
+Sensorless Drive	58509	48	11	51	9	tau_conversion	UpdateDistMatrix	0	0
+Sensorless Drive	58509	48	11	51	9	tau_conversion	RankPreferences	0	0
+Sensorless Drive	58509	48	11	51	9	tau_conversion	Transfer	0	0
+Sensorless Drive	58509	48	11	51	9	other	AcceptAndTerminate	0.0013327029999999998	8
+Shuttle	58000	7	7	42	0	perturbation	UpdateCentroids	0.0083072630000000005	6
+Shuttle	58000	7	7	42	0	perturbation	UpdateDistMatrix	0.0081534520000000003	6
+Shuttle	58000	7	7	42	0	perturbation	RankPreferences	0.028704900000000002	6
+Shuttle	58000	7	7	42	0	perturbation	Assign	0.037457839999999999	6
+Shuttle	58000	7	7	42	0	perturbation	UpdateClusterRadius	0.00090640199999999995	6
+Shuttle	58000	7	7	42	0	local_search	GetClusterPairs	2.382999999999999e-06	21
+Shuttle	58000	7	7	42	0	local_search	GetProfits	0.018335671999999994	441
+Shuttle	58000	7	7	42	0	local_search	RankProfits	0.15011160799999995	441
+Shuttle	58000	7	7	42	0	local_search	FindSwapCount	3.0888999999999995e-05	441
+Shuttle	58000	7	7	42	0	local_search	Swap	0.00038958599999999841	441
+Shuttle	58000	7	7	42	0	local_search	UpdateClusterRadius	0.001630551	15
+Shuttle	58000	7	7	42	0	tau_conversion	ReadyForTau	0	0
+Shuttle	58000	7	7	42	0	tau_conversion	UpdateDistMatrix	0	0
+Shuttle	58000	7	7	42	0	tau_conversion	RankPreferences	0	0
+Shuttle	58000	7	7	42	0	tau_conversion	Transfer	0	0
+Shuttle	58000	7	7	42	0	other	AcceptAndTerminate	0.00074179300000000014	5
+Shuttle	58000	7	7	43	1	perturbation	UpdateCentroids	0.0077197469999999999	6
+Shuttle	58000	7	7	43	1	perturbation	UpdateDistMatrix	0.0080554709999999998	6
+Shuttle	58000	7	7	43	1	perturbation	RankPreferences	0.027942466999999999	6
+Shuttle	58000	7	7	43	1	perturbation	Assign	0.041499721000000003	6
+Shuttle	58000	7	7	43	1	perturbation	UpdateClusterRadius	0.00084638999999999992	6
+Shuttle	58000	7	7	43	1	local_search	GetClusterPairs	3.0970000000000002e-06	21
+Shuttle	58000	7	7	43	1	local_search	GetProfits	0.018223221000000008	441
+Shuttle	58000	7	7	43	1	local_search	RankProfits	0.15727656999999989	441
+Shuttle	58000	7	7	43	1	local_search	FindSwapCount	3.3823000000000032e-05	441
+Shuttle	58000	7	7	43	1	local_search	Swap	0.00046251999999999914	441
+Shuttle	58000	7	7	43	1	local_search	UpdateClusterRadius	0.001567564	15
+Shuttle	58000	7	7	43	1	tau_conversion	ReadyForTau	0	0
+Shuttle	58000	7	7	43	1	tau_conversion	UpdateDistMatrix	0	0
+Shuttle	58000	7	7	43	1	tau_conversion	RankPreferences	0	0
+Shuttle	58000	7	7	43	1	tau_conversion	Transfer	0	0
+Shuttle	58000	7	7	43	1	other	AcceptAndTerminate	0.00072920100000000007	5
+Shuttle	58000	7	7	44	2	perturbation	UpdateCentroids	0.0079265580000000002	6
+Shuttle	58000	7	7	44	2	perturbation	UpdateDistMatrix	0.0080492259999999996	6
+Shuttle	58000	7	7	44	2	perturbation	RankPreferences	0.029858277000000003	6
+Shuttle	58000	7	7	44	2	perturbation	Assign	0.039705561	6
+Shuttle	58000	7	7	44	2	perturbation	UpdateClusterRadius	0.0008268730000000001	6
+Shuttle	58000	7	7	44	2	local_search	GetClusterPairs	2.9850000000000002e-06	21
+Shuttle	58000	7	7	44	2	local_search	GetProfits	0.018609870000000011	441
+Shuttle	58000	7	7	44	2	local_search	RankProfits	0.16677755100000027	441
+Shuttle	58000	7	7	44	2	local_search	FindSwapCount	3.3071999999999977e-05	441
+Shuttle	58000	7	7	44	2	local_search	Swap	0.00046419499999999738	441
+Shuttle	58000	7	7	44	2	local_search	UpdateClusterRadius	0.0017875160000000003	15
+Shuttle	58000	7	7	44	2	tau_conversion	ReadyForTau	0	0
+Shuttle	58000	7	7	44	2	tau_conversion	UpdateDistMatrix	0	0
+Shuttle	58000	7	7	44	2	tau_conversion	RankPreferences	0	0
+Shuttle	58000	7	7	44	2	tau_conversion	Transfer	0	0
+Shuttle	58000	7	7	44	2	other	AcceptAndTerminate	0.00074218299999999999	5
+Shuttle	58000	7	7	45	3	perturbation	UpdateCentroids	0.006979728000000001	6
+Shuttle	58000	7	7	45	3	perturbation	UpdateDistMatrix	0.0080558899999999996	6
+Shuttle	58000	7	7	45	3	perturbation	RankPreferences	0.028480569000000001	6
+Shuttle	58000	7	7	45	3	perturbation	Assign	0.039057734999999996	6
+Shuttle	58000	7	7	45	3	perturbation	UpdateClusterRadius	0.00083914500000000002	6
+Shuttle	58000	7	7	45	3	local_search	GetClusterPairs	3.2660000000000002e-06	21
+Shuttle	58000	7	7	45	3	local_search	GetProfits	0.017772820000000009	441
+Shuttle	58000	7	7	45	3	local_search	RankProfits	0.1601136070000001	441
+Shuttle	58000	7	7	45	3	local_search	FindSwapCount	3.2550000000000025e-05	441
+Shuttle	58000	7	7	45	3	local_search	Swap	0.0004071749999999991	441
+Shuttle	58000	7	7	45	3	local_search	UpdateClusterRadius	0.0016430050000000006	15
+Shuttle	58000	7	7	45	3	tau_conversion	ReadyForTau	0	0
+Shuttle	58000	7	7	45	3	tau_conversion	UpdateDistMatrix	0	0
+Shuttle	58000	7	7	45	3	tau_conversion	RankPreferences	0	0
+Shuttle	58000	7	7	45	3	tau_conversion	Transfer	0	0
+Shuttle	58000	7	7	45	3	other	AcceptAndTerminate	0.00076701999999999998	5
+Shuttle	58000	7	7	46	4	perturbation	UpdateCentroids	0.0077921220000000003	6
+Shuttle	58000	7	7	46	4	perturbation	UpdateDistMatrix	0.0080277679999999994	6
+Shuttle	58000	7	7	46	4	perturbation	RankPreferences	0.026896816	6
+Shuttle	58000	7	7	46	4	perturbation	Assign	0.042227346999999998	6
+Shuttle	58000	7	7	46	4	perturbation	UpdateClusterRadius	0.00087900000000000001	6
+Shuttle	58000	7	7	46	4	local_search	GetClusterPairs	2.9059999999999998e-06	21
+Shuttle	58000	7	7	46	4	local_search	GetProfits	0.017866614999999992	441
+Shuttle	58000	7	7	46	4	local_search	RankProfits	0.18317364399999997	441
+Shuttle	58000	7	7	46	4	local_search	FindSwapCount	3.171799999999999e-05	441
+Shuttle	58000	7	7	46	4	local_search	Swap	0.00053077399999999872	441
+Shuttle	58000	7	7	46	4	local_search	UpdateClusterRadius	0.0015717019999999999	15
+Shuttle	58000	7	7	46	4	tau_conversion	ReadyForTau	0	0
+Shuttle	58000	7	7	46	4	tau_conversion	UpdateDistMatrix	0	0
+Shuttle	58000	7	7	46	4	tau_conversion	RankPreferences	0	0
+Shuttle	58000	7	7	46	4	tau_conversion	Transfer	0	0
+Shuttle	58000	7	7	46	4	other	AcceptAndTerminate	0.000744566	5
+Shuttle	58000	7	7	47	5	perturbation	UpdateCentroids	0.0069685470000000003	6
+Shuttle	58000	7	7	47	5	perturbation	UpdateDistMatrix	0.0080426849999999991	6
+Shuttle	58000	7	7	47	5	perturbation	RankPreferences	0.029539849	6
+Shuttle	58000	7	7	47	5	perturbation	Assign	0.038492291999999997	6
+Shuttle	58000	7	7	47	5	perturbation	UpdateClusterRadius	0.00090105200000000006	6
+Shuttle	58000	7	7	47	5	local_search	GetClusterPairs	2.2130000000000002e-06	21
+Shuttle	58000	7	7	47	5	local_search	GetProfits	0.018412743000000002	441
+Shuttle	58000	7	7	47	5	local_search	RankProfits	0.16524801000000028	441
+Shuttle	58000	7	7	47	5	local_search	FindSwapCount	3.3317000000000013e-05	441
+Shuttle	58000	7	7	47	5	local_search	Swap	0.00045741099999999806	441
+Shuttle	58000	7	7	47	5	local_search	UpdateClusterRadius	0.0015371169999999997	15
+Shuttle	58000	7	7	47	5	tau_conversion	ReadyForTau	0	0
+Shuttle	58000	7	7	47	5	tau_conversion	UpdateDistMatrix	0	0
+Shuttle	58000	7	7	47	5	tau_conversion	RankPreferences	0	0
+Shuttle	58000	7	7	47	5	tau_conversion	Transfer	0	0
+Shuttle	58000	7	7	47	5	other	AcceptAndTerminate	0.00072574300000000005	5
+Shuttle	58000	7	7	48	6	perturbation	UpdateCentroids	0.0076646340000000009	6
+Shuttle	58000	7	7	48	6	perturbation	UpdateDistMatrix	0.0080854169999999993	6
+Shuttle	58000	7	7	48	6	perturbation	RankPreferences	0.027479267000000002	6
+Shuttle	58000	7	7	48	6	perturbation	Assign	0.039662570000000001	6
+Shuttle	58000	7	7	48	6	perturbation	UpdateClusterRadius	0.00089463200000000002	6
+Shuttle	58000	7	7	48	6	local_search	GetClusterPairs	3.2180000000000004e-06	21
+Shuttle	58000	7	7	48	6	local_search	GetProfits	0.019028032999999996	441
+Shuttle	58000	7	7	48	6	local_search	RankProfits	0.17225340399999992	441
+Shuttle	58000	7	7	48	6	local_search	FindSwapCount	3.7536000000000008e-05	441
+Shuttle	58000	7	7	48	6	local_search	Swap	0.00047529999999999843	441
+Shuttle	58000	7	7	48	6	local_search	UpdateClusterRadius	0.0017445049999999999	15
+Shuttle	58000	7	7	48	6	tau_conversion	ReadyForTau	0	0
+Shuttle	58000	7	7	48	6	tau_conversion	UpdateDistMatrix	0	0
+Shuttle	58000	7	7	48	6	tau_conversion	RankPreferences	0	0
+Shuttle	58000	7	7	48	6	tau_conversion	Transfer	0	0
+Shuttle	58000	7	7	48	6	other	AcceptAndTerminate	0.00075749299999999993	5
+Shuttle	58000	7	7	49	7	perturbation	UpdateCentroids	0.0069702520000000006	6
+Shuttle	58000	7	7	49	7	perturbation	UpdateDistMatrix	0.0081970849999999998	6
+Shuttle	58000	7	7	49	7	perturbation	RankPreferences	0.027583273999999998	6
+Shuttle	58000	7	7	49	7	perturbation	Assign	0.040011005000000002	6
+Shuttle	58000	7	7	49	7	perturbation	UpdateClusterRadius	0.00083855400000000004	6
+Shuttle	58000	7	7	49	7	local_search	GetClusterPairs	2.6049999999999992e-06	21
+Shuttle	58000	7	7	49	7	local_search	GetProfits	0.01831445000000001	441
+Shuttle	58000	7	7	49	7	local_search	RankProfits	0.16007441100000025	441
+Shuttle	58000	7	7	49	7	local_search	FindSwapCount	3.1022999999999998e-05	441
+Shuttle	58000	7	7	49	7	local_search	Swap	0.00043001099999999821	441
+Shuttle	58000	7	7	49	7	local_search	UpdateClusterRadius	0.0018260969999999998	15
+Shuttle	58000	7	7	49	7	tau_conversion	ReadyForTau	0	0
+Shuttle	58000	7	7	49	7	tau_conversion	UpdateDistMatrix	0	0
+Shuttle	58000	7	7	49	7	tau_conversion	RankPreferences	0	0
+Shuttle	58000	7	7	49	7	tau_conversion	Transfer	0	0
+Shuttle	58000	7	7	49	7	other	AcceptAndTerminate	0.00074098099999999993	5
+Shuttle	58000	7	7	50	8	perturbation	UpdateCentroids	0.0077921130000000007	6
+Shuttle	58000	7	7	50	8	perturbation	UpdateDistMatrix	0.0080537760000000003	6
+Shuttle	58000	7	7	50	8	perturbation	RankPreferences	0.027384401999999999	6
+Shuttle	58000	7	7	50	8	perturbation	Assign	0.043317834	6
+Shuttle	58000	7	7	50	8	perturbation	UpdateClusterRadius	0.00081225700000000004	6
+Shuttle	58000	7	7	50	8	local_search	GetClusterPairs	2.3539999999999998e-06	21
+Shuttle	58000	7	7	50	8	local_search	GetProfits	0.017536338000000009	441
+Shuttle	58000	7	7	50	8	local_search	RankProfits	0.17697964300000013	441
+Shuttle	58000	7	7	50	8	local_search	FindSwapCount	3.2472000000000004e-05	441
+Shuttle	58000	7	7	50	8	local_search	Swap	0.00044996199999999803	441
+Shuttle	58000	7	7	50	8	local_search	UpdateClusterRadius	0.0017276769999999999	15
+Shuttle	58000	7	7	50	8	tau_conversion	ReadyForTau	0	0
+Shuttle	58000	7	7	50	8	tau_conversion	UpdateDistMatrix	0	0
+Shuttle	58000	7	7	50	8	tau_conversion	RankPreferences	0	0
+Shuttle	58000	7	7	50	8	tau_conversion	Transfer	0	0
+Shuttle	58000	7	7	50	8	other	AcceptAndTerminate	0.0007740920000000001	5
+Shuttle	58000	7	7	51	9	perturbation	UpdateCentroids	0.0076873059999999997	6
+Shuttle	58000	7	7	51	9	perturbation	UpdateDistMatrix	0.0080607000000000005	6
+Shuttle	58000	7	7	51	9	perturbation	RankPreferences	0.028318296	6
+Shuttle	58000	7	7	51	9	perturbation	Assign	0.037872608000000002	6
+Shuttle	58000	7	7	51	9	perturbation	UpdateClusterRadius	0.00088022400000000009	6
+Shuttle	58000	7	7	51	9	local_search	GetClusterPairs	2.6120000000000001e-06	21
+Shuttle	58000	7	7	51	9	local_search	GetProfits	0.019295648999999988	441
+Shuttle	58000	7	7	51	9	local_search	RankProfits	0.14600986699999999	441
+Shuttle	58000	7	7	51	9	local_search	FindSwapCount	3.1278999999999983e-05	441
+Shuttle	58000	7	7	51	9	local_search	Swap	0.00046366899999999886	441
+Shuttle	58000	7	7	51	9	local_search	UpdateClusterRadius	0.0018343850000000002	15
+Shuttle	58000	7	7	51	9	tau_conversion	ReadyForTau	0	0
+Shuttle	58000	7	7	51	9	tau_conversion	UpdateDistMatrix	0	0
+Shuttle	58000	7	7	51	9	tau_conversion	RankPreferences	0	0
+Shuttle	58000	7	7	51	9	tau_conversion	Transfer	0	0
+Shuttle	58000	7	7	51	9	other	AcceptAndTerminate	0.00076190100000000005	5
+Worms2	105600	2	35	42	0	perturbation	UpdateCentroids	0.040906260000000007	13
+Worms2	105600	2	35	42	0	perturbation	UpdateDistMatrix	0.043822738	13
+Worms2	105600	2	35	42	0	perturbation	RankPreferences	0.38579561299999998	13
+Worms2	105600	2	35	42	0	perturbation	Assign	0.11782508100000001	13
+Worms2	105600	2	35	42	0	perturbation	UpdateClusterRadius	0.0017299499999999998	13
+Worms2	105600	2	35	42	0	local_search	GetClusterPairs	0.00016052999999999996	91
+Worms2	105600	2	35	42	0	local_search	GetProfits	2.3698137340000085	54145
+Worms2	105600	2	35	42	0	local_search	RankProfits	0.68518732499999957	54145
+Worms2	105600	2	35	42	0	local_search	FindSwapCount	0.0021924910000004029	54145
+Worms2	105600	2	35	42	0	local_search	Swap	0.0025434750000006084	54145
+Worms2	105600	2	35	42	0	local_search	UpdateClusterRadius	0.074498696999999961	78
+Worms2	105600	2	35	42	0	tau_conversion	ReadyForTau	0	0
+Worms2	105600	2	35	42	0	tau_conversion	UpdateDistMatrix	0	0
+Worms2	105600	2	35	42	0	tau_conversion	RankPreferences	0	0
+Worms2	105600	2	35	42	0	tau_conversion	Transfer	0	0
+Worms2	105600	2	35	42	0	other	AcceptAndTerminate	0.0042569280000000001	12
+Worms2	105600	2	35	43	1	perturbation	UpdateCentroids	0.041456686	14
+Worms2	105600	2	35	43	1	perturbation	UpdateDistMatrix	0.047054759000000002	14
+Worms2	105600	2	35	43	1	perturbation	RankPreferences	0.40523736699999996	14
+Worms2	105600	2	35	43	1	perturbation	Assign	0.13046883199999998	14
+Worms2	105600	2	35	43	1	perturbation	UpdateClusterRadius	0.0018862529999999998	14
+Worms2	105600	2	35	43	1	local_search	GetClusterPairs	0.00018088999999999996	105
+Worms2	105600	2	35	43	1	local_search	GetProfits	2.7055940560000131	62475
+Worms2	105600	2	35	43	1	local_search	RankProfits	0.78051739599999415	62475
+Worms2	105600	2	35	43	1	local_search	FindSwapCount	0.0025417940000014212	62475
+Worms2	105600	2	35	43	1	local_search	Swap	0.0029556510000010752	62475
+Worms2	105600	2	35	43	1	local_search	UpdateClusterRadius	0.085770886000000018	91
+Worms2	105600	2	35	43	1	tau_conversion	ReadyForTau	0	0
+Worms2	105600	2	35	43	1	tau_conversion	UpdateDistMatrix	0	0
+Worms2	105600	2	35	43	1	tau_conversion	RankPreferences	0	0
+Worms2	105600	2	35	43	1	tau_conversion	Transfer	0	0
+Worms2	105600	2	35	43	1	other	AcceptAndTerminate	0.0046796479999999998	13
+Worms2	105600	2	35	44	2	perturbation	UpdateCentroids	0.040780093999999996	14
+Worms2	105600	2	35	44	2	perturbation	UpdateDistMatrix	0.047275555000000004	14
+Worms2	105600	2	35	44	2	perturbation	RankPreferences	0.40749704999999997	14
+Worms2	105600	2	35	44	2	perturbation	Assign	0.13198609	14
+Worms2	105600	2	35	44	2	perturbation	UpdateClusterRadius	0.0018910110000000002	14
+Worms2	105600	2	35	44	2	local_search	GetClusterPairs	0.00020142200000000012	105
+Worms2	105600	2	35	44	2	local_search	GetProfits	2.717354309999966	62475
+Worms2	105600	2	35	44	2	local_search	RankProfits	0.79747964099999569	62475
+Worms2	105600	2	35	44	2	local_search	FindSwapCount	0.0025321670000013423	62475
+Worms2	105600	2	35	44	2	local_search	Swap	0.0029760320000010816	62475
+Worms2	105600	2	35	44	2	local_search	UpdateClusterRadius	0.086838661999999997	91
+Worms2	105600	2	35	44	2	tau_conversion	ReadyForTau	0	0
+Worms2	105600	2	35	44	2	tau_conversion	UpdateDistMatrix	0	0
+Worms2	105600	2	35	44	2	tau_conversion	RankPreferences	0	0
+Worms2	105600	2	35	44	2	tau_conversion	Transfer	0	0
+Worms2	105600	2	35	44	2	other	AcceptAndTerminate	0.0046495919999999993	13
+Worms2	105600	2	35	45	3	perturbation	UpdateCentroids	0.041128298000000001	15
+Worms2	105600	2	35	45	3	perturbation	UpdateDistMatrix	0.050841704000000001	15
+Worms2	105600	2	35	45	3	perturbation	RankPreferences	0.47354246699999991	15
+Worms2	105600	2	35	45	3	perturbation	Assign	0.11506983900000001	15
+Worms2	105600	2	35	45	3	perturbation	UpdateClusterRadius	0.00206486	15
+Worms2	105600	2	35	45	3	local_search	GetClusterPairs	0.0002047049999999999	120
+Worms2	105600	2	35	45	3	local_search	GetProfits	3.1207526289999983	71400
+Worms2	105600	2	35	45	3	local_search	RankProfits	0.78537331599998395	71400
+Worms2	105600	2	35	45	3	local_search	FindSwapCount	0.002841324000002175	71400
+Worms2	105600	2	35	45	3	local_search	Swap	0.0030612050000012043	71400
+Worms2	105600	2	35	45	3	local_search	UpdateClusterRadius	0.10046452099999999	105
+Worms2	105600	2	35	45	3	tau_conversion	ReadyForTau	0	0
+Worms2	105600	2	35	45	3	tau_conversion	UpdateDistMatrix	0	0
+Worms2	105600	2	35	45	3	tau_conversion	RankPreferences	0	0
+Worms2	105600	2	35	45	3	tau_conversion	Transfer	0	0
+Worms2	105600	2	35	45	3	other	AcceptAndTerminate	0.0050480230000000004	14
+Worms2	105600	2	35	46	4	perturbation	UpdateCentroids	0.057627397999999982	32
+Worms2	105600	2	35	46	4	perturbation	UpdateDistMatrix	0.10797308900000001	32
+Worms2	105600	2	35	46	4	perturbation	RankPreferences	0.9869110809999998	32
+Worms2	105600	2	35	46	4	perturbation	Assign	0.25171066799999997	32
+Worms2	105600	2	35	46	4	perturbation	UpdateClusterRadius	0.0042595520000000007	32
+Worms2	105600	2	35	46	4	local_search	GetClusterPairs	0.00097286900000000077	528
+Worms2	105600	2	35	46	4	local_search	GetProfits	13.579426419999484	314160
+Worms2	105600	2	35	46	4	local_search	RankProfits	3.2030477869999157	314160
+Worms2	105600	2	35	46	4	local_search	FindSwapCount	0.012354129999956272	314160
+Worms2	105600	2	35	46	4	local_search	Swap	0.012721655999954715	314160
+Worms2	105600	2	35	46	4	local_search	UpdateClusterRadius	0.47011868299999998	496
+Worms2	105600	2	35	46	4	tau_conversion	ReadyForTau	0	0
+Worms2	105600	2	35	46	4	tau_conversion	UpdateDistMatrix	0	0
+Worms2	105600	2	35	46	4	tau_conversion	RankPreferences	0	0
+Worms2	105600	2	35	46	4	tau_conversion	Transfer	0	0
+Worms2	105600	2	35	46	4	other	AcceptAndTerminate	0.010974253	31
+Worms2	105600	2	35	47	5	perturbation	UpdateCentroids	0.047578623999999979	22
+Worms2	105600	2	35	47	5	perturbation	UpdateDistMatrix	0.074447236	22
+Worms2	105600	2	35	47	5	perturbation	RankPreferences	0.63496567000000004	22
+Worms2	105600	2	35	47	5	perturbation	Assign	0.18631333800000002	22
+Worms2	105600	2	35	47	5	perturbation	UpdateClusterRadius	0.0030193309999999997	22
+Worms2	105600	2	35	47	5	local_search	GetClusterPairs	0.00044835200000000001	253
+Worms2	105600	2	35	47	5	local_search	GetProfits	6.5939307769999944	150535
+Worms2	105600	2	35	47	5	local_search	RankProfits	1.6614994120000199	150535
+Worms2	105600	2	35	47	5	local_search	FindSwapCount	0.00601115099999543	150535
+Worms2	105600	2	35	47	5	local_search	Swap	0.006439938999991862	150535
+Worms2	105600	2	35	47	5	local_search	UpdateClusterRadius	0.21982341700000002	231
+Worms2	105600	2	35	47	5	tau_conversion	ReadyForTau	0	0
+Worms2	105600	2	35	47	5	tau_conversion	UpdateDistMatrix	0	0
+Worms2	105600	2	35	47	5	tau_conversion	RankPreferences	0	0
+Worms2	105600	2	35	47	5	tau_conversion	Transfer	0	0
+Worms2	105600	2	35	47	5	other	AcceptAndTerminate	0.0074975330000000007	21
+Worms2	105600	2	35	48	6	perturbation	UpdateCentroids	0.042350455000000009	16
+Worms2	105600	2	35	48	6	perturbation	UpdateDistMatrix	0.054524638	16
+Worms2	105600	2	35	48	6	perturbation	RankPreferences	0.46696495500000001	16
+Worms2	105600	2	35	48	6	perturbation	Assign	0.13711499400000002	16
+Worms2	105600	2	35	48	6	perturbation	UpdateClusterRadius	0.0021841729999999993	16
+Worms2	105600	2	35	48	6	local_search	GetClusterPairs	0.00025708300000000002	136
+Worms2	105600	2	35	48	6	local_search	GetProfits	3.5497828639999804	80920
+Worms2	105600	2	35	48	6	local_search	RankProfits	0.94973788599997266	80920
+Worms2	105600	2	35	48	6	local_search	FindSwapCount	0.0032744670000033269	80920
+Worms2	105600	2	35	48	6	local_search	Swap	0.0036440830000017662	80920
+Worms2	105600	2	35	48	6	local_search	UpdateClusterRadius	0.11241115999999998	120
+Worms2	105600	2	35	48	6	tau_conversion	ReadyForTau	0	0
+Worms2	105600	2	35	48	6	tau_conversion	UpdateDistMatrix	0	0
+Worms2	105600	2	35	48	6	tau_conversion	RankPreferences	0	0
+Worms2	105600	2	35	48	6	tau_conversion	Transfer	0	0
+Worms2	105600	2	35	48	6	other	AcceptAndTerminate	0.0055648730000000014	15
+Worms2	105600	2	35	49	7	perturbation	UpdateCentroids	0.049258438000000009	23
+Worms2	105600	2	35	49	7	perturbation	UpdateDistMatrix	0.077535352000000002	23
+Worms2	105600	2	35	49	7	perturbation	RankPreferences	0.656251425	23
+Worms2	105600	2	35	49	7	perturbation	Assign	0.20080363800000006	23
+Worms2	105600	2	35	49	7	perturbation	UpdateClusterRadius	0.0031052820000000009	23
+Worms2	105600	2	35	49	7	local_search	GetClusterPairs	0.00049272700000000096	276
+Worms2	105600	2	35	49	7	local_search	GetProfits	7.198119134000021	164220
+Worms2	105600	2	35	49	7	local_search	RankProfits	1.8215694299999809	164220
+Worms2	105600	2	35	49	7	local_search	FindSwapCount	0.0065149909999929999	164220
+Worms2	105600	2	35	49	7	local_search	Swap	0.0071311999999890841	164220
+Worms2	105600	2	35	49	7	local_search	UpdateClusterRadius	0.24018305500000003	253
+Worms2	105600	2	35	49	7	tau_conversion	ReadyForTau	0	0
+Worms2	105600	2	35	49	7	tau_conversion	UpdateDistMatrix	0	0
+Worms2	105600	2	35	49	7	tau_conversion	RankPreferences	0	0
+Worms2	105600	2	35	49	7	tau_conversion	Transfer	0	0
+Worms2	105600	2	35	49	7	other	AcceptAndTerminate	0.0079231490000000009	22
+Worms2	105600	2	35	50	8	perturbation	UpdateCentroids	0.040677961999999998	14
+Worms2	105600	2	35	50	8	perturbation	UpdateDistMatrix	0.047606686000000002	14
+Worms2	105600	2	35	50	8	perturbation	RankPreferences	0.37365956499999997	14
+Worms2	105600	2	35	50	8	perturbation	Assign	0.11904199000000001	14
+Worms2	105600	2	35	50	8	perturbation	UpdateClusterRadius	0.0019001490000000003	14
+Worms2	105600	2	35	50	8	local_search	GetClusterPairs	0.00018253199999999993	105
+Worms2	105600	2	35	50	8	local_search	GetProfits	2.7541746930000066	62475
+Worms2	105600	2	35	50	8	local_search	RankProfits	0.7736788660000038	62475
+Worms2	105600	2	35	50	8	local_search	FindSwapCount	0.0025369590000013124	62475
+Worms2	105600	2	35	50	8	local_search	Swap	0.0028783480000009257	62475
+Worms2	105600	2	35	50	8	local_search	UpdateClusterRadius	0.089589734000000004	91
+Worms2	105600	2	35	50	8	tau_conversion	ReadyForTau	0	0
+Worms2	105600	2	35	50	8	tau_conversion	UpdateDistMatrix	0	0
+Worms2	105600	2	35	50	8	tau_conversion	RankPreferences	0	0
+Worms2	105600	2	35	50	8	tau_conversion	Transfer	0	0
+Worms2	105600	2	35	50	8	other	AcceptAndTerminate	0.0047133019999999999	13
+Worms2	105600	2	35	51	9	perturbation	UpdateCentroids	0.047529552000000003	21
+Worms2	105600	2	35	51	9	perturbation	UpdateDistMatrix	0.071170559999999994	21
+Worms2	105600	2	35	51	9	perturbation	RankPreferences	0.60800642700000007	21
+Worms2	105600	2	35	51	9	perturbation	Assign	0.18654935000000003	21
+Worms2	105600	2	35	51	9	perturbation	UpdateClusterRadius	0.0028048280000000001	21
+Worms2	105600	2	35	51	9	local_search	GetClusterPairs	0.00041407899999999992	231
+Worms2	105600	2	35	51	9	local_search	GetProfits	6.0666646469999916	137445
+Worms2	105600	2	35	51	9	local_search	RankProfits	1.5591286759999978	137445
+Worms2	105600	2	35	51	9	local_search	FindSwapCount	0.0054540819999979338	137445
+Worms2	105600	2	35	51	9	local_search	Swap	0.0059579669999938363	137445
+Worms2	105600	2	35	51	9	local_search	UpdateClusterRadius	0.19916061699999996	210
+Worms2	105600	2	35	51	9	tau_conversion	ReadyForTau	0	0
+Worms2	105600	2	35	51	9	tau_conversion	UpdateDistMatrix	0	0
+Worms2	105600	2	35	51	9	tau_conversion	RankPreferences	0	0
+Worms2	105600	2	35	51	9	tau_conversion	Transfer	0	0
+Worms2	105600	2	35	51	9	other	AcceptAndTerminate	0.0073404260000000015	20
+Worms64	105000	64	256	42	0	perturbation	UpdateCentroids	1.5865444039999999	9
+Worms64	105000	64	256	42	0	perturbation	UpdateDistMatrix	5.2296326119999996	9
+Worms64	105000	64	256	42	0	perturbation	RankPreferences	1.3976775350000001	9
+Worms64	105000	64	256	42	0	perturbation	Assign	2.7111086610000004	9
+Worms64	105000	64	256	42	0	perturbation	UpdateClusterRadius	0.00097453000000000004	9
+Worms64	105000	64	256	42	0	local_search	GetClusterPairs	0.0035642819999999998	45
+Worms64	105000	64	256	42	0	local_search	GetProfits	10.410267179999947	1468800
+Worms64	105000	64	256	42	0	local_search	RankProfits	5.0136065809995882	1468800
+Worms64	105000	64	256	42	0	local_search	FindSwapCount	0.057146933999554644	1468800
+Worms64	105000	64	256	42	0	local_search	Swap	0.053485855999471567	1468800
+Worms64	105000	64	256	42	0	local_search	UpdateClusterRadius	0.044727600999999992	36
+Worms64	105000	64	256	42	0	tau_conversion	ReadyForTau	0	0
+Worms64	105000	64	256	42	0	tau_conversion	UpdateDistMatrix	0	0
+Worms64	105000	64	256	42	0	tau_conversion	RankPreferences	0	0
+Worms64	105000	64	256	42	0	tau_conversion	Transfer	0	0
+Worms64	105000	64	256	42	0	other	AcceptAndTerminate	0.0030456509999999999	8
+Worms64	105000	64	256	43	1	perturbation	UpdateCentroids	1.5957325029999996	9
+Worms64	105000	64	256	43	1	perturbation	UpdateDistMatrix	5.2287539090000008	9
+Worms64	105000	64	256	43	1	perturbation	RankPreferences	1.3979112850000002	9
+Worms64	105000	64	256	43	1	perturbation	Assign	2.6677303090000004	9
+Worms64	105000	64	256	43	1	perturbation	UpdateClusterRadius	0.001013964	9
+Worms64	105000	64	256	43	1	local_search	GetClusterPairs	0.0036414980000000004	45
+Worms64	105000	64	256	43	1	local_search	GetProfits	10.403531362999891	1468800
+Worms64	105000	64	256	43	1	local_search	RankProfits	5.0039904299994111	1468800
+Worms64	105000	64	256	43	1	local_search	FindSwapCount	0.057001889999555883	1468800
+Worms64	105000	64	256	43	1	local_search	Swap	0.053577903999476803	1468800
+Worms64	105000	64	256	43	1	local_search	UpdateClusterRadius	0.045419934999999995	36
+Worms64	105000	64	256	43	1	tau_conversion	ReadyForTau	0	0
+Worms64	105000	64	256	43	1	tau_conversion	UpdateDistMatrix	0	0
+Worms64	105000	64	256	43	1	tau_conversion	RankPreferences	0	0
+Worms64	105000	64	256	43	1	tau_conversion	Transfer	0	0
+Worms64	105000	64	256	43	1	other	AcceptAndTerminate	0.0030304020000000006	8
+Worms64	105000	64	256	44	2	perturbation	UpdateCentroids	1.609119784	10
+Worms64	105000	64	256	44	2	perturbation	UpdateDistMatrix	5.8104945150000002	10
+Worms64	105000	64	256	44	2	perturbation	RankPreferences	1.5163310649999997	10
+Worms64	105000	64	256	44	2	perturbation	Assign	2.7404999729999999	10
+Worms64	105000	64	256	44	2	perturbation	UpdateClusterRadius	0.001057735	10
+Worms64	105000	64	256	44	2	local_search	GetClusterPairs	0.0043678910000000005	55
+Worms64	105000	64	256	44	2	local_search	GetProfits	12.721245779999457	1795200
+Worms64	105000	64	256	44	2	local_search	RankProfits	6.0985940990008789	1795200
+Worms64	105000	64	256	44	2	local_search	FindSwapCount	0.069610751000400511	1795200
+Worms64	105000	64	256	44	2	local_search	Swap	0.06526938799941534	1795200
+Worms64	105000	64	256	44	2	local_search	UpdateClusterRadius	0.05615569799999999	45
+Worms64	105000	64	256	44	2	tau_conversion	ReadyForTau	0	0
+Worms64	105000	64	256	44	2	tau_conversion	UpdateDistMatrix	0	0
+Worms64	105000	64	256	44	2	tau_conversion	RankPreferences	0	0
+Worms64	105000	64	256	44	2	tau_conversion	Transfer	0	0
+Worms64	105000	64	256	44	2	other	AcceptAndTerminate	0.0034300939999999999	9
+Worms64	105000	64	256	45	3	perturbation	UpdateCentroids	1.5988234970000001	9
+Worms64	105000	64	256	45	3	perturbation	UpdateDistMatrix	5.2378765749999996	9
+Worms64	105000	64	256	45	3	perturbation	RankPreferences	1.4700589880000001	9
+Worms64	105000	64	256	45	3	perturbation	Assign	2.746843925999999	9
+Worms64	105000	64	256	45	3	perturbation	UpdateClusterRadius	0.00094525399999999986	9
+Worms64	105000	64	256	45	3	local_search	GetClusterPairs	0.0036277940000000002	45
+Worms64	105000	64	256	45	3	local_search	GetProfits	10.393832181999331	1468800
+Worms64	105000	64	256	45	3	local_search	RankProfits	5.0178423249996227	1468800
+Worms64	105000	64	256	45	3	local_search	FindSwapCount	0.056920088999557736	1468800
+Worms64	105000	64	256	45	3	local_search	Swap	0.053375605999478624	1468800
+Worms64	105000	64	256	45	3	local_search	UpdateClusterRadius	0.044962643999999989	36
+Worms64	105000	64	256	45	3	tau_conversion	ReadyForTau	0	0
+Worms64	105000	64	256	45	3	tau_conversion	UpdateDistMatrix	0	0
+Worms64	105000	64	256	45	3	tau_conversion	RankPreferences	0	0
+Worms64	105000	64	256	45	3	tau_conversion	Transfer	0	0
+Worms64	105000	64	256	45	3	other	AcceptAndTerminate	0.0029779540000000005	8
+Worms64	105000	64	256	46	4	perturbation	UpdateCentroids	1.6128317559999994	10
+Worms64	105000	64	256	46	4	perturbation	UpdateDistMatrix	5.8613198520000003	10
+Worms64	105000	64	256	46	4	perturbation	RankPreferences	1.5185397899999999	10
+Worms64	105000	64	256	46	4	perturbation	Assign	2.7726411409999998	10
+Worms64	105000	64	256	46	4	perturbation	UpdateClusterRadius	0.0011262329999999999	10
+Worms64	105000	64	256	46	4	local_search	GetClusterPairs	0.0043675090000000003	55
+Worms64	105000	64	256	46	4	local_search	GetProfits	12.674519093999631	1795200
+Worms64	105000	64	256	46	4	local_search	RankProfits	6.1004341560007829	1795200
+Worms64	105000	64	256	46	4	local_search	FindSwapCount	0.069702646000413704	1795200
+Worms64	105000	64	256	46	4	local_search	Swap	0.065437294999425438	1795200
+Worms64	105000	64	256	46	4	local_search	UpdateClusterRadius	0.05609959300000001	45
+Worms64	105000	64	256	46	4	tau_conversion	ReadyForTau	0	0
+Worms64	105000	64	256	46	4	tau_conversion	UpdateDistMatrix	0	0
+Worms64	105000	64	256	46	4	tau_conversion	RankPreferences	0	0
+Worms64	105000	64	256	46	4	tau_conversion	Transfer	0	0
+Worms64	105000	64	256	46	4	other	AcceptAndTerminate	0.0034815570000000006	9
+Worms64	105000	64	256	47	5	perturbation	UpdateCentroids	1.6091414869999998	9
+Worms64	105000	64	256	47	5	perturbation	UpdateDistMatrix	5.2279752659999996	9
+Worms64	105000	64	256	47	5	perturbation	RankPreferences	1.4023655800000001	9
+Worms64	105000	64	256	47	5	perturbation	Assign	2.7402114210000001	9
+Worms64	105000	64	256	47	5	perturbation	UpdateClusterRadius	0.00096577399999999997	9
+Worms64	105000	64	256	47	5	local_search	GetClusterPairs	0.0035846580000000005	45
+Worms64	105000	64	256	47	5	local_search	GetProfits	10.20713680799965	1468800
+Worms64	105000	64	256	47	5	local_search	RankProfits	5.0173163729997654	1468800
+Worms64	105000	64	256	47	5	local_search	FindSwapCount	0.05691211799955613	1468800
+Worms64	105000	64	256	47	5	local_search	Swap	0.053503367999477365	1468800
+Worms64	105000	64	256	47	5	local_search	UpdateClusterRadius	0.044120312000000002	36
+Worms64	105000	64	256	47	5	tau_conversion	ReadyForTau	0	0
+Worms64	105000	64	256	47	5	tau_conversion	UpdateDistMatrix	0	0
+Worms64	105000	64	256	47	5	tau_conversion	RankPreferences	0	0
+Worms64	105000	64	256	47	5	tau_conversion	Transfer	0	0
+Worms64	105000	64	256	47	5	other	AcceptAndTerminate	0.0029546379999999999	8
+Worms64	105000	64	256	48	6	perturbation	UpdateCentroids	1.5916113350000001	9
+Worms64	105000	64	256	48	6	perturbation	UpdateDistMatrix	5.2311420829999999	9
+Worms64	105000	64	256	48	6	perturbation	RankPreferences	1.2978918439999998	9
+Worms64	105000	64	256	48	6	perturbation	Assign	2.5682596489999998	9
+Worms64	105000	64	256	48	6	perturbation	UpdateClusterRadius	0.00094094900000000006	9
+Worms64	105000	64	256	48	6	local_search	GetClusterPairs	0.003567680000000001	45
+Worms64	105000	64	256	48	6	local_search	GetProfits	10.288380424999566	1468800
+Worms64	105000	64	256	48	6	local_search	RankProfits	5.0190127799999544	1468800
+Worms64	105000	64	256	48	6	local_search	FindSwapCount	0.056887546999557573	1468800
+Worms64	105000	64	256	48	6	local_search	Swap	0.05343756799947539	1468800
+Worms64	105000	64	256	48	6	local_search	UpdateClusterRadius	0.044483658000000002	36
+Worms64	105000	64	256	48	6	tau_conversion	ReadyForTau	0	0
+Worms64	105000	64	256	48	6	tau_conversion	UpdateDistMatrix	0	0
+Worms64	105000	64	256	48	6	tau_conversion	RankPreferences	0	0
+Worms64	105000	64	256	48	6	tau_conversion	Transfer	0	0
+Worms64	105000	64	256	48	6	other	AcceptAndTerminate	0.0031359490000000003	8
+Worms64	105000	64	256	49	7	perturbation	UpdateCentroids	1.6284905039999999	10
+Worms64	105000	64	256	49	7	perturbation	UpdateDistMatrix	5.8119261849999999	10
+Worms64	105000	64	256	49	7	perturbation	RankPreferences	1.518239866	10
+Worms64	105000	64	256	49	7	perturbation	Assign	2.7267311130000005	10
+Worms64	105000	64	256	49	7	perturbation	UpdateClusterRadius	0.0011045569999999999	10
+Worms64	105000	64	256	49	7	local_search	GetClusterPairs	0.0043770149999999997	55
+Worms64	105000	64	256	49	7	local_search	GetProfits	12.48048065500012	1795200
+Worms64	105000	64	256	49	7	local_search	RankProfits	6.0989914770007498	1795200
+Worms64	105000	64	256	49	7	local_search	FindSwapCount	0.06953258800038771	1795200
+Worms64	105000	64	256	49	7	local_search	Swap	0.065101219999403187	1795200
+Worms64	105000	64	256	49	7	local_search	UpdateClusterRadius	0.055493782000000012	45
+Worms64	105000	64	256	49	7	tau_conversion	ReadyForTau	0	0
+Worms64	105000	64	256	49	7	tau_conversion	UpdateDistMatrix	0	0
+Worms64	105000	64	256	49	7	tau_conversion	RankPreferences	0	0
+Worms64	105000	64	256	49	7	tau_conversion	Transfer	0	0
+Worms64	105000	64	256	49	7	other	AcceptAndTerminate	0.0033323679999999996	9
+Worms64	105000	64	256	50	8	perturbation	UpdateCentroids	1.6089164530000004	10
+Worms64	105000	64	256	50	8	perturbation	UpdateDistMatrix	5.8073613699999997	10
+Worms64	105000	64	256	50	8	perturbation	RankPreferences	1.498714297	10
+Worms64	105000	64	256	50	8	perturbation	Assign	2.8155815080000002	10
+Worms64	105000	64	256	50	8	perturbation	UpdateClusterRadius	0.0010362150000000001	10
+Worms64	105000	64	256	50	8	local_search	GetClusterPairs	0.0043981830000000017	55
+Worms64	105000	64	256	50	8	local_search	GetProfits	12.369870641999068	1795200
+Worms64	105000	64	256	50	8	local_search	RankProfits	6.1048857580011457	1795200
+Worms64	105000	64	256	50	8	local_search	FindSwapCount	0.069484835000375625	1795200
+Worms64	105000	64	256	50	8	local_search	Swap	0.065207979999416091	1795200
+Worms64	105000	64	256	50	8	local_search	UpdateClusterRadius	0.054514425999999998	45
+Worms64	105000	64	256	50	8	tau_conversion	ReadyForTau	0	0
+Worms64	105000	64	256	50	8	tau_conversion	UpdateDistMatrix	0	0
+Worms64	105000	64	256	50	8	tau_conversion	RankPreferences	0	0
+Worms64	105000	64	256	50	8	tau_conversion	Transfer	0	0
+Worms64	105000	64	256	50	8	other	AcceptAndTerminate	0.0034016600000000004	9
+Worms64	105000	64	256	51	9	perturbation	UpdateCentroids	1.5968578860000002	10
+Worms64	105000	64	256	51	9	perturbation	UpdateDistMatrix	5.8176347730000009	10
+Worms64	105000	64	256	51	9	perturbation	RankPreferences	1.5870608159999999	10
+Worms64	105000	64	256	51	9	perturbation	Assign	2.6981526680000005	10
+Worms64	105000	64	256	51	9	perturbation	UpdateClusterRadius	0.0010670139999999998	10
+Worms64	105000	64	256	51	9	local_search	GetClusterPairs	0.0043748469999999994	55
+Worms64	105000	64	256	51	9	local_search	GetProfits	11.883349404000528	1795200
+Worms64	105000	64	256	51	9	local_search	RankProfits	6.1249416980012983	1795200
+Worms64	105000	64	256	51	9	local_search	FindSwapCount	0.071357659000655202	1795200
+Worms64	105000	64	256	51	9	local_search	Swap	0.065334173999438194	1795200
+Worms64	105000	64	256	51	9	local_search	UpdateClusterRadius	0.050411026000000012	45
+Worms64	105000	64	256	51	9	tau_conversion	ReadyForTau	0	0
+Worms64	105000	64	256	51	9	tau_conversion	UpdateDistMatrix	0	0
+Worms64	105000	64	256	51	9	tau_conversion	RankPreferences	0	0
+Worms64	105000	64	256	51	9	tau_conversion	Transfer	0	0
+Worms64	105000	64	256	51	9	other	AcceptAndTerminate	0.0031143300000000002	9

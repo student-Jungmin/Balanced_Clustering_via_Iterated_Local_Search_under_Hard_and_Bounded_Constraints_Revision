@@ -1,0 +1,841 @@
+dataset	n	d	k	seed	run	stage	count
+A1	3000	2	20	42	0	total	6840
+A1	3000	2	20	42	0	after_c1	6840
+A1	3000	2	20	42	0	after_c2	6840
+A1	3000	2	20	43	1	total	5320
+A1	3000	2	20	43	1	after_c1	5320
+A1	3000	2	20	43	1	after_c2	5320
+A1	3000	2	20	44	2	total	5320
+A1	3000	2	20	44	2	after_c1	5320
+A1	3000	2	20	44	2	after_c2	5320
+A1	3000	2	20	45	3	total	2850
+A1	3000	2	20	45	3	after_c1	2850
+A1	3000	2	20	45	3	after_c2	2850
+A1	3000	2	20	46	4	total	8550
+A1	3000	2	20	46	4	after_c1	8550
+A1	3000	2	20	46	4	after_c2	8550
+A1	3000	2	20	47	5	total	5320
+A1	3000	2	20	47	5	after_c1	5320
+A1	3000	2	20	47	5	after_c2	5320
+A1	3000	2	20	48	6	total	5320
+A1	3000	2	20	48	6	after_c1	5320
+A1	3000	2	20	48	6	after_c2	5320
+A1	3000	2	20	49	7	total	5320
+A1	3000	2	20	49	7	after_c1	5320
+A1	3000	2	20	49	7	after_c2	5320
+A1	3000	2	20	50	8	total	5320
+A1	3000	2	20	50	8	after_c1	5320
+A1	3000	2	20	50	8	after_c2	5320
+A1	3000	2	20	51	9	total	3990
+A1	3000	2	20	51	9	after_c1	3990
+A1	3000	2	20	51	9	after_c2	3990
+A2	5250	2	35	42	0	total	21420
+A2	5250	2	35	42	0	after_c1	21420
+A2	5250	2	35	42	0	after_c2	21420
+A2	5250	2	35	43	1	total	46410
+A2	5250	2	35	43	1	after_c1	46410
+A2	5250	2	35	43	1	after_c2	46410
+A2	5250	2	35	44	2	total	21420
+A2	5250	2	35	44	2	after_c1	21420
+A2	5250	2	35	44	2	after_c2	21420
+A2	5250	2	35	45	3	total	21420
+A2	5250	2	35	45	3	after_c1	21420
+A2	5250	2	35	45	3	after_c2	21420
+A2	5250	2	35	46	4	total	32725
+A2	5250	2	35	46	4	after_c1	32725
+A2	5250	2	35	46	4	after_c2	32725
+A2	5250	2	35	47	5	total	39270
+A2	5250	2	35	47	5	after_c1	39270
+A2	5250	2	35	47	5	after_c2	39270
+A2	5250	2	35	48	6	total	16660
+A2	5250	2	35	48	6	after_c1	16660
+A2	5250	2	35	48	6	after_c2	16660
+A2	5250	2	35	49	7	total	26775
+A2	5250	2	35	49	7	after_c1	26775
+A2	5250	2	35	49	7	after_c2	26775
+A2	5250	2	35	50	8	total	26775
+A2	5250	2	35	50	8	after_c1	26775
+A2	5250	2	35	50	8	after_c2	26775
+A2	5250	2	35	51	9	total	16660
+A2	5250	2	35	51	9	after_c1	16660
+A2	5250	2	35	51	9	after_c2	16660
+A3	7500	2	50	42	0	total	95550
+A3	7500	2	50	42	0	after_c1	95550
+A3	7500	2	50	42	0	after_c2	95550
+A3	7500	2	50	43	1	total	80850
+A3	7500	2	50	43	1	after_c1	80850
+A3	7500	2	50	43	1	after_c2	80850
+A3	7500	2	50	44	2	total	55125
+A3	7500	2	50	44	2	after_c1	55125
+A3	7500	2	50	44	2	after_c2	55125
+A3	7500	2	50	45	3	total	111475
+A3	7500	2	50	45	3	after_c1	111475
+A3	7500	2	50	45	3	after_c2	111475
+A3	7500	2	50	46	4	total	111475
+A3	7500	2	50	46	4	after_c1	111475
+A3	7500	2	50	46	4	after_c2	111475
+A3	7500	2	50	47	5	total	67375
+A3	7500	2	50	47	5	after_c1	67375
+A3	7500	2	50	47	5	after_c2	67375
+A3	7500	2	50	48	6	total	80850
+A3	7500	2	50	48	6	after_c1	80850
+A3	7500	2	50	48	6	after_c2	80850
+A3	7500	2	50	49	7	total	80850
+A3	7500	2	50	49	7	after_c1	80850
+A3	7500	2	50	49	7	after_c2	80850
+A3	7500	2	50	50	8	total	67375
+A3	7500	2	50	50	8	after_c1	67375
+A3	7500	2	50	50	8	after_c2	67375
+A3	7500	2	50	51	9	total	67375
+A3	7500	2	50	51	9	after_c1	67375
+A3	7500	2	50	51	9	after_c2	67375
+S1	5000	2	15	42	0	total	3780
+S1	5000	2	15	42	0	after_c1	3780
+S1	5000	2	15	42	0	after_c2	3780
+S1	5000	2	15	43	1	total	3780
+S1	5000	2	15	43	1	after_c1	3780
+S1	5000	2	15	43	1	after_c2	3780
+S1	5000	2	15	44	2	total	2940
+S1	5000	2	15	44	2	after_c1	2940
+S1	5000	2	15	44	2	after_c2	2940
+S1	5000	2	15	45	3	total	3780
+S1	5000	2	15	45	3	after_c1	3780
+S1	5000	2	15	45	3	after_c2	3780
+S1	5000	2	15	46	4	total	2940
+S1	5000	2	15	46	4	after_c1	2940
+S1	5000	2	15	46	4	after_c2	2940
+S1	5000	2	15	47	5	total	3780
+S1	5000	2	15	47	5	after_c1	3780
+S1	5000	2	15	47	5	after_c2	3780
+S1	5000	2	15	48	6	total	4725
+S1	5000	2	15	48	6	after_c1	4725
+S1	5000	2	15	48	6	after_c2	4725
+S1	5000	2	15	49	7	total	2940
+S1	5000	2	15	49	7	after_c1	2940
+S1	5000	2	15	49	7	after_c2	2940
+S1	5000	2	15	50	8	total	2205
+S1	5000	2	15	50	8	after_c1	2205
+S1	5000	2	15	50	8	after_c2	2205
+S1	5000	2	15	51	9	total	2205
+S1	5000	2	15	51	9	after_c1	2205
+S1	5000	2	15	51	9	after_c2	2205
+S2	5000	2	15	42	0	total	3780
+S2	5000	2	15	42	0	after_c1	3780
+S2	5000	2	15	42	0	after_c2	3780
+S2	5000	2	15	43	1	total	2940
+S2	5000	2	15	43	1	after_c1	2940
+S2	5000	2	15	43	1	after_c2	2940
+S2	5000	2	15	44	2	total	4725
+S2	5000	2	15	44	2	after_c1	4725
+S2	5000	2	15	44	2	after_c2	4725
+S2	5000	2	15	45	3	total	3780
+S2	5000	2	15	45	3	after_c1	3780
+S2	5000	2	15	45	3	after_c2	3780
+S2	5000	2	15	46	4	total	3780
+S2	5000	2	15	46	4	after_c1	3780
+S2	5000	2	15	46	4	after_c2	3780
+S2	5000	2	15	47	5	total	2205
+S2	5000	2	15	47	5	after_c1	2205
+S2	5000	2	15	47	5	after_c2	2205
+S2	5000	2	15	48	6	total	2940
+S2	5000	2	15	48	6	after_c1	2940
+S2	5000	2	15	48	6	after_c2	2940
+S2	5000	2	15	49	7	total	2940
+S2	5000	2	15	49	7	after_c1	2940
+S2	5000	2	15	49	7	after_c2	2940
+S2	5000	2	15	50	8	total	2940
+S2	5000	2	15	50	8	after_c1	2940
+S2	5000	2	15	50	8	after_c2	2940
+S2	5000	2	15	51	9	total	4725
+S2	5000	2	15	51	9	after_c1	4725
+S2	5000	2	15	51	9	after_c2	4725
+S3	5000	2	15	42	0	total	5775
+S3	5000	2	15	42	0	after_c1	5775
+S3	5000	2	15	42	0	after_c2	5775
+S3	5000	2	15	43	1	total	6930
+S3	5000	2	15	43	1	after_c1	6930
+S3	5000	2	15	43	1	after_c2	6930
+S3	5000	2	15	44	2	total	4725
+S3	5000	2	15	44	2	after_c1	4725
+S3	5000	2	15	44	2	after_c2	4725
+S3	5000	2	15	45	3	total	5775
+S3	5000	2	15	45	3	after_c1	5775
+S3	5000	2	15	45	3	after_c2	5775
+S3	5000	2	15	46	4	total	6930
+S3	5000	2	15	46	4	after_c1	6930
+S3	5000	2	15	46	4	after_c2	6930
+S3	5000	2	15	47	5	total	4725
+S3	5000	2	15	47	5	after_c1	4725
+S3	5000	2	15	47	5	after_c2	4725
+S3	5000	2	15	48	6	total	6930
+S3	5000	2	15	48	6	after_c1	6930
+S3	5000	2	15	48	6	after_c2	6930
+S3	5000	2	15	49	7	total	6930
+S3	5000	2	15	49	7	after_c1	6930
+S3	5000	2	15	49	7	after_c2	6930
+S3	5000	2	15	50	8	total	8190
+S3	5000	2	15	50	8	after_c1	8190
+S3	5000	2	15	50	8	after_c2	8190
+S3	5000	2	15	51	9	total	14280
+S3	5000	2	15	51	9	after_c1	14280
+S3	5000	2	15	51	9	after_c2	14280
+S4	5000	2	15	42	0	total	5775
+S4	5000	2	15	42	0	after_c1	5775
+S4	5000	2	15	42	0	after_c2	5775
+S4	5000	2	15	43	1	total	16065
+S4	5000	2	15	43	1	after_c1	16065
+S4	5000	2	15	43	1	after_c2	16065
+S4	5000	2	15	44	2	total	14280
+S4	5000	2	15	44	2	after_c1	14280
+S4	5000	2	15	44	2	after_c2	14280
+S4	5000	2	15	45	3	total	8190
+S4	5000	2	15	45	3	after_c1	8190
+S4	5000	2	15	45	3	after_c2	8190
+S4	5000	2	15	46	4	total	5775
+S4	5000	2	15	46	4	after_c1	5775
+S4	5000	2	15	46	4	after_c2	5775
+S4	5000	2	15	47	5	total	9555
+S4	5000	2	15	47	5	after_c1	9555
+S4	5000	2	15	47	5	after_c2	9555
+S4	5000	2	15	48	6	total	6930
+S4	5000	2	15	48	6	after_c1	6930
+S4	5000	2	15	48	6	after_c2	6930
+S4	5000	2	15	49	7	total	8190
+S4	5000	2	15	49	7	after_c1	8190
+S4	5000	2	15	49	7	after_c2	8190
+S4	5000	2	15	50	8	total	8190
+S4	5000	2	15	50	8	after_c1	8190
+S4	5000	2	15	50	8	after_c2	8190
+S4	5000	2	15	51	9	total	14280
+S4	5000	2	15	51	9	after_c1	14280
+S4	5000	2	15	51	9	after_c2	14280
+dim32	1024	32	16	42	0	total	720
+dim32	1024	32	16	42	0	after_c1	720
+dim32	1024	32	16	42	0	after_c2	720
+dim32	1024	32	16	43	1	total	720
+dim32	1024	32	16	43	1	after_c1	720
+dim32	1024	32	16	43	1	after_c2	720
+dim32	1024	32	16	44	2	total	720
+dim32	1024	32	16	44	2	after_c1	720
+dim32	1024	32	16	44	2	after_c2	720
+dim32	1024	32	16	45	3	total	720
+dim32	1024	32	16	45	3	after_c1	720
+dim32	1024	32	16	45	3	after_c2	720
+dim32	1024	32	16	46	4	total	720
+dim32	1024	32	16	46	4	after_c1	720
+dim32	1024	32	16	46	4	after_c2	720
+dim32	1024	32	16	47	5	total	720
+dim32	1024	32	16	47	5	after_c1	720
+dim32	1024	32	16	47	5	after_c2	720
+dim32	1024	32	16	48	6	total	720
+dim32	1024	32	16	48	6	after_c1	720
+dim32	1024	32	16	48	6	after_c2	720
+dim32	1024	32	16	49	7	total	720
+dim32	1024	32	16	49	7	after_c1	720
+dim32	1024	32	16	49	7	after_c2	720
+dim32	1024	32	16	50	8	total	720
+dim32	1024	32	16	50	8	after_c1	720
+dim32	1024	32	16	50	8	after_c2	720
+dim32	1024	32	16	51	9	total	720
+dim32	1024	32	16	51	9	after_c1	720
+dim32	1024	32	16	51	9	after_c2	720
+unbalance	6500	2	8	42	0	total	588
+unbalance	6500	2	8	42	0	after_c1	588
+unbalance	6500	2	8	42	0	after_c2	588
+unbalance	6500	2	8	43	1	total	420
+unbalance	6500	2	8	43	1	after_c1	420
+unbalance	6500	2	8	43	1	after_c2	420
+unbalance	6500	2	8	44	2	total	588
+unbalance	6500	2	8	44	2	after_c1	588
+unbalance	6500	2	8	44	2	after_c2	588
+unbalance	6500	2	8	45	3	total	784
+unbalance	6500	2	8	45	3	after_c1	784
+unbalance	6500	2	8	45	3	after_c2	784
+unbalance	6500	2	8	46	4	total	588
+unbalance	6500	2	8	46	4	after_c1	588
+unbalance	6500	2	8	46	4	after_c2	588
+unbalance	6500	2	8	47	5	total	588
+unbalance	6500	2	8	47	5	after_c1	588
+unbalance	6500	2	8	47	5	after_c2	588
+unbalance	6500	2	8	48	6	total	588
+unbalance	6500	2	8	48	6	after_c1	588
+unbalance	6500	2	8	48	6	after_c2	588
+unbalance	6500	2	8	49	7	total	588
+unbalance	6500	2	8	49	7	after_c1	588
+unbalance	6500	2	8	49	7	after_c2	588
+unbalance	6500	2	8	50	8	total	420
+unbalance	6500	2	8	50	8	after_c1	420
+unbalance	6500	2	8	50	8	after_c2	420
+unbalance	6500	2	8	51	9	total	588
+unbalance	6500	2	8	51	9	after_c1	588
+unbalance	6500	2	8	51	9	after_c2	588
+Glass	214	9	7	42	0	total	945
+Glass	214	9	7	42	0	after_c1	945
+Glass	214	9	7	42	0	after_c2	945
+Glass	214	9	7	43	1	total	1155
+Glass	214	9	7	43	1	after_c1	1155
+Glass	214	9	7	43	1	after_c2	1155
+Glass	214	9	7	44	2	total	1386
+Glass	214	9	7	44	2	after_c1	1386
+Glass	214	9	7	44	2	after_c2	1386
+Glass	214	9	7	45	3	total	1386
+Glass	214	9	7	45	3	after_c1	1386
+Glass	214	9	7	45	3	after_c2	1386
+Glass	214	9	7	46	4	total	1155
+Glass	214	9	7	46	4	after_c1	1155
+Glass	214	9	7	46	4	after_c2	1155
+Glass	214	9	7	47	5	total	945
+Glass	214	9	7	47	5	after_c1	945
+Glass	214	9	7	47	5	after_c2	945
+Glass	214	9	7	48	6	total	588
+Glass	214	9	7	48	6	after_c1	588
+Glass	214	9	7	48	6	after_c2	588
+Glass	214	9	7	49	7	total	1911
+Glass	214	9	7	49	7	after_c1	1911
+Glass	214	9	7	49	7	after_c2	1911
+Glass	214	9	7	50	8	total	588
+Glass	214	9	7	50	8	after_c1	588
+Glass	214	9	7	50	8	after_c2	588
+Glass	214	9	7	51	9	total	1155
+Glass	214	9	7	51	9	after_c1	1155
+Glass	214	9	7	51	9	after_c2	1155
+Image Segmentation	2310	19	7	42	0	total	945
+Image Segmentation	2310	19	7	42	0	after_c1	945
+Image Segmentation	2310	19	7	42	0	after_c2	945
+Image Segmentation	2310	19	7	43	1	total	1386
+Image Segmentation	2310	19	7	43	1	after_c1	1386
+Image Segmentation	2310	19	7	43	1	after_c2	1386
+Image Segmentation	2310	19	7	44	2	total	1155
+Image Segmentation	2310	19	7	44	2	after_c1	1155
+Image Segmentation	2310	19	7	44	2	after_c2	1155
+Image Segmentation	2310	19	7	45	3	total	1155
+Image Segmentation	2310	19	7	45	3	after_c1	1155
+Image Segmentation	2310	19	7	45	3	after_c2	1155
+Image Segmentation	2310	19	7	46	4	total	2205
+Image Segmentation	2310	19	7	46	4	after_c1	2205
+Image Segmentation	2310	19	7	46	4	after_c2	2205
+Image Segmentation	2310	19	7	47	5	total	2520
+Image Segmentation	2310	19	7	47	5	after_c1	2520
+Image Segmentation	2310	19	7	47	5	after_c2	2520
+Image Segmentation	2310	19	7	48	6	total	1155
+Image Segmentation	2310	19	7	48	6	after_c1	1155
+Image Segmentation	2310	19	7	48	6	after_c2	1155
+Image Segmentation	2310	19	7	49	7	total	1155
+Image Segmentation	2310	19	7	49	7	after_c1	1155
+Image Segmentation	2310	19	7	49	7	after_c2	1155
+Image Segmentation	2310	19	7	50	8	total	1155
+Image Segmentation	2310	19	7	50	8	after_c1	1155
+Image Segmentation	2310	19	7	50	8	after_c2	1155
+Image Segmentation	2310	19	7	51	9	total	1911
+Image Segmentation	2310	19	7	51	9	after_c1	1911
+Image Segmentation	2310	19	7	51	9	after_c2	1911
+Iris	150	4	3	42	0	total	30
+Iris	150	4	3	42	0	after_c1	30
+Iris	150	4	3	42	0	after_c2	30
+Iris	150	4	3	43	1	total	30
+Iris	150	4	3	43	1	after_c1	30
+Iris	150	4	3	43	1	after_c2	30
+Iris	150	4	3	44	2	total	18
+Iris	150	4	3	44	2	after_c1	18
+Iris	150	4	3	44	2	after_c2	18
+Iris	150	4	3	45	3	total	18
+Iris	150	4	3	45	3	after_c1	18
+Iris	150	4	3	45	3	after_c2	18
+Iris	150	4	3	46	4	total	45
+Iris	150	4	3	46	4	after_c1	45
+Iris	150	4	3	46	4	after_c2	45
+Iris	150	4	3	47	5	total	45
+Iris	150	4	3	47	5	after_c1	45
+Iris	150	4	3	47	5	after_c2	45
+Iris	150	4	3	48	6	total	30
+Iris	150	4	3	48	6	after_c1	30
+Iris	150	4	3	48	6	after_c2	30
+Iris	150	4	3	49	7	total	30
+Iris	150	4	3	49	7	after_c1	30
+Iris	150	4	3	49	7	after_c2	30
+Iris	150	4	3	50	8	total	45
+Iris	150	4	3	50	8	after_c1	45
+Iris	150	4	3	50	8	after_c2	45
+Iris	150	4	3	51	9	total	18
+Iris	150	4	3	51	9	after_c1	18
+Iris	150	4	3	51	9	after_c2	18
+Libras	360	90	15	42	0	total	9555
+Libras	360	90	15	42	0	after_c1	9555
+Libras	360	90	15	42	0	after_c2	9555
+Libras	360	90	15	43	1	total	12600
+Libras	360	90	15	43	1	after_c1	12600
+Libras	360	90	15	43	1	after_c2	12600
+Libras	360	90	15	44	2	total	17955
+Libras	360	90	15	44	2	after_c1	17955
+Libras	360	90	15	44	2	after_c2	17955
+Libras	360	90	15	45	3	total	12600
+Libras	360	90	15	45	3	after_c1	12600
+Libras	360	90	15	45	3	after_c2	12600
+Libras	360	90	15	46	4	total	8190
+Libras	360	90	15	46	4	after_c1	8190
+Libras	360	90	15	46	4	after_c2	8190
+Libras	360	90	15	47	5	total	8190
+Libras	360	90	15	47	5	after_c1	8190
+Libras	360	90	15	47	5	after_c2	8190
+Libras	360	90	15	48	6	total	16065
+Libras	360	90	15	48	6	after_c1	16065
+Libras	360	90	15	48	6	after_c2	16065
+Libras	360	90	15	49	7	total	4725
+Libras	360	90	15	49	7	after_c1	4725
+Libras	360	90	15	49	7	after_c2	4725
+Libras	360	90	15	50	8	total	11025
+Libras	360	90	15	50	8	after_c1	11025
+Libras	360	90	15	50	8	after_c2	11025
+Libras	360	90	15	51	9	total	12600
+Libras	360	90	15	51	9	after_c1	12600
+Libras	360	90	15	51	9	after_c2	12600
+Multiple Features	2000	240	10	42	0	total	2025
+Multiple Features	2000	240	10	42	0	after_c1	2025
+Multiple Features	2000	240	10	42	0	after_c2	2025
+Multiple Features	2000	240	10	43	1	total	6885
+Multiple Features	2000	240	10	43	1	after_c1	6885
+Multiple Features	2000	240	10	43	1	after_c2	6885
+Multiple Features	2000	240	10	44	2	total	4095
+Multiple Features	2000	240	10	44	2	after_c1	4095
+Multiple Features	2000	240	10	44	2	after_c2	4095
+Multiple Features	2000	240	10	45	3	total	2475
+Multiple Features	2000	240	10	45	3	after_c1	2475
+Multiple Features	2000	240	10	45	3	after_c2	2475
+Multiple Features	2000	240	10	46	4	total	4095
+Multiple Features	2000	240	10	46	4	after_c1	4095
+Multiple Features	2000	240	10	46	4	after_c2	4095
+Multiple Features	2000	240	10	47	5	total	4725
+Multiple Features	2000	240	10	47	5	after_c1	4725
+Multiple Features	2000	240	10	47	5	after_c2	4725
+Multiple Features	2000	240	10	48	6	total	7695
+Multiple Features	2000	240	10	48	6	after_c1	7695
+Multiple Features	2000	240	10	48	6	after_c2	7695
+Multiple Features	2000	240	10	49	7	total	2475
+Multiple Features	2000	240	10	49	7	after_c1	2475
+Multiple Features	2000	240	10	49	7	after_c2	2475
+Multiple Features	2000	240	10	50	8	total	2475
+Multiple Features	2000	240	10	50	8	after_c1	2475
+Multiple Features	2000	240	10	50	8	after_c2	2475
+Multiple Features	2000	240	10	51	9	total	4095
+Multiple Features	2000	240	10	51	9	after_c1	4095
+Multiple Features	2000	240	10	51	9	after_c2	4095
+Synthetic Control	600	60	6	42	0	total	315
+Synthetic Control	600	60	6	42	0	after_c1	315
+Synthetic Control	600	60	6	42	0	after_c2	315
+Synthetic Control	600	60	6	43	1	total	825
+Synthetic Control	600	60	6	43	1	after_c1	825
+Synthetic Control	600	60	6	43	1	after_c2	825
+Synthetic Control	600	60	6	44	2	total	540
+Synthetic Control	600	60	6	44	2	after_c1	540
+Synthetic Control	600	60	6	44	2	after_c2	540
+Synthetic Control	600	60	6	45	3	total	420
+Synthetic Control	600	60	6	45	3	after_c1	420
+Synthetic Control	600	60	6	45	3	after_c2	420
+Synthetic Control	600	60	6	46	4	total	675
+Synthetic Control	600	60	6	46	4	after_c1	675
+Synthetic Control	600	60	6	46	4	after_c2	675
+Synthetic Control	600	60	6	47	5	total	315
+Synthetic Control	600	60	6	47	5	after_c1	315
+Synthetic Control	600	60	6	47	5	after_c2	315
+Synthetic Control	600	60	6	48	6	total	315
+Synthetic Control	600	60	6	48	6	after_c1	315
+Synthetic Control	600	60	6	48	6	after_c2	315
+Synthetic Control	600	60	6	49	7	total	540
+Synthetic Control	600	60	6	49	7	after_c1	540
+Synthetic Control	600	60	6	49	7	after_c2	540
+Synthetic Control	600	60	6	50	8	total	540
+Synthetic Control	600	60	6	50	8	after_c1	540
+Synthetic Control	600	60	6	50	8	after_c2	540
+Synthetic Control	600	60	6	51	9	total	315
+Synthetic Control	600	60	6	51	9	after_c1	315
+Synthetic Control	600	60	6	51	9	after_c2	315
+Thyroid	215	5	3	42	0	total	84
+Thyroid	215	5	3	42	0	after_c1	84
+Thyroid	215	5	3	42	0	after_c2	84
+Thyroid	215	5	3	43	1	total	135
+Thyroid	215	5	3	43	1	after_c1	135
+Thyroid	215	5	3	43	1	after_c2	135
+Thyroid	215	5	3	44	2	total	45
+Thyroid	215	5	3	44	2	after_c1	45
+Thyroid	215	5	3	44	2	after_c2	45
+Thyroid	215	5	3	45	3	total	84
+Thyroid	215	5	3	45	3	after_c1	84
+Thyroid	215	5	3	45	3	after_c2	84
+Thyroid	215	5	3	46	4	total	45
+Thyroid	215	5	3	46	4	after_c1	45
+Thyroid	215	5	3	46	4	after_c2	45
+Thyroid	215	5	3	47	5	total	135
+Thyroid	215	5	3	47	5	after_c1	135
+Thyroid	215	5	3	47	5	after_c2	135
+Thyroid	215	5	3	48	6	total	63
+Thyroid	215	5	3	48	6	after_c1	63
+Thyroid	215	5	3	48	6	after_c2	63
+Thyroid	215	5	3	49	7	total	45
+Thyroid	215	5	3	49	7	after_c1	45
+Thyroid	215	5	3	49	7	after_c2	45
+Thyroid	215	5	3	50	8	total	45
+Thyroid	215	5	3	50	8	after_c1	45
+Thyroid	215	5	3	50	8	after_c2	45
+Thyroid	215	5	3	51	9	total	45
+Thyroid	215	5	3	51	9	after_c1	45
+Thyroid	215	5	3	51	9	after_c2	45
+User Knowledge	403	5	4	42	0	total	468
+User Knowledge	403	5	4	42	0	after_c1	468
+User Knowledge	403	5	4	42	0	after_c2	468
+User Knowledge	403	5	4	43	1	total	216
+User Knowledge	403	5	4	43	1	after_c1	216
+User Knowledge	403	5	4	43	1	after_c2	216
+User Knowledge	403	5	4	44	2	total	630
+User Knowledge	403	5	4	44	2	after_c1	630
+User Knowledge	403	5	4	44	2	after_c2	630
+User Knowledge	403	5	4	45	3	total	396
+User Knowledge	403	5	4	45	3	after_c1	396
+User Knowledge	403	5	4	45	3	after_c2	396
+User Knowledge	403	5	4	46	4	total	396
+User Knowledge	403	5	4	46	4	after_c1	396
+User Knowledge	403	5	4	46	4	after_c2	396
+User Knowledge	403	5	4	47	5	total	270
+User Knowledge	403	5	4	47	5	after_c1	270
+User Knowledge	403	5	4	47	5	after_c2	270
+User Knowledge	403	5	4	48	6	total	330
+User Knowledge	403	5	4	48	6	after_c1	330
+User Knowledge	403	5	4	48	6	after_c2	330
+User Knowledge	403	5	4	49	7	total	396
+User Knowledge	403	5	4	49	7	after_c1	396
+User Knowledge	403	5	4	49	7	after_c2	396
+User Knowledge	403	5	4	50	8	total	330
+User Knowledge	403	5	4	50	8	after_c1	330
+User Knowledge	403	5	4	50	8	after_c2	330
+User Knowledge	403	5	4	51	9	total	720
+User Knowledge	403	5	4	51	9	after_c1	720
+User Knowledge	403	5	4	51	9	after_c2	720
+User Model	258	5	4	42	0	total	216
+User Model	258	5	4	42	0	after_c1	216
+User Model	258	5	4	42	0	after_c2	216
+User Model	258	5	4	43	1	total	546
+User Model	258	5	4	43	1	after_c1	546
+User Model	258	5	4	43	1	after_c2	546
+User Model	258	5	4	44	2	total	396
+User Model	258	5	4	44	2	after_c1	396
+User Model	258	5	4	44	2	after_c2	396
+User Model	258	5	4	45	3	total	330
+User Model	258	5	4	45	3	after_c1	330
+User Model	258	5	4	45	3	after_c2	330
+User Model	258	5	4	46	4	total	546
+User Model	258	5	4	46	4	after_c1	546
+User Model	258	5	4	46	4	after_c2	546
+User Model	258	5	4	47	5	total	468
+User Model	258	5	4	47	5	after_c1	468
+User Model	258	5	4	47	5	after_c2	468
+User Model	258	5	4	48	6	total	468
+User Model	258	5	4	48	6	after_c1	468
+User Model	258	5	4	48	6	after_c2	468
+User Model	258	5	4	49	7	total	330
+User Model	258	5	4	49	7	after_c1	330
+User Model	258	5	4	49	7	after_c2	330
+User Model	258	5	4	50	8	total	216
+User Model	258	5	4	50	8	after_c1	216
+User Model	258	5	4	50	8	after_c2	216
+User Model	258	5	4	51	9	total	1026
+User Model	258	5	4	51	9	after_c1	1026
+User Model	258	5	4	51	9	after_c2	1026
+Vehicle	846	18	6	42	0	total	420
+Vehicle	846	18	6	42	0	after_c1	420
+Vehicle	846	18	6	42	0	after_c2	420
+Vehicle	846	18	6	43	1	total	315
+Vehicle	846	18	6	43	1	after_c1	315
+Vehicle	846	18	6	43	1	after_c2	315
+Vehicle	846	18	6	44	2	total	540
+Vehicle	846	18	6	44	2	after_c1	540
+Vehicle	846	18	6	44	2	after_c2	540
+Vehicle	846	18	6	45	3	total	990
+Vehicle	846	18	6	45	3	after_c1	990
+Vehicle	846	18	6	45	3	after_c2	990
+Vehicle	846	18	6	46	4	total	315
+Vehicle	846	18	6	46	4	after_c1	315
+Vehicle	846	18	6	46	4	after_c2	315
+Vehicle	846	18	6	47	5	total	315
+Vehicle	846	18	6	47	5	after_c1	315
+Vehicle	846	18	6	47	5	after_c2	315
+Vehicle	846	18	6	48	6	total	420
+Vehicle	846	18	6	48	6	after_c1	420
+Vehicle	846	18	6	48	6	after_c2	420
+Vehicle	846	18	6	49	7	total	315
+Vehicle	846	18	6	49	7	after_c1	315
+Vehicle	846	18	6	49	7	after_c2	315
+Vehicle	846	18	6	50	8	total	825
+Vehicle	846	18	6	50	8	after_c1	825
+Vehicle	846	18	6	50	8	after_c2	825
+Vehicle	846	18	6	51	9	total	315
+Vehicle	846	18	6	51	9	after_c1	315
+Vehicle	846	18	6	51	9	after_c2	315
+Vowel Recognition	871	3	6	42	0	total	825
+Vowel Recognition	871	3	6	42	0	after_c1	825
+Vowel Recognition	871	3	6	42	0	after_c2	825
+Vowel Recognition	871	3	6	43	1	total	825
+Vowel Recognition	871	3	6	43	1	after_c1	825
+Vowel Recognition	871	3	6	43	1	after_c2	825
+Vowel Recognition	871	3	6	44	2	total	540
+Vowel Recognition	871	3	6	44	2	after_c1	540
+Vowel Recognition	871	3	6	44	2	after_c2	540
+Vowel Recognition	871	3	6	45	3	total	420
+Vowel Recognition	871	3	6	45	3	after_c1	420
+Vowel Recognition	871	3	6	45	3	after_c2	420
+Vowel Recognition	871	3	6	46	4	total	1575
+Vowel Recognition	871	3	6	46	4	after_c1	1575
+Vowel Recognition	871	3	6	46	4	after_c2	1575
+Vowel Recognition	871	3	6	47	5	total	1170
+Vowel Recognition	871	3	6	47	5	after_c1	1170
+Vowel Recognition	871	3	6	47	5	after_c2	1170
+Vowel Recognition	871	3	6	48	6	total	825
+Vowel Recognition	871	3	6	48	6	after_c1	825
+Vowel Recognition	871	3	6	48	6	after_c2	825
+Vowel Recognition	871	3	6	49	7	total	540
+Vowel Recognition	871	3	6	49	7	after_c1	540
+Vowel Recognition	871	3	6	49	7	after_c2	540
+Vowel Recognition	871	3	6	50	8	total	990
+Vowel Recognition	871	3	6	50	8	after_c1	990
+Vowel Recognition	871	3	6	50	8	after_c2	990
+Vowel Recognition	871	3	6	51	9	total	1170
+Vowel Recognition	871	3	6	51	9	after_c1	1170
+Vowel Recognition	871	3	6	51	9	after_c2	1170
+Wine	178	13	3	42	0	total	30
+Wine	178	13	3	42	0	after_c1	30
+Wine	178	13	3	42	0	after_c2	30
+Wine	178	13	3	43	1	total	30
+Wine	178	13	3	43	1	after_c1	30
+Wine	178	13	3	43	1	after_c2	30
+Wine	178	13	3	44	2	total	30
+Wine	178	13	3	44	2	after_c1	30
+Wine	178	13	3	44	2	after_c2	30
+Wine	178	13	3	45	3	total	30
+Wine	178	13	3	45	3	after_c1	30
+Wine	178	13	3	45	3	after_c2	30
+Wine	178	13	3	46	4	total	30
+Wine	178	13	3	46	4	after_c1	30
+Wine	178	13	3	46	4	after_c2	30
+Wine	178	13	3	47	5	total	18
+Wine	178	13	3	47	5	after_c1	18
+Wine	178	13	3	47	5	after_c2	18
+Wine	178	13	3	48	6	total	18
+Wine	178	13	3	48	6	after_c1	18
+Wine	178	13	3	48	6	after_c2	18
+Wine	178	13	3	49	7	total	30
+Wine	178	13	3	49	7	after_c1	30
+Wine	178	13	3	49	7	after_c2	30
+Wine	178	13	3	50	8	total	30
+Wine	178	13	3	50	8	after_c1	30
+Wine	178	13	3	50	8	after_c2	30
+Wine	178	13	3	51	9	total	18
+Wine	178	13	3	51	9	after_c1	18
+Wine	178	13	3	51	9	after_c2	18
+Yeast	1484	8	10	42	0	total	5400
+Yeast	1484	8	10	42	0	after_c1	5400
+Yeast	1484	8	10	42	0	after_c2	5400
+Yeast	1484	8	10	43	1	total	1260
+Yeast	1484	8	10	43	1	after_c1	1260
+Yeast	1484	8	10	43	1	after_c2	1260
+Yeast	1484	8	10	44	2	total	2475
+Yeast	1484	8	10	44	2	after_c1	2475
+Yeast	1484	8	10	44	2	after_c2	2475
+Yeast	1484	8	10	45	3	total	4095
+Yeast	1484	8	10	45	3	after_c1	4095
+Yeast	1484	8	10	45	3	after_c2	4095
+Yeast	1484	8	10	46	4	total	1260
+Yeast	1484	8	10	46	4	after_c1	1260
+Yeast	1484	8	10	46	4	after_c2	1260
+Yeast	1484	8	10	47	5	total	2475
+Yeast	1484	8	10	47	5	after_c1	2475
+Yeast	1484	8	10	47	5	after_c2	2475
+Yeast	1484	8	10	48	6	total	1620
+Yeast	1484	8	10	48	6	after_c1	1620
+Yeast	1484	8	10	48	6	after_c2	1620
+Yeast	1484	8	10	49	7	total	3510
+Yeast	1484	8	10	49	7	after_c1	3510
+Yeast	1484	8	10	49	7	after_c2	3510
+Yeast	1484	8	10	50	8	total	2475
+Yeast	1484	8	10	50	8	after_c1	2475
+Yeast	1484	8	10	50	8	after_c2	2475
+Yeast	1484	8	10	51	9	total	1260
+Yeast	1484	8	10	51	9	after_c1	1260
+Yeast	1484	8	10	51	9	after_c2	1260
+Body	507	5	2	42	0	total	15
+Body	507	5	2	42	0	after_c1	15
+Body	507	5	2	42	0	after_c2	15
+Body	507	5	2	43	1	total	10
+Body	507	5	2	43	1	after_c1	10
+Body	507	5	2	43	1	after_c2	10
+Body	507	5	2	44	2	total	10
+Body	507	5	2	44	2	after_c1	10
+Body	507	5	2	44	2	after_c2	10
+Body	507	5	2	45	3	total	15
+Body	507	5	2	45	3	after_c1	15
+Body	507	5	2	45	3	after_c2	15
+Body	507	5	2	46	4	total	15
+Body	507	5	2	46	4	after_c1	15
+Body	507	5	2	46	4	after_c2	15
+Body	507	5	2	47	5	total	10
+Body	507	5	2	47	5	after_c1	10
+Body	507	5	2	47	5	after_c2	10
+Body	507	5	2	48	6	total	15
+Body	507	5	2	48	6	after_c1	15
+Body	507	5	2	48	6	after_c2	15
+Body	507	5	2	49	7	total	10
+Body	507	5	2	49	7	after_c1	10
+Body	507	5	2	49	7	after_c2	10
+Body	507	5	2	50	8	total	15
+Body	507	5	2	50	8	after_c1	15
+Body	507	5	2	50	8	after_c2	15
+Body	507	5	2	51	9	total	15
+Body	507	5	2	51	9	after_c1	15
+Body	507	5	2	51	9	after_c2	15
+Breast Cancer	569	30	2	42	0	total	10
+Breast Cancer	569	30	2	42	0	after_c1	10
+Breast Cancer	569	30	2	42	0	after_c2	10
+Breast Cancer	569	30	2	43	1	total	10
+Breast Cancer	569	30	2	43	1	after_c1	10
+Breast Cancer	569	30	2	43	1	after_c2	10
+Breast Cancer	569	30	2	44	2	total	10
+Breast Cancer	569	30	2	44	2	after_c1	10
+Breast Cancer	569	30	2	44	2	after_c2	10
+Breast Cancer	569	30	2	45	3	total	10
+Breast Cancer	569	30	2	45	3	after_c1	10
+Breast Cancer	569	30	2	45	3	after_c2	10
+Breast Cancer	569	30	2	46	4	total	6
+Breast Cancer	569	30	2	46	4	after_c1	6
+Breast Cancer	569	30	2	46	4	after_c2	6
+Breast Cancer	569	30	2	47	5	total	10
+Breast Cancer	569	30	2	47	5	after_c1	10
+Breast Cancer	569	30	2	47	5	after_c2	10
+Breast Cancer	569	30	2	48	6	total	10
+Breast Cancer	569	30	2	48	6	after_c1	10
+Breast Cancer	569	30	2	48	6	after_c2	10
+Breast Cancer	569	30	2	49	7	total	10
+Breast Cancer	569	30	2	49	7	after_c1	10
+Breast Cancer	569	30	2	49	7	after_c2	10
+Breast Cancer	569	30	2	50	8	total	10
+Breast Cancer	569	30	2	50	8	after_c1	10
+Breast Cancer	569	30	2	50	8	after_c2	10
+Breast Cancer	569	30	2	51	9	total	6
+Breast Cancer	569	30	2	51	9	after_c1	6
+Breast Cancer	569	30	2	51	9	after_c2	6
+Ionosphere	351	34	2	42	0	total	15
+Ionosphere	351	34	2	42	0	after_c1	15
+Ionosphere	351	34	2	42	0	after_c2	15
+Ionosphere	351	34	2	43	1	total	21
+Ionosphere	351	34	2	43	1	after_c1	21
+Ionosphere	351	34	2	43	1	after_c2	21
+Ionosphere	351	34	2	44	2	total	15
+Ionosphere	351	34	2	44	2	after_c1	15
+Ionosphere	351	34	2	44	2	after_c2	15
+Ionosphere	351	34	2	45	3	total	10
+Ionosphere	351	34	2	45	3	after_c1	10
+Ionosphere	351	34	2	45	3	after_c2	10
+Ionosphere	351	34	2	46	4	total	15
+Ionosphere	351	34	2	46	4	after_c1	15
+Ionosphere	351	34	2	46	4	after_c2	15
+Ionosphere	351	34	2	47	5	total	15
+Ionosphere	351	34	2	47	5	after_c1	15
+Ionosphere	351	34	2	47	5	after_c2	15
+Ionosphere	351	34	2	48	6	total	21
+Ionosphere	351	34	2	48	6	after_c1	21
+Ionosphere	351	34	2	48	6	after_c2	21
+Ionosphere	351	34	2	49	7	total	21
+Ionosphere	351	34	2	49	7	after_c1	21
+Ionosphere	351	34	2	49	7	after_c2	21
+Ionosphere	351	34	2	50	8	total	15
+Ionosphere	351	34	2	50	8	after_c1	15
+Ionosphere	351	34	2	50	8	after_c2	15
+Ionosphere	351	34	2	51	9	total	15
+Ionosphere	351	34	2	51	9	after_c1	15
+Ionosphere	351	34	2	51	9	after_c2	15
+Water	527	38	13	42	0	total	1638
+Water	527	38	13	42	0	after_c1	1638
+Water	527	38	13	42	0	after_c2	1638
+Water	527	38	13	43	1	total	1638
+Water	527	38	13	43	1	after_c1	1638
+Water	527	38	13	43	1	after_c2	1638
+Water	527	38	13	44	2	total	2184
+Water	527	38	13	44	2	after_c1	2184
+Water	527	38	13	44	2	after_c2	2184
+Water	527	38	13	45	3	total	1638
+Water	527	38	13	45	3	after_c1	1638
+Water	527	38	13	45	3	after_c2	1638
+Water	527	38	13	46	4	total	1638
+Water	527	38	13	46	4	after_c1	1638
+Water	527	38	13	46	4	after_c2	1638
+Water	527	38	13	47	5	total	4290
+Water	527	38	13	47	5	after_c1	4290
+Water	527	38	13	47	5	after_c2	4290
+Water	527	38	13	48	6	total	2184
+Water	527	38	13	48	6	after_c1	2184
+Water	527	38	13	48	6	after_c2	2184
+Water	527	38	13	49	7	total	1170
+Water	527	38	13	49	7	after_c1	1170
+Water	527	38	13	49	7	after_c2	1170
+Water	527	38	13	50	8	total	1170
+Water	527	38	13	50	8	after_c1	1170
+Water	527	38	13	50	8	after_c2	1170
+Water	527	38	13	51	9	total	1638
+Water	527	38	13	51	9	after_c1	1638
+Water	527	38	13	51	9	after_c2	1638
+Cryotherapy	90	6	2	42	0	total	15
+Cryotherapy	90	6	2	42	0	after_c1	15
+Cryotherapy	90	6	2	42	0	after_c2	15
+Cryotherapy	90	6	2	43	1	total	10
+Cryotherapy	90	6	2	43	1	after_c1	10
+Cryotherapy	90	6	2	43	1	after_c2	10
+Cryotherapy	90	6	2	44	2	total	21
+Cryotherapy	90	6	2	44	2	after_c1	21
+Cryotherapy	90	6	2	44	2	after_c2	21
+Cryotherapy	90	6	2	45	3	total	21
+Cryotherapy	90	6	2	45	3	after_c1	21
+Cryotherapy	90	6	2	45	3	after_c2	21
+Cryotherapy	90	6	2	46	4	total	55
+Cryotherapy	90	6	2	46	4	after_c1	55
+Cryotherapy	90	6	2	46	4	after_c2	55
+Cryotherapy	90	6	2	47	5	total	21
+Cryotherapy	90	6	2	47	5	after_c1	21
+Cryotherapy	90	6	2	47	5	after_c2	21
+Cryotherapy	90	6	2	48	6	total	45
+Cryotherapy	90	6	2	48	6	after_c1	45
+Cryotherapy	90	6	2	48	6	after_c2	45
+Cryotherapy	90	6	2	49	7	total	15
+Cryotherapy	90	6	2	49	7	after_c1	15
+Cryotherapy	90	6	2	49	7	after_c2	15
+Cryotherapy	90	6	2	50	8	total	10
+Cryotherapy	90	6	2	50	8	after_c1	10
+Cryotherapy	90	6	2	50	8	after_c2	10
+Cryotherapy	90	6	2	51	9	total	45
+Cryotherapy	90	6	2	51	9	after_c1	45
+Cryotherapy	90	6	2	51	9	after_c2	45
+G2	2048	16	2	42	0	total	6
+G2	2048	16	2	42	0	after_c1	6
+G2	2048	16	2	42	0	after_c2	6
+G2	2048	16	2	43	1	total	6
+G2	2048	16	2	43	1	after_c1	6
+G2	2048	16	2	43	1	after_c2	6
+G2	2048	16	2	44	2	total	6
+G2	2048	16	2	44	2	after_c1	6
+G2	2048	16	2	44	2	after_c2	6
+G2	2048	16	2	45	3	total	6
+G2	2048	16	2	45	3	after_c1	6
+G2	2048	16	2	45	3	after_c2	6
+G2	2048	16	2	46	4	total	6
+G2	2048	16	2	46	4	after_c1	6
+G2	2048	16	2	46	4	after_c2	6
+G2	2048	16	2	47	5	total	6
+G2	2048	16	2	47	5	after_c1	6
+G2	2048	16	2	47	5	after_c2	6
+G2	2048	16	2	48	6	total	6
+G2	2048	16	2	48	6	after_c1	6
+G2	2048	16	2	48	6	after_c2	6
+G2	2048	16	2	49	7	total	6
+G2	2048	16	2	49	7	after_c1	6
+G2	2048	16	2	49	7	after_c2	6
+G2	2048	16	2	50	8	total	6
+G2	2048	16	2	50	8	after_c1	6
+G2	2048	16	2	50	8	after_c2	6
+G2	2048	16	2	51	9	total	6
+G2	2048	16	2	51	9	after_c1	6
+G2	2048	16	2	51	9	after_c2	6

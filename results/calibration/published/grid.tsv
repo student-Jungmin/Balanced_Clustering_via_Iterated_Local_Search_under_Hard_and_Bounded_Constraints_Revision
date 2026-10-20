@@ -1,0 +1,39 @@
+# Transcribed from paper/Figure_3.png, the calibration heatmap of the submitted
+# version. The sweep behind it predates the geometric pruning, the synchronized
+# iteration and the prefix ranking, and its raw runs were not archived, so the
+# grid is recorded here as read off that figure rather than recomputed. Section
+# 4.6.4 reports the default this grid selects, which is the default every
+# experiment in the paper was run with.
+metric	omega	d0.001	d0.005	d0.01	d0.05	d0.1
+max_mse	2	1.032	1.058	1.068	1.222	1.265
+max_mse	3	1.026	1.045	1.058	1.113	1.181
+max_mse	4	1.025	1.039	1.050	1.071	1.131
+max_mse	5	1.025	1.033	1.043	1.060	1.093
+max_mse	6	1.025	1.031	1.039	1.054	1.066
+max_mse	7	1.025	1.030	1.035	1.050	1.053
+max_mse	8	1.025	1.029	1.033	1.046	1.048
+max_mse	9	1.025	1.025	1.031	1.043	1.045
+avg_mse	2	1.009	1.016	1.020	1.042	1.053
+avg_mse	3	1.007	1.011	1.014	1.024	1.033
+avg_mse	4	1.006	1.009	1.011	1.019	1.023
+avg_mse	5	1.005	1.008	1.010	1.014	1.018
+avg_mse	6	1.005	1.007	1.008	1.012	1.014
+avg_mse	7	1.005	1.006	1.007	1.010	1.012
+avg_mse	8	1.005	1.006	1.007	1.009	1.010
+avg_mse	9	1.005	1.006	1.006	1.008	1.008
+max_time	2	0.676	0.557	0.546	0.663	0.543
+max_time	3	0.728	0.622	0.977	0.549	0.543
+max_time	4	0.786	0.782	0.641	0.608	0.605
+max_time	5	0.877	0.791	0.710	0.699	0.704
+max_time	6	0.964	0.885	0.807	0.792	0.790
+max_time	7	1.040	0.964	0.938	0.902	0.889
+max_time	8	1.139	1.047	0.994	0.981	0.976
+max_time	9	1.221	1.142	1.076	1.070	1.069
+avg_time	2	0.246	0.199	0.182	0.164	0.154
+avg_time	3	0.278	0.230	0.230	0.188	0.180
+avg_time	4	0.302	0.262	0.240	0.211	0.205
+avg_time	5	0.320	0.271	0.257	0.232	0.227
+avg_time	6	0.335	0.291	0.276	0.252	0.248
+avg_time	7	0.348	0.307	0.301	0.271	0.266
+avg_time	8	0.365	0.320	0.308	0.286	0.283
+avg_time	9	0.388	0.335	0.322	0.302	0.299

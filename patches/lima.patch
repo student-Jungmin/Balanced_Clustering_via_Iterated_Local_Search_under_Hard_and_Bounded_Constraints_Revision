@@ -1,0 +1,113 @@
+--- a/tempsC++.h
++++ b/tempsC++.h
+@@ -11,6 +11,7 @@
+ #ifndef TEMPS_H
+ #define TEMPS_H
+ 
++#include <ctime>
+ #include <sys/times.h>
+ #include <sys/time.h>
+ #include <unistd.h>
+@@ -110,11 +111,17 @@
+ 
+ 
+ // This function indicates that the clock should be started now.     
++// CPU time in ns: times() ticks every 10 ms, longer than many time budgets.
++inline double cpuSeconds()
++{
++  timespec ts;
++  clock_gettime(CLOCK_PROCESS_CPUTIME_ID, &ts);
++  return ts.tv_sec + ts.tv_nsec * 1e-9;
++}
++
+ inline void ChronoCPU::Start()
+ {
+-  tms tmsStart;
+-  times(&tmsStart);
+-  clockStart = tmsStart.tms_utime + tmsStart.tms_stime;
++  clockStart = cpuSeconds();
+   fStart = true;
+ }
+ 
+@@ -125,10 +132,7 @@
+ {
+   if (fStart)
+   {
+-    tms tmsCur;
+-    times(&tmsCur);
+-    clockTotal += tmsCur.tms_utime + tmsCur.tms_stime - clockStart;
+-    
++    clockTotal += cpuSeconds() - clockStart;
+     fStart = false;
+   }
+   else
+@@ -142,12 +146,11 @@
+ {
+   if(fStart)
+     {
+-      tms tmsCur;
+-      times(&tmsCur);
+-      clockTotal += tmsCur.tms_utime + tmsCur.tms_stime - clockStart; 
+-      clockStart = tmsCur.tms_utime + tmsCur.tms_stime; 
++      const double now = cpuSeconds();
++      clockTotal += now - clockStart;
++      clockStart = now;
+     }
+-  return clockTotal / clockTicks ;
++  return clockTotal;
+ }
+ 
+ 
+--- a/Vns.cpp
++++ b/Vns.cpp
+@@ -25,8 +25,8 @@
+ #include "Pair.h"
+ #include <limits>
+ #include <algorithm>
+-
+-
++#include <chrono>
++using namespace std::chrono;
+ using namespace std; 
+ 
+ struct c_unique {
+@@ -45,7 +45,7 @@
+ 	timer = ChronoCPU();
+ }
+ 
+-int Vns::execute(Solution& bestSolution, double tempMax, int kMin, int kStep, int KMax, string outputFileName){
++int Vns::execute(Solution& bestSolution, double tempMax, int kMin, int kStep, int KMax, string outputFileName, double* elapsed_time){
+ 	int iteration = 1;
+ 	int nLocalSearchCalls = 0;
+ 	int kMax = KMax;
+@@ -59,7 +59,8 @@
+ 	bool upgrade;
+ 	k = kMin;
+ 
+-	while(timer.GetTime() <= tempMax){
++	while(*elapsed_time <= tempMax){
++		auto start =  system_clock::now();
+ 		Solution partialSolution(bestSolution);
+ 
+ 		upgrade = shaking(partialSolution);
+@@ -79,6 +80,9 @@
+ 			k = kMin;
+ 			iteration++;
+ 		}
++
++		auto end =  system_clock::now();
++		*elapsed_time += duration<double>(end - start).count();
+ 	}
+ 	return iteration;
+ }
+--- a/Vns.h
++++ b/Vns.h
+@@ -25,7 +25,7 @@
+ class Vns {
+ public:
+ 	Vns(vector<Point>* _dataset, DistanceMatrix* _distances, int _nClusters, Random* _random, vector< vector<Pair> >* _rankedEntities);
+-	int execute(Solution& bestSolution, double tempMax, int kMin, int kStep, int kMax, string outputFileName);
++	int execute(Solution& bestSolution, double tempMax, int kMin, int kStep, int kMax, string outputFileName, double* elapsed_time);
+ 
+ private:
+ 	int nClusters;

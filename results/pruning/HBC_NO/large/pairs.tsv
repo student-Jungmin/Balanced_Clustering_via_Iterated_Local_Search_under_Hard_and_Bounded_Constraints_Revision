@@ -1,0 +1,331 @@
+dataset	n	d	k	seed	run	stage	count
+Birch1	100000	2	100	42	0	total	94050
+Birch1	100000	2	100	42	0	after_c1	94050
+Birch1	100000	2	100	42	0	after_c2	94050
+Birch1	100000	2	100	43	1	total	79200
+Birch1	100000	2	100	43	1	after_c1	79200
+Birch1	100000	2	100	43	1	after_c2	79200
+Birch1	100000	2	100	44	2	total	118800
+Birch1	100000	2	100	44	2	after_c1	118800
+Birch1	100000	2	100	44	2	after_c2	118800
+Birch1	100000	2	100	45	3	total	108900
+Birch1	100000	2	100	45	3	after_c1	108900
+Birch1	100000	2	100	45	3	after_c2	108900
+Birch1	100000	2	100	46	4	total	79200
+Birch1	100000	2	100	46	4	after_c1	79200
+Birch1	100000	2	100	46	4	after_c2	79200
+Birch1	100000	2	100	47	5	total	69300
+Birch1	100000	2	100	47	5	after_c1	69300
+Birch1	100000	2	100	47	5	after_c2	69300
+Birch1	100000	2	100	48	6	total	79200
+Birch1	100000	2	100	48	6	after_c1	79200
+Birch1	100000	2	100	48	6	after_c2	79200
+Birch1	100000	2	100	49	7	total	84150
+Birch1	100000	2	100	49	7	after_c1	84150
+Birch1	100000	2	100	49	7	after_c2	84150
+Birch1	100000	2	100	50	8	total	74250
+Birch1	100000	2	100	50	8	after_c1	74250
+Birch1	100000	2	100	50	8	after_c2	74250
+Birch1	100000	2	100	51	9	total	108900
+Birch1	100000	2	100	51	9	after_c1	108900
+Birch1	100000	2	100	51	9	after_c2	108900
+Birch2	100000	2	100	42	0	total	34650
+Birch2	100000	2	100	42	0	after_c1	34650
+Birch2	100000	2	100	42	0	after_c2	34650
+Birch2	100000	2	100	43	1	total	29700
+Birch2	100000	2	100	43	1	after_c1	29700
+Birch2	100000	2	100	43	1	after_c2	29700
+Birch2	100000	2	100	44	2	total	29700
+Birch2	100000	2	100	44	2	after_c1	29700
+Birch2	100000	2	100	44	2	after_c2	29700
+Birch2	100000	2	100	45	3	total	24750
+Birch2	100000	2	100	45	3	after_c1	24750
+Birch2	100000	2	100	45	3	after_c2	24750
+Birch2	100000	2	100	46	4	total	24750
+Birch2	100000	2	100	46	4	after_c1	24750
+Birch2	100000	2	100	46	4	after_c2	24750
+Birch2	100000	2	100	47	5	total	29700
+Birch2	100000	2	100	47	5	after_c1	29700
+Birch2	100000	2	100	47	5	after_c2	29700
+Birch2	100000	2	100	48	6	total	29700
+Birch2	100000	2	100	48	6	after_c1	29700
+Birch2	100000	2	100	48	6	after_c2	29700
+Birch2	100000	2	100	49	7	total	29700
+Birch2	100000	2	100	49	7	after_c1	29700
+Birch2	100000	2	100	49	7	after_c2	29700
+Birch2	100000	2	100	50	8	total	29700
+Birch2	100000	2	100	50	8	after_c1	29700
+Birch2	100000	2	100	50	8	after_c2	29700
+Birch2	100000	2	100	51	9	total	24750
+Birch2	100000	2	100	51	9	after_c1	24750
+Birch2	100000	2	100	51	9	after_c2	24750
+ConfLongDemo	164860	3	11	42	0	total	715
+ConfLongDemo	164860	3	11	42	0	after_c1	715
+ConfLongDemo	164860	3	11	42	0	after_c2	715
+ConfLongDemo	164860	3	11	43	1	total	715
+ConfLongDemo	164860	3	11	43	1	after_c1	715
+ConfLongDemo	164860	3	11	43	1	after_c2	715
+ConfLongDemo	164860	3	11	44	2	total	825
+ConfLongDemo	164860	3	11	44	2	after_c1	825
+ConfLongDemo	164860	3	11	44	2	after_c2	825
+ConfLongDemo	164860	3	11	45	3	total	1320
+ConfLongDemo	164860	3	11	45	3	after_c1	1320
+ConfLongDemo	164860	3	11	45	3	after_c2	1320
+ConfLongDemo	164860	3	11	46	4	total	495
+ConfLongDemo	164860	3	11	46	4	after_c1	495
+ConfLongDemo	164860	3	11	46	4	after_c2	495
+ConfLongDemo	164860	3	11	47	5	total	770
+ConfLongDemo	164860	3	11	47	5	after_c1	770
+ConfLongDemo	164860	3	11	47	5	after_c2	770
+ConfLongDemo	164860	3	11	48	6	total	1045
+ConfLongDemo	164860	3	11	48	6	after_c1	1045
+ConfLongDemo	164860	3	11	48	6	after_c2	1045
+ConfLongDemo	164860	3	11	49	7	total	495
+ConfLongDemo	164860	3	11	49	7	after_c1	495
+ConfLongDemo	164860	3	11	49	7	after_c2	495
+ConfLongDemo	164860	3	11	50	8	total	770
+ConfLongDemo	164860	3	11	50	8	after_c1	770
+ConfLongDemo	164860	3	11	50	8	after_c2	770
+ConfLongDemo	164860	3	11	51	9	total	605
+ConfLongDemo	164860	3	11	51	9	after_c1	605
+ConfLongDemo	164860	3	11	51	9	after_c2	605
+Fashion-MNIST	70000	784	10	42	0	total	675
+Fashion-MNIST	70000	784	10	42	0	after_c1	675
+Fashion-MNIST	70000	784	10	42	0	after_c2	675
+Fashion-MNIST	70000	784	10	43	1	total	360
+Fashion-MNIST	70000	784	10	43	1	after_c1	360
+Fashion-MNIST	70000	784	10	43	1	after_c2	360
+Fashion-MNIST	70000	784	10	44	2	total	450
+Fashion-MNIST	70000	784	10	44	2	after_c1	450
+Fashion-MNIST	70000	784	10	44	2	after_c2	450
+Fashion-MNIST	70000	784	10	45	3	total	360
+Fashion-MNIST	70000	784	10	45	3	after_c1	360
+Fashion-MNIST	70000	784	10	45	3	after_c2	360
+Fashion-MNIST	70000	784	10	46	4	total	495
+Fashion-MNIST	70000	784	10	46	4	after_c1	495
+Fashion-MNIST	70000	784	10	46	4	after_c2	495
+Fashion-MNIST	70000	784	10	47	5	total	450
+Fashion-MNIST	70000	784	10	47	5	after_c1	450
+Fashion-MNIST	70000	784	10	47	5	after_c2	450
+Fashion-MNIST	70000	784	10	48	6	total	495
+Fashion-MNIST	70000	784	10	48	6	after_c1	495
+Fashion-MNIST	70000	784	10	48	6	after_c2	495
+Fashion-MNIST	70000	784	10	49	7	total	540
+Fashion-MNIST	70000	784	10	49	7	after_c1	540
+Fashion-MNIST	70000	784	10	49	7	after_c2	540
+Fashion-MNIST	70000	784	10	50	8	total	315
+Fashion-MNIST	70000	784	10	50	8	after_c1	315
+Fashion-MNIST	70000	784	10	50	8	after_c2	315
+Fashion-MNIST	70000	784	10	51	9	total	315
+Fashion-MNIST	70000	784	10	51	9	after_c1	315
+Fashion-MNIST	70000	784	10	51	9	after_c2	315
+Letter Recognition	20000	16	26	42	0	total	4550
+Letter Recognition	20000	16	26	42	0	after_c1	4550
+Letter Recognition	20000	16	26	42	0	after_c2	4550
+Letter Recognition	20000	16	26	43	1	total	2600
+Letter Recognition	20000	16	26	43	1	after_c1	2600
+Letter Recognition	20000	16	26	43	1	after_c2	2600
+Letter Recognition	20000	16	26	44	2	total	3900
+Letter Recognition	20000	16	26	44	2	after_c1	3900
+Letter Recognition	20000	16	26	44	2	after_c2	3900
+Letter Recognition	20000	16	26	45	3	total	3900
+Letter Recognition	20000	16	26	45	3	after_c1	3900
+Letter Recognition	20000	16	26	45	3	after_c2	3900
+Letter Recognition	20000	16	26	46	4	total	3575
+Letter Recognition	20000	16	26	46	4	after_c1	3575
+Letter Recognition	20000	16	26	46	4	after_c2	3575
+Letter Recognition	20000	16	26	47	5	total	4875
+Letter Recognition	20000	16	26	47	5	after_c1	4875
+Letter Recognition	20000	16	26	47	5	after_c2	4875
+Letter Recognition	20000	16	26	48	6	total	3575
+Letter Recognition	20000	16	26	48	6	after_c1	3575
+Letter Recognition	20000	16	26	48	6	after_c2	3575
+Letter Recognition	20000	16	26	49	7	total	4550
+Letter Recognition	20000	16	26	49	7	after_c1	4550
+Letter Recognition	20000	16	26	49	7	after_c2	4550
+Letter Recognition	20000	16	26	50	8	total	4225
+Letter Recognition	20000	16	26	50	8	after_c1	4225
+Letter Recognition	20000	16	26	50	8	after_c2	4225
+Letter Recognition	20000	16	26	51	9	total	2925
+Letter Recognition	20000	16	26	51	9	after_c1	2925
+Letter Recognition	20000	16	26	51	9	after_c2	2925
+MNIST	70000	784	10	42	0	total	540
+MNIST	70000	784	10	42	0	after_c1	540
+MNIST	70000	784	10	42	0	after_c2	540
+MNIST	70000	784	10	43	1	total	495
+MNIST	70000	784	10	43	1	after_c1	495
+MNIST	70000	784	10	43	1	after_c2	495
+MNIST	70000	784	10	44	2	total	495
+MNIST	70000	784	10	44	2	after_c1	495
+MNIST	70000	784	10	44	2	after_c2	495
+MNIST	70000	784	10	45	3	total	540
+MNIST	70000	784	10	45	3	after_c1	540
+MNIST	70000	784	10	45	3	after_c2	540
+MNIST	70000	784	10	46	4	total	540
+MNIST	70000	784	10	46	4	after_c1	540
+MNIST	70000	784	10	46	4	after_c2	540
+MNIST	70000	784	10	47	5	total	450
+MNIST	70000	784	10	47	5	after_c1	450
+MNIST	70000	784	10	47	5	after_c2	450
+MNIST	70000	784	10	48	6	total	360
+MNIST	70000	784	10	48	6	after_c1	360
+MNIST	70000	784	10	48	6	after_c2	360
+MNIST	70000	784	10	49	7	total	540
+MNIST	70000	784	10	49	7	after_c1	540
+MNIST	70000	784	10	49	7	after_c2	540
+MNIST	70000	784	10	50	8	total	900
+MNIST	70000	784	10	50	8	after_c1	900
+MNIST	70000	784	10	50	8	after_c2	900
+MNIST	70000	784	10	51	9	total	360
+MNIST	70000	784	10	51	9	after_c1	360
+MNIST	70000	784	10	51	9	after_c2	360
+Santa	1437195	2	20	42	0	total	5130
+Santa	1437195	2	20	42	0	after_c1	5130
+Santa	1437195	2	20	42	0	after_c2	5130
+Santa	1437195	2	20	43	1	total	2850
+Santa	1437195	2	20	43	1	after_c1	2850
+Santa	1437195	2	20	43	1	after_c2	2850
+Santa	1437195	2	20	44	2	total	19000
+Santa	1437195	2	20	44	2	after_c1	19000
+Santa	1437195	2	20	44	2	after_c2	19000
+Santa	1437195	2	20	45	3	total	1520
+Santa	1437195	2	20	45	3	after_c1	1520
+Santa	1437195	2	20	45	3	after_c2	1520
+Santa	1437195	2	20	46	4	total	2090
+Santa	1437195	2	20	46	4	after_c1	2090
+Santa	1437195	2	20	46	4	after_c2	2090
+Santa	1437195	2	20	47	5	total	6840
+Santa	1437195	2	20	47	5	after_c1	6840
+Santa	1437195	2	20	47	5	after_c2	6840
+Santa	1437195	2	20	48	6	total	3420
+Santa	1437195	2	20	48	6	after_c1	3420
+Santa	1437195	2	20	48	6	after_c2	3420
+Santa	1437195	2	20	49	7	total	3420
+Santa	1437195	2	20	49	7	after_c1	3420
+Santa	1437195	2	20	49	7	after_c2	3420
+Santa	1437195	2	20	50	8	total	1520
+Santa	1437195	2	20	50	8	after_c1	1520
+Santa	1437195	2	20	50	8	after_c2	1520
+Santa	1437195	2	20	51	9	total	2470
+Santa	1437195	2	20	51	9	after_c1	2470
+Santa	1437195	2	20	51	9	after_c2	2470
+Sensorless Drive	58509	48	11	42	0	total	440
+Sensorless Drive	58509	48	11	42	0	after_c1	440
+Sensorless Drive	58509	48	11	42	0	after_c2	440
+Sensorless Drive	58509	48	11	43	1	total	330
+Sensorless Drive	58509	48	11	43	1	after_c1	330
+Sensorless Drive	58509	48	11	43	1	after_c2	330
+Sensorless Drive	58509	48	11	44	2	total	330
+Sensorless Drive	58509	48	11	44	2	after_c1	330
+Sensorless Drive	58509	48	11	44	2	after_c2	330
+Sensorless Drive	58509	48	11	45	3	total	385
+Sensorless Drive	58509	48	11	45	3	after_c1	385
+Sensorless Drive	58509	48	11	45	3	after_c2	385
+Sensorless Drive	58509	48	11	46	4	total	385
+Sensorless Drive	58509	48	11	46	4	after_c1	385
+Sensorless Drive	58509	48	11	46	4	after_c2	385
+Sensorless Drive	58509	48	11	47	5	total	440
+Sensorless Drive	58509	48	11	47	5	after_c1	440
+Sensorless Drive	58509	48	11	47	5	after_c2	440
+Sensorless Drive	58509	48	11	48	6	total	385
+Sensorless Drive	58509	48	11	48	6	after_c1	385
+Sensorless Drive	58509	48	11	48	6	after_c2	385
+Sensorless Drive	58509	48	11	49	7	total	440
+Sensorless Drive	58509	48	11	49	7	after_c1	440
+Sensorless Drive	58509	48	11	49	7	after_c2	440
+Sensorless Drive	58509	48	11	50	8	total	440
+Sensorless Drive	58509	48	11	50	8	after_c1	440
+Sensorless Drive	58509	48	11	50	8	after_c2	440
+Sensorless Drive	58509	48	11	51	9	total	495
+Sensorless Drive	58509	48	11	51	9	after_c1	495
+Sensorless Drive	58509	48	11	51	9	after_c2	495
+Shuttle	58000	7	7	42	0	total	126
+Shuttle	58000	7	7	42	0	after_c1	126
+Shuttle	58000	7	7	42	0	after_c2	126
+Shuttle	58000	7	7	43	1	total	147
+Shuttle	58000	7	7	43	1	after_c1	147
+Shuttle	58000	7	7	43	1	after_c2	147
+Shuttle	58000	7	7	44	2	total	126
+Shuttle	58000	7	7	44	2	after_c1	126
+Shuttle	58000	7	7	44	2	after_c2	126
+Shuttle	58000	7	7	45	3	total	126
+Shuttle	58000	7	7	45	3	after_c1	126
+Shuttle	58000	7	7	45	3	after_c2	126
+Shuttle	58000	7	7	46	4	total	126
+Shuttle	58000	7	7	46	4	after_c1	126
+Shuttle	58000	7	7	46	4	after_c2	126
+Shuttle	58000	7	7	47	5	total	168
+Shuttle	58000	7	7	47	5	after_c1	168
+Shuttle	58000	7	7	47	5	after_c2	168
+Shuttle	58000	7	7	48	6	total	147
+Shuttle	58000	7	7	48	6	after_c1	147
+Shuttle	58000	7	7	48	6	after_c2	147
+Shuttle	58000	7	7	49	7	total	126
+Shuttle	58000	7	7	49	7	after_c1	126
+Shuttle	58000	7	7	49	7	after_c2	126
+Shuttle	58000	7	7	50	8	total	126
+Shuttle	58000	7	7	50	8	after_c1	126
+Shuttle	58000	7	7	50	8	after_c2	126
+Shuttle	58000	7	7	51	9	total	126
+Shuttle	58000	7	7	51	9	after_c1	126
+Shuttle	58000	7	7	51	9	after_c2	126
+Worms2	105600	2	35	42	0	total	16065
+Worms2	105600	2	35	42	0	after_c1	16065
+Worms2	105600	2	35	42	0	after_c2	16065
+Worms2	105600	2	35	43	1	total	7140
+Worms2	105600	2	35	43	1	after_c1	7140
+Worms2	105600	2	35	43	1	after_c2	7140
+Worms2	105600	2	35	44	2	total	7735
+Worms2	105600	2	35	44	2	after_c1	7735
+Worms2	105600	2	35	44	2	after_c2	7735
+Worms2	105600	2	35	45	3	total	14280
+Worms2	105600	2	35	45	3	after_c1	14280
+Worms2	105600	2	35	45	3	after_c2	14280
+Worms2	105600	2	35	46	4	total	20230
+Worms2	105600	2	35	46	4	after_c1	20230
+Worms2	105600	2	35	46	4	after_c2	20230
+Worms2	105600	2	35	47	5	total	9520
+Worms2	105600	2	35	47	5	after_c1	9520
+Worms2	105600	2	35	47	5	after_c2	9520
+Worms2	105600	2	35	48	6	total	7735
+Worms2	105600	2	35	48	6	after_c1	7735
+Worms2	105600	2	35	48	6	after_c2	7735
+Worms2	105600	2	35	49	7	total	20230
+Worms2	105600	2	35	49	7	after_c1	20230
+Worms2	105600	2	35	49	7	after_c2	20230
+Worms2	105600	2	35	50	8	total	22610
+Worms2	105600	2	35	50	8	after_c1	22610
+Worms2	105600	2	35	50	8	after_c2	22610
+Worms2	105600	2	35	51	9	total	17255
+Worms2	105600	2	35	51	9	after_c1	17255
+Worms2	105600	2	35	51	9	after_c2	17255
+Worms64	105000	64	256	42	0	total	326400
+Worms64	105000	64	256	42	0	after_c1	326400
+Worms64	105000	64	256	42	0	after_c2	326400
+Worms64	105000	64	256	43	1	total	326400
+Worms64	105000	64	256	43	1	after_c1	326400
+Worms64	105000	64	256	43	1	after_c2	326400
+Worms64	105000	64	256	44	2	total	326400
+Worms64	105000	64	256	44	2	after_c1	326400
+Worms64	105000	64	256	44	2	after_c2	326400
+Worms64	105000	64	256	45	3	total	293760
+Worms64	105000	64	256	45	3	after_c1	293760
+Worms64	105000	64	256	45	3	after_c2	293760
+Worms64	105000	64	256	46	4	total	293760
+Worms64	105000	64	256	46	4	after_c1	293760
+Worms64	105000	64	256	46	4	after_c2	293760
+Worms64	105000	64	256	47	5	total	326400
+Worms64	105000	64	256	47	5	after_c1	326400
+Worms64	105000	64	256	47	5	after_c2	326400
+Worms64	105000	64	256	48	6	total	293760
+Worms64	105000	64	256	48	6	after_c1	293760
+Worms64	105000	64	256	48	6	after_c2	293760
+Worms64	105000	64	256	49	7	total	293760
+Worms64	105000	64	256	49	7	after_c1	293760
+Worms64	105000	64	256	49	7	after_c2	293760
+Worms64	105000	64	256	50	8	total	326400
+Worms64	105000	64	256	50	8	after_c1	326400
+Worms64	105000	64	256	50	8	after_c2	326400
+Worms64	105000	64	256	51	9	total	293760
+Worms64	105000	64	256	51	9	after_c1	293760
+Worms64	105000	64	256	51	9	after_c2	293760
